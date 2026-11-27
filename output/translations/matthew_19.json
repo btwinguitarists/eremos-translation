@@ -101,7 +101,7 @@
     "greek": "ὁ δὲ ἀποκριθεὶς εἶπεν·Οὐκ ἀνέγνωτε ὅτι ὁ κτίσας ἀπ’ἀρχῆς ἄρσεν καὶ θῆλυ ἐποίησεν αὐτοὺς",
     "bsb_english": "Jesus answered, “Have you not read that from the beginning the Creator ‘made them male and female,’",
     "translation": {
-      "thai": "พระองค์ทรงตอบว่า “พวกท่านไม่เคยอ่านหรือ? พระผู้ทรงสร้างได้ทรงสร้างพวกเขาตั้งแต่แรกเป็น ‘ชายและหญิง’",
+      "thai": "พระองค์ทรงตอบว่า “พวกท่านไม่เคยอ่านเรื่องพระผู้ทรงสร้างหรือว่า ตั้งแต่แรกนั้น ‘เป็นชายและเป็นหญิง พระองค์ทรงสร้างพวกเขา’",
       "thai_literal": "พระองค์ ทรงตอบ ตรัส ไม่ อ่าน ผู้สร้าง ตั้งแต่ต้น ชาย และ หญิง สร้าง พวกเขา",
       "thai_summary": "คำตอบของพระเยซูไม่ได้เริ่มจากเฉลยธรรมบัญญัติ 24 อย่างที่ฟาริสีคาดไว้ แต่ย้อนกลับไปสู่ปฐมกาล 1:27 ซึ่งมีฐานะเป็นข้อพระคัมภีร์ที่อาวุโสกว่าและเป็นคำบัญชาดั้งเดิมของพระเจ้าในการทรงสร้าง พระองค์ทรงตั้งคำถามเชิงตำหนิว่า “พวกท่านไม่เคยอ่านหรือ?” ซึ่งเป็นการท้าทายการเป็นครูสอนธรรมบัญญัติของฟาริสีโดยตรง",
       "key_decisions": [
@@ -117,13 +117,13 @@
         },
         {
           "greek": "ὁ κτίσας ἀπ’ἀρχῆς",
-          "thai": "พระผู้ทรงสร้างได้ทรงสร้างพวกเขาตั้งแต่แรก",
-          "rationale": "Per uW figs-explicit: ὁ κτίσας (the-One-who-created) refers to God — subject-referent made explicit in Thai 'พระผู้ทรงสร้าง' (the-Divine-Creator, royal-ทรง for God). 'ตั้งแต่แรก' (from-the-beginning) for ἀπ' ἀρχῆς. Per uW: ἀπ' ἀρχῆς refers to Gen-1-creation. Note TEXTUAL-VARIANT: some mss read ὁ ποιήσας (made) instead of ὁ κτίσας (created); SBLGNT follows older-readings ὁ κτίσας. NEW GLOSSARY: κτίζω → ทรงสร้าง."
+          "thai": "เรื่องพระผู้ทรงสร้าง…ตั้งแต่แรกนั้น",
+          "rationale": "ὁ κτίσας identifies the Creator as the subject of ἐποίησεν. Thai introduces พระผู้ทรงสร้าง before the quotation so that พระองค์ in the words of Genesis refers to the Creator. ตั้งแต่แรกนั้น gives ἀπ’ ἀρχῆς."
         },
         {
           "greek": "ἄρσεν καὶ θῆλυ ἐποίησεν αὐτοὺς",
-          "thai": "‘ชายและหญิง’",
-          "rationale": "Per uW writing-quotations: Jesus quotes Gen 1:27 LXX verbatim (ἄρσεν καὶ θῆλυ ἐποίησεν αὐτούς). Thai uses single-guillemets ‘...’ to mark the direct-quotation. ἄρσεν καὶ θῆλυ → ชายและหญิง (male-and-female — natural Thai, not biological-technical 'เพศชาย/เพศหญิง'). NEW GLOSSARY: ἄρσεν καὶ θῆλυ (Gen-1-quote) → ชายและหญิง."
+          "thai": "‘เป็นชายและเป็นหญิง พระองค์ทรงสร้างพวกเขา’",
+          "rationale": "Matthew repeats the closing clause of Greek Genesis 1:27. The Thai quotes the full closing line of the published Thai Genesis with both เป็นชาย and เป็นหญิง. Mark 10:6 quotes this same clause."
         }
       ],
       "notes": "NO HAPAX. LOW-FREQ: ἄρσην (9x NT), θῆλυς (5x NT). OT CITATION: Direct LXX quotation of Gen 1:27 'ἄρσεν καὶ θῆλυ ἐποίησεν αὐτούς' — Jesus bases his creation-order-for-marriage argument on the primary Gen-1 creation text. Matthew preserves LXX-form verbatim. Jesus's rhetorical strategy: go behind Deut 24 (the Pharisees' proof-text) to Gen 1-2 (the creational-precedent). This is standard Jewish-legal hermeneutic: older-text trumps later-concession. TEXTUAL NOTE: SBLGNT reads ὁ κτίσας (the-one-having-created); some Byzantine mss read ὁ ποιήσας (the-one-having-made) — synonymous but κτίσας is the older-and-rarer reading, hence more-likely-original. ADDED TO NT_OT_CITATIONS: MAT 19:4 citation GEN 1:27."
@@ -273,7 +273,7 @@
     "translation": {
       "thai": "เราบอกพวกท่านว่า ผู้ใดหย่าภรรยาของตน โดยไม่ใช่เหตุแห่งการประพฤติล่วงประเวณี แล้วไปแต่งงานกับหญิงอื่น ผู้นั้นก็ล่วงประเวณี และผู้ใดแต่งงานกับหญิงที่ถูกหย่าแล้ว ก็ล่วงประเวณีเช่นเดียวกัน”",
       "thai_literal": "กล่าว แต่ แก่พวกท่าน ผู้ใด ก็ตาม หย่า ภรรยา ของเขา ไม่ใช่ บน การล่วงประเวณี และ แต่งงาน อื่น ล่วงประเวณี และ ผู้แต่งงาน หญิงที่ถูกหย่า ล่วงประเวณี",
-      "thai_summary": "คำสอนของพระเยซูเกี่ยวกับการหย่าร้างมีข้อยกเว้นเพียงประการเดียวคือ “การประพฤติล่วงประเวณี” (ปอร์เนีย) ซึ่งครอบคลุมพฤติกรรมทางเพศที่ผิดในวงกว้าง พระองค์ทรงเข้มงวดกว่าทั้งสำนักฮิลเลลและสำนักชัมไม การหย่าร้างนอกเหตุนี้ถือเป็นการล่วงประเวณี เพราะคู่สมรสเดิมยังคงผูกพันกันตามการทรงสร้างของพระเจ้า ฉบับแปลของเรายืนตามต้นฉบับกรีก SBLGNT ที่รวมประโยคท้าย “ผู้ใดแต่งงานกับหญิงที่ถูกหย่าแล้วก็ล่วงประเวณี” ซึ่งต้นฉบับเก่าแก่ส่วนใหญ่มีข้อความนี้ไว้",
+      "thai_summary": "คำสอนของพระเยซูเกี่ยวกับการหย่าร้างมีข้อยกเว้นเพียงประการเดียวคือ “การประพฤติล่วงประเวณี” (ปอร์เนีย) ซึ่งครอบคลุมพฤติกรรมทางเพศที่ผิดในวงกว้าง พระองค์ทรงเข้มงวดกว่าทั้งสำนักฮิลเลลและสำนักชัมไม การหย่าร้างนอกเหตุนี้ถือเป็นการล่วงประเวณี เพราะคู่สมรสเดิมยังคงผูกพันกันตามการทรงสร้างของพระเจ้า ฉบับแปลของเรายืนตามต้นฉบับกรีก SBLGNT ที่รวมประโยคท้าย “ผู้ใดแต่งงานกับหญิงที่ถูกหย่าแล้วก็ล่วงประเวณี” ส่วนฉบับกรีก NA28 จบที่คำว่า “ผู้นั้นก็ล่วงประเวณี” ก่อนประโยคดังกล่าว",
       "key_decisions": [
         {
           "greek": "λέγω δὲ ὑμῖν ὅτι",
@@ -293,10 +293,10 @@
         {
           "greek": "καὶ ὁ ἀπολελυμένην γαμήσας μοιχᾶται",
           "thai": "และผู้ใดแต่งงานกับหญิงที่ถูกหย่าแล้ว ก็ล่วงประเวณีเช่นเดียวกัน",
-          "rationale": "Per glossary (Matt 5:32 ὃς ἐὰν ἀπολελυμένην γαμήσῃ μοιχᾶται → ผู้ใดแต่งงานกับหญิงที่ถูกหย่าแล้ว ผู้นั้นก็ล่วงประเวณี): matching 5:32-formulation. Per uW translate-textvariants + figs-activepassive: ἀπολελυμένην (passive-perfect-participle) 'a-divorced-woman' — Thai 'ที่ถูกหย่าแล้ว' (perfect-passive). TEXTUAL-VARIANT: SBLGNT + NA28 include this clause; some mss omit. Our translation includes per SBLGNT. 'เช่นเดียวกัน' (likewise) for clause-parallelism with preceding clause."
+          "rationale": "Per glossary (Matt 5:32 ὃς ἐὰν ἀπολελυμένην γαμήσῃ μοιχᾶται → ผู้ใดแต่งงานกับหญิงที่ถูกหย่าแล้ว ผู้นั้นก็ล่วงประเวณี): matching 5:32-formulation. Per uW translate-textvariants + figs-activepassive: ἀπολελυμένην (passive-perfect-participle) 'a-divorced-woman' — Thai 'ที่ถูกหย่าแล้ว' (perfect-passive). TEXTUAL-VARIANT: SBLGNT, Tregelles and Robinson–Pierpont include the final clause. Westcott–Hort and NA28 omit it. Our translation includes per SBLGNT. 'เช่นเดียวกัน' (likewise) for clause-parallelism with preceding clause."
         }
       ],
-      "notes": "NO HAPAX. LOW-FREQ: μοιχάομαι (5x NT, mostly Jesus-divorce-contexts). TEXTUAL-VARIANT: SBLGNT reads 'καὶ γαμήσῃ ἄλλην μοιχᾶται καὶ ὁ ἀπολελυμένην γαμήσας μοιχᾶται' (both clauses present); some mss (e.g., B, C, D, L) omit the final clause 'καὶ ὁ ἀπολελυμένην γαμήσας μοιχᾶται.' UBS5/NA28 include with {B} confidence. Mainstream evangelical-translations (BSB, ESV, NIV, CSB) vary — some keep both clauses, some drop the final clause as textually-weaker. Our translation follows SBLGNT inclusion (older-and-most-Byzantine-supported). THE 'EXCEPTION-CLAUSE' DEBATE: μὴ ἐπὶ πορνείᾳ (the 'except-for-sexual-immorality' clause) is unique to Matthew (19:9; also 5:32). Mark 10:11 and Luke 16:18 have NO exception. Three views: (1) Matthew added it for Jewish-Christian context (marriage-within-forbidden-degrees was a real issue); (2) The exception was Jesus-original but Mark/Luke's gentile-audiences dropped it; (3) 'πορνεία' here has narrow-meaning of 'unlawful-marriage' (Lev-18-incest) not 'adultery-during-marriage.' The evangelical-consensus preserves the exception-clause as authentically-Jesus while debating its precise scope. SYNOPTIC: Mark 10:11-12 (symmetric-gender, woman-also-can-divorce), Luke 16:18. Matthew 5:32 is the shorter-parallel within Matthew."
+      "notes": "NO HAPAX. LOW-FREQ: μοιχάομαι (5x NT, mostly Jesus-divorce-contexts). TEXTUAL-VARIANT: The SBLGNT includes a final clause saying that whoever marries a divorced woman commits adultery. Its apparatus lists Tregelles and Robinson–Pierpont for this reading. Westcott–Hort and NA28 end after the first μοιχᾶται. Eremos follows the SBLGNT main text. THE 'EXCEPTION-CLAUSE' DEBATE: μὴ ἐπὶ πορνείᾳ (the 'except-for-sexual-immorality' clause) is unique to Matthew (19:9; also 5:32). Mark 10:11 and Luke 16:18 have NO exception. Three views: (1) Matthew added it for Jewish-Christian context (marriage-within-forbidden-degrees was a real issue); (2) The exception was Jesus-original but Mark/Luke's gentile-audiences dropped it; (3) 'πορνεία' here has narrow-meaning of 'unlawful-marriage' (Lev-18-incest) not 'adultery-during-marriage.' The evangelical-consensus preserves the exception-clause as authentically-Jesus while debating its precise scope. SYNOPTIC: Mark 10:11-12 (symmetric-gender, woman-also-can-divorce), Luke 16:18. Matthew 5:32 is the shorter-parallel within Matthew."
     }
   },
   {
@@ -586,7 +586,7 @@
           "rationale": "Per glossary (Matt 15:19): matching. ψευδομαρτυρέω → เป็นพยานเท็จ. 9th-commandment Exod 20:16 / Deut 5:20. Closes the OT-citation-block with closing-guillemet ’."
         }
       ],
-      "notes": "NO HAPAX. LOW-FREQ: ψευδομαρτυρέω (5x NT). OT CITATION: Commandments 6-9 of Decalogue verbatim-LXX: Exod 20:13-16 LXX / Deut 5:17-20 LXX (numbering varies by tradition, but these are the four second-tablet-prohibitions against neighbor-harm). Matthew cites the four in CANONICAL Exod-order (murder, adultery, theft, false-witness). ADDED TO NT_OT_CITATIONS: MAT 19:18 composite_citation EXO 20:13-16 / DEU 5:17-20. SYNOPTIC: Mark 10:19 adds 'Do-not-defraud' (μὴ ἀποστερήσῃς) — not a Decalogue-commandment but from Deut 24:14 or Lev 19:13 re wages-of-hired-servant; Matthew omits this. Luke 18:20 follows Matthew-order (murder, adultery — but note: Luke-variant reverses to adultery-murder like Jas 2:11)."
+      "notes": "NO HAPAX. LOW-FREQ: ψευδομαρτυρέω (5x NT). OT CITATION: Commandments 6-9 of Decalogue (same four prohibition verbs as in Rahlfs LXX, in a different order and with the false-witness command shortened): Exod 20:13-16 LXX / Deut 5:17-20 LXX (numbering varies by tradition, but these are the four second-tablet-prohibitions against neighbor-harm). Matthew cites the four in CANONICAL Exod-order (murder, adultery, theft, false-witness). ADDED TO NT_OT_CITATIONS: MAT 19:18 composite_citation EXO 20:13-16 / DEU 5:17-20. SYNOPTIC: Mark 10:19 adds 'Do-not-defraud' (μὴ ἀποστερήσῃς) — not a Decalogue-commandment but from Deut 24:14 or Lev 19:13 re wages-of-hired-servant; Matthew omits this. Luke 18:20 places adultery before murder, like Jas 2:11. The order varies in Mark 10:19 (murder first in WH/NA28, adultery first in Treg/RP)."
     }
   },
   {
@@ -611,7 +611,7 @@
           "rationale": "Per glossary (Matt 5:43, 22:39 Ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν → จงรักเพื่อนบ้านเหมือนรักตนเอง): matching-established-rendering. Lev 19:18 LXX verbatim. Per uW figs-yousingular: singular-imperative, each-person-addressed-individually. Per uW figs-ellipsis + figs-simile: 'ὡς σεαυτόν' elliptical 'as-you-love-yourself' — Thai 'เหมือนรักตนเอง' supplies implicit 'love.' 'ของเจ้า' for σου (singular-possessive) matches intimate-imperative register."
         }
       ],
-      "notes": "NO HAPAX. OT CITATION (composite): (1) Exod 20:12 LXX / Deut 5:16 LXX 'Τίμα τὸν πατέρα σου καὶ τὴν μητέρα σου' — 5th commandment; Jesus drops the 'σου' possessive. (2) Lev 19:18 LXX 'ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν' — the summary-love-commandment Jesus will pair with Shema at Matt 22:37-40. MATTHEAN-ONLY ADDITION: Mark 10:19 lists only the commandments-against-neighbor (no 5th, no Lev-19:18); Luke 18:20 matches Mark. Matthew UNIQUELY ADDS the love-your-neighbor verse here, pre-echoing 22:37-40 and setting up the v.21-sell-all-and-give-to-poor test as a direct-neighbor-love check. ADDED TO NT_OT_CITATIONS: MAT 19:19 composite_citation EXO 20:12 + LEV 19:18."
+      "notes": "NO HAPAX. OT CITATION (composite): (1) Exod 20:12 LXX / Deut 5:16 LXX 'Τίμα τὸν πατέρα σου καὶ τὴν μητέρα σου' — 5th commandment; Jesus drops the 'σου' possessive. (2) Lev 19:18 LXX 'ἀγαπήσεις τὸν πλησίον σου ὡς σεαυτόν' — the summary-love-commandment Jesus will pair with Shema at Matt 22:37-40. MATTHEAN-ONLY ADDITION: Mark 10:19 and Luke 18:20 both include the 5th commandment and omit Lev 19:18. Luke also omits Mark’s ‘Do-not-defraud’. Matthew UNIQUELY ADDS the love-your-neighbor verse here, pre-echoing 22:37-40 and setting up the v.21-sell-all-and-give-to-poor test as a direct-neighbor-love check. ADDED TO NT_OT_CITATIONS: MAT 19:19 composite_citation EXO 20:12 + LEV 19:18."
     }
   },
   {
@@ -918,7 +918,7 @@
         {
           "greek": "οἰκίας ἢ ἀδελφοὺς ἢ ἀδελφὰς ἢ πατέρα ἢ μητέρα ἢ γυναῖκα ἢ τέκνα ἢ ἀγροὺς",
           "thai": "บ้านเรือน พี่น้องชายหญิง บิดามารดา ภรรยา บุตร หรือไร่นา",
-          "rationale": "Thai compresses-list-naturally: Greek pairs ἀδελφοί/ἀδελφαί → Thai 'พี่น้องชายหญิง' (brothers-and-sisters); πατέρα/μητέρα → 'บิดามารดา' (paired); γυναῖκα → ภรรยา; τέκνα → บุตร; ἀγροί → ไร่นา; οἰκίας → บ้านเรือน. TEXTUAL-VARIANT: SBLGNT + NA28 include 'ἢ γυναῖκα'; some mss (e.g., B) omit. Our translation includes per SBLGNT. Per glossary: established renderings — ἀδελφός → พี่น้อง; ἀδελφή → พี่น้องหญิง (here paired); τέκνον → บุตร; ἀγρός → ไร่นา. NEW GLOSSARY: οἰκία (disciples-leave-context) → บ้านเรือน; ἀδελφή → พี่น้องหญิง (new-standalone); ἀγρός → ไร่นา."
+          "rationale": "Thai compresses-list-naturally: Greek pairs ἀδελφοί/ἀδελφαί → Thai 'พี่น้องชายหญิง' (brothers-and-sisters); πατέρα/μητέρα → 'บิดามารดา' (paired); γυναῖκα → ภรรยา; τέκνα → บุตร; ἀγροί → ไร่นา; οἰκίας → บ้านเรือน. The selected Greek includes γυναῖκα, rendered ภรรยา. NA28 omits it. Per glossary: established renderings — ἀδελφός → พี่น้อง; ἀδελφή → พี่น้องหญิง (here paired); τέκνον → บุตร; ἀγρός → ไร่นา. NEW GLOSSARY: οἰκία (disciples-leave-context) → บ้านเรือน; ἀδελφή → พี่น้องหญิง (new-standalone); ἀγρός → ไร่นา."
         },
         {
           "greek": "ἕνεκεν τοῦ ὀνόματός μου",
@@ -936,7 +936,7 @@
           "rationale": "Per uW figs-metaphor: κληρονομέω = 'inherit-as-heir.' Per glossary: ζωὴν αἰώνιον → ชีวิตนิรันดร์ (established). Thai 'รับ...เป็นมรดก' (receive-as-inheritance) preserves the inheritance-metaphor that the young-man's question about receiving eternal-life asked about (v.16). FULL-CIRCLE: the-young-man sought ζωὴν-αἰώνιον but was unwilling-to-sacrifice; the-disciples sacrificed and WILL-INHERIT ζωὴν-αἰώνιον. NEW GLOSSARY: κληρονομέω → รับเป็นมรดก."
         }
       ],
-      "notes": "NO HAPAX. LOW-FREQ: ἑκατονταπλασίων (3x NT, all synoptic-parallels). TEXTUAL-VARIANT: The phrase 'ἢ γυναῖκα' (or-wife) is present in SBLGNT + NA28 + most-Byzantine-mss; some ancient-mss (B, D) omit. Scholarly-reason: Matthew's inclusion of wife-as-sacrificeable MAY have been considered offensive-by-copyists who thought sacrificing-a-wife violated Paul's teaching (1 Cor 7:11, no-divorce). UBS/NA rates this decision {C} — moderate-uncertainty. Mainstream-English-translations vary: NIV, ESV, NASB, CSB include 'or-wife'; some older-KJV-based omit. We follow SBLGNT. ECHO of RICH-YOUNG-RULER: The young-man sought ζωὴν-αἰώνιον and refused-to-leave his possessions; Jesus here promises ζωὴν-αἰώνιον to those who HAVE-LEFT all. The inversion is deliberate — Matthew's editorial-structure makes v.29 the answer v.21 demanded. SYNOPTIC: Mark 10:29-30 (expanded with 'with-persecutions, in-the-present-age, in-the-age-to-come'), Luke 18:29-30 (truncated)."
+      "notes": "NO HAPAX. LOW-FREQ: ἑκατονταπλασίων (3x NT, all synoptic-parallels). Eremos includes ภรรยา because SBLGNT includes γυναῖκα. Robinson–Pierpont also includes it. Westcott–Hort, Tregelles and NA28 omit it. ECHO of RICH-YOUNG-RULER: The young-man sought ζωὴν-αἰώνιον and refused-to-leave his possessions; Jesus here promises ζωὴν-αἰώνιον to those who HAVE-LEFT all. The inversion is deliberate — Matthew's editorial-structure makes v.29 the answer v.21 demanded. SYNOPTIC: Mark 10:29-30 (expanded with 'with-persecutions, in-the-present-age, in-the-age-to-come'), Luke 18:29-30 (truncated)."
     }
   },
   {

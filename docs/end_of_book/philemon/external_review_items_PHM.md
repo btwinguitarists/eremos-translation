@@ -1,5 +1,7 @@
 ## Item A — πρεσβύτης lexical default vs minority πρεσβευτής variant (PHM 1:9)
 
+**Editorial clarification, 27 November 2026.** At Philemon 1:9, the SBLGNT reads πρεσβύτης (“an old man”). The NET note attributes πρεσβευτής (“ambassador”) to Bentley as a conjecture. The witness claim in the earlier discussion below has been withdrawn. Eremos retains ผู้สูงอายุ. [NET note on Philemon 1:9](https://www.biblegateway.com/passage/?search=Philemon%201%3A9&version=NET)
+
 **The text in question.** PHM 1:9 in SBLGNT reads:
 
 > διὰ τὴν ἀγάπην μᾶλλον παρακαλῶ, τοιοῦτος ὢν ὡς Παῦλος **πρεσβύτης** νυνὶ δὲ καὶ δέσμιος Χριστοῦ Ἰησοῦ

@@ -410,7 +410,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**10** และพระองค์ทรงทำให้พวกเขาเป็นราชอาณาจักรและปุโรหิตเพื่อพระเจ้าของเรา และพวกเขาจะปกครองบนแผ่นดินโลก”
+**10** และพระองค์ทรงทำให้พวกเขาเป็นราชอาณาจักรและปุโรหิตเพื่อพระเจ้าของเรา และพวกเขาปกครองบนแผ่นดินโลก”
 
 > ___
 
@@ -566,7 +566,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**16** พวกเขาจะไม่หิวอีกต่อไป และจะไม่กระหายอีกต่อไป และดวงอาทิตย์จะไม่ทำร้ายพวกเขา หรือความร้อนใด ๆ
+**16** พวกเขาจะไม่หิวอีกต่อไป และจะไม่กระหายอีกต่อไป ทั้งดวงอาทิตย์และความร้อนใด ๆ จะไม่ทำร้ายพวกเขา
 
 > ___
 
@@ -634,7 +634,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 ## บทที่ 9
 
-**1** และทูตสวรรค์ตนที่ห้าได้เป่าแตร และข้าพเจ้าได้เห็นดาวดวงหนึ่งที่ตกจากสวรรค์ลงบนแผ่นดินโลก และเขาได้รับกุญแจของขุมเหวเหวลึก
+**1** และทูตสวรรค์ตนที่ห้าได้เป่าแตร และข้าพเจ้าได้เห็นดาวดวงหนึ่งที่ตกจากสวรรค์ลงบนแผ่นดินโลก และเขาได้รับกุญแจของขุมเหวลึก
 
 > ___
 
@@ -906,7 +906,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**15** และงูนั้นได้พ่นน้ำจากปากของมันออกมา ตามหญิงไปดุจแม่น้ำ เพื่อจะให้กระแสน้ำพัดพานางไป
+**15** และงูนั้นได้พ่นน้ำดุจแม่น้ำออกจากปากของมันตามหญิงไป เพื่อจะให้กระแสน้ำพัดพานางไป
 
 > ___
 
@@ -914,7 +914,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**17** และมังกรนั้นโกรธหญิงนั้น และไปทำสงครามกับเชื้อสายที่เหลือของนาง คือผู้ที่รักษาพระบัญญัติของพระเจ้า และยึดมั่นในคำพยานของพระเยซู
+**17** และมังกรนั้นโกรธหญิงนั้น และไปทำสงครามกับเชื้อสายที่เหลือของนาง คือผู้ที่รักษาพระบัญญัติของพระเจ้า และยึดมั่นในคำพยานของพระเยซู และมังกรยืนอยู่บนทรายของทะเล
 
 > ___
 
@@ -922,7 +922,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 ## บทที่ 13
 
-**1** และมังกรยืนอยู่บนทรายของทะเล และข้าพเจ้าได้เห็นสัตว์ร้ายตัวหนึ่งขึ้นมาจากทะเล มีเขาสิบเขาและหัวเจ็ดหัว และบนเขาของมันมีมงกุฎสิบอัน และบนหัวของมันมีชื่อที่เป็นการดูหมิ่นพระเจ้า
+**1** และข้าพเจ้าได้เห็นสัตว์ร้ายตัวหนึ่งขึ้นมาจากทะเล มีเขาสิบเขาและหัวเจ็ดหัว และบนเขาของมันมีมงกุฎสิบอัน และบนหัวของมันมีชื่อที่เป็นการดูหมิ่นพระเจ้า
 
 > ___
 
@@ -1006,7 +1006,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**3** และพวกเขาร้องเพลงใหม่ต่อหน้าพระบัลลังก์ ต่อหน้าสิ่งมีชีวิตทั้งสี่ และต่อหน้าผู้อาวุโสทั้งหลาย และไม่มีใครสามารถเรียนรู้เพลงนั้นได้ เว้นแต่หนึ่งแสนสี่หมื่นสี่พันคน คือผู้ที่ทรงไถ่ไว้จากแผ่นดินโลก
+**3** และพวกเขาร้องเพลงที่ฟังคล้ายเพลงใหม่ต่อหน้าพระบัลลังก์ ต่อหน้าสิ่งมีชีวิตทั้งสี่ และต่อหน้าผู้อาวุโสทั้งหลาย และไม่มีใครสามารถเรียนรู้เพลงนั้นได้ เว้นแต่หนึ่งแสนสี่หมื่นสี่พันคน คือผู้ที่ทรงไถ่ไว้จากแผ่นดินโลก
 
 > ___
 
@@ -1026,7 +1026,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**8** และทูตสวรรค์ตนที่สองได้ตามมา กล่าวว่า “บาบิโลนใหญ่ได้ล่มแล้ว ได้ล่มแล้ว ผู้ที่ได้ทำให้ประชาชาติทั้งสิ้นดื่มเหล้าองุ่นแห่งความรุนแรงของการล่วงประเวณีของนาง”
+**8** และทูตสวรรค์ตนที่สองได้ตามมา กล่าวว่า “บาบิโลนใหญ่ได้ล่มแล้ว ได้ล่มแล้ว ผู้ที่ได้ทำให้ประชาชาติทั้งสิ้นดื่มเหล้าองุ่นแห่งกิเลสตัณหาในการล่วงประเวณีของนาง”
 
 > ___
 
@@ -1046,7 +1046,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**13** และข้าพเจ้าได้ยินเสียงจากสวรรค์กล่าวว่า “จงเขียนว่า ‘ความสุขมีแก่บรรดาคนตาย ผู้ที่ตายในองค์พระผู้เป็นเจ้าตั้งแต่บัดนี้เป็นต้นไป’ ใช่” พระวิญญาณตรัส “เพื่อพวกเขาจะได้พักจากความตรากตรำของพวกเขา เพราะการกระทำของพวกเขาจะติดตามพวกเขาไป”
+**13** และข้าพเจ้าได้ยินเสียงจากสวรรค์กล่าวว่า “จงเขียนว่า ‘ความสุขมีแก่บรรดาคนตาย ผู้ที่ตายในองค์พระผู้เป็นเจ้าตั้งแต่บัดนี้เป็นต้นไป’” “ใช่” พระวิญญาณตรัส “เพื่อพวกเขาจะได้พักจากความตรากตรำของพวกเขา เพราะการกระทำของพวกเขาจะติดตามพวกเขาไป”
 
 > ___
 
@@ -1142,7 +1142,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**7** และข้าพเจ้าได้ยินเสียงจากแท่นบูชากล่าวว่า “แน่นอน องค์พระผู้เป็นเจ้าพระเจ้า ผู้ทรงฤทธานุภาพยิ่งใหญ่ การพิพากษาของพระองค์จริงแท้และชอบธรรม”
+**7** และข้าพเจ้าได้ยินแท่นบูชากล่าวว่า “แน่นอน องค์พระผู้เป็นเจ้าพระเจ้า ผู้ทรงฤทธานุภาพยิ่งใหญ่ การพิพากษาของพระองค์จริงแท้และชอบธรรม”
 
 > ___
 
@@ -1182,7 +1182,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**17** ทูตตนที่เจ็ดได้เทชามของตนลงในอากาศ และมีเสียงดังออกมาจากวิหารซึ่งมาจากพระบัลลังก์ กล่าวว่า “สำเร็จแล้ว”
+**17** ทูตตนที่เจ็ดได้เทชามของตนลงในอากาศ และมีเสียงดังออกมาจากพระบัลลังก์ในวิหาร กล่าวว่า “สำเร็จแล้ว”
 
 > ___
 
@@ -1238,7 +1238,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**9** ที่นี่ต้องใช้ความคิดที่มีปัญญา หัวทั้งเจ็ดนั้นคือภูเขาเจ็ดลูก ซึ่งหญิงคนนั้นนั่งอยู่บน และยังเป็นกษัตริย์เจ็ดองค์
+**9** ที่นี่ต้องใช้ความคิดที่มีปัญญา หัวทั้งเจ็ดนั้นคือภูเขาเจ็ดลูกที่หญิงคนนั้นนั่งอยู่ และยังเป็นกษัตริย์เจ็ดองค์
 
 > ___
 
@@ -1330,7 +1330,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**13** อบเชย เครื่องเทศ เครื่องหอม น้ำหอม กำยาน เหล้าองุ่น น้ำมันมะกอก แป้งสาลีละเอียด ข้าวสาลี วัวควาย แกะ ม้า รถม้า ทาส และจิตวิญญาณของมนุษย์
+**13** อบเชย เครื่องเทศ เครื่องหอม น้ำหอม กำยาน เหล้าองุ่น น้ำมันมะกอก แป้งสาลีละเอียด ข้าวสาลี วัวควาย แกะ ม้า รถม้า ทาส และชีวิตมนุษย์
 
 > ___
 
@@ -1458,7 +1458,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**20** แต่สัตว์ร้ายก็ถูกจับ และกับมันก็มีผู้เผยพระวจนะเท็จ ผู้ที่ได้ทำหมายสำคัญต่อหน้าสัตว์ร้าย ซึ่งใช้หมายสำคัญเหล่านั้นล่อลวงคนที่ได้รับเครื่องหมายของสัตว์ร้าย และคนที่กราบไหว้รูปจำลองของมัน ทั้งสองตนก็ถูกโยนทั้งเป็นลงในบึงไฟที่ลุกไหม้ด้วยกำมะถัน
+**20** แต่สัตว์ร้ายถูกจับพร้อมกับผู้เผยพระวจนะเท็จ ผู้ที่ได้ทำหมายสำคัญต่อหน้าสัตว์ร้าย ซึ่งใช้หมายสำคัญเหล่านั้นล่อลวงคนที่ได้รับเครื่องหมายของสัตว์ร้าย และคนที่กราบไหว้รูปจำลองของมัน ทั้งสองตนก็ถูกโยนทั้งเป็นลงในบึงไฟที่ลุกไหม้ด้วยกำมะถัน
 
 > ___
 
@@ -1478,7 +1478,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**3** และโยนมันลงในบ่อลึกที่ไม่มีก้น แล้วปิดและประทับตราเหนือมันไว้ เพื่อมันจะไม่หลอกลวงประชาชาติทั้งหลายอีก จนกว่าพันปีนั้นจะสำเร็จ หลังจากนั้น จำเป็นต้องปล่อยมันไปชั่วระยะเวลาหนึ่ง
+**3** และโยนมันลงในบ่อลึกที่ไม่มีก้น แล้วปิดและประทับตราเหนือมันไว้ เพื่อมันจะไม่หลอกลวงประชาชาติทั้งหลายอีก จนกว่าพันปีนั้นจะสำเร็จ หลังจากนั้น จำเป็นต้องปล่อยมันไปเป็นเวลาสั้น ๆ
 
 > ___
 
@@ -1666,7 +1666,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**6** และทูตสวรรค์กล่าวกับข้าพเจ้าว่า “ถ้อยคำเหล่านี้สัตย์ซื่อและจริงแท้ และองค์พระผู้เป็นเจ้าพระเจ้าแห่งวิญญาณของผู้เผยพระวจนะทั้งหลาย ได้ทรงใช้ทูตสวรรค์ของพระองค์มาแสดงแก่บรรดาผู้รับใช้ของพระองค์ ถึงสิ่งที่จะต้องเกิดขึ้นในไม่ช้า
+**6** และทูตสวรรค์กล่าวกับข้าพเจ้าว่า “ถ้อยคำเหล่านี้สัตย์ซื่อและจริงแท้ และองค์พระผู้เป็นเจ้าพระเจ้าแห่งวิญญาณของผู้เผยพระวจนะทั้งหลาย ได้ทรงใช้ทูตสวรรค์ของพระองค์มาแสดงแก่บรรดาผู้รับใช้ของพระองค์ ถึงสิ่งที่จะต้องเกิดขึ้นในไม่ช้า”
 
 > ___
 
@@ -1710,7 +1710,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**17** และพระวิญญาณกับเจ้าสาวกล่าวว่า “จงมาเถิด” และผู้ที่ได้ยินก็กล่าวว่า “จงมาเถิด” และผู้ที่กระหายก็จงมา ผู้ที่ปรารถนาก็จงรับน้ำที่ให้ชีวิตโดยไม่คิดมูลค่า
+**17** และพระวิญญาณกับเจ้าสาวกล่าวว่า “จงมาเถิด” และผู้ที่ได้ยินก็จงกล่าวว่า “จงมาเถิด” และผู้ที่กระหายก็จงมา ผู้ที่ปรารถนาก็จงรับน้ำที่ให้ชีวิตโดยไม่คิดมูลค่า
 
 > ___
 
@@ -1726,7 +1726,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**21** ขอพระคุณของพระเยซูคริสต์เจ้าจงสถิตอยู่กับทุกคนเถิด
+**21** ขอพระคุณของพระเยซูเจ้าจงสถิตอยู่กับทุกคนเถิด
 
 > ___
 
@@ -1738,26 +1738,26 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/revelation_01.json` | `127a68402ed9a21dc87af1c5e7f08e242ac1524e22a3ade7be05717dfba28407` |
-| `output/translations/revelation_02.json` | `34c04ab7f8f52da24ef41ecddb52da127a965e13527f8ba1dd5253ecbce66f81` |
-| `output/translations/revelation_03.json` | `de1168bc82ddca79007fe137336e96916b34e4df50e98db433f047abca2b926a` |
-| `output/translations/revelation_04.json` | `78d0b639a8d1a6097e2811b34b82cb796e28a508c525e0f9ce45bbd5a730eeda` |
-| `output/translations/revelation_05.json` | `0f7e978c2bedab8c2e506a5ad906b350cdb2f6b002d64ac428696ece6c608ea7` |
-| `output/translations/revelation_06.json` | `ecc7021c3e2cc980cc4db2d20d2f34f829e080d0257ed0dc0915fb57c2455691` |
-| `output/translations/revelation_07.json` | `ca7074b2ee41a39ad95b5f0636136bc4fd69bc81da45e6385f01e4f2f6d964f8` |
-| `output/translations/revelation_08.json` | `c4268e45a1545725d7919495c46dc2764be36fc5cbd07755d0ed493fe273ff5c` |
-| `output/translations/revelation_09.json` | `98be706601dac42ee33afb4da7e89aafcc809a13eef60924263b4fc0f381d838` |
-| `output/translations/revelation_10.json` | `7b1872128e8f445d507f68cfc66cae42e3010a6050bb9def8c79592560298971` |
-| `output/translations/revelation_11.json` | `16266ff631d04b498739c0c6600fb3f51a73b3366eacfd53002e9233be05d2f0` |
-| `output/translations/revelation_12.json` | `d8ff31e9835e130c179c53da0f4871efeb28e809d1a734b282deacb7036ecc32` |
-| `output/translations/revelation_13.json` | `ec4dad9ee1201d12ccfc99138460beb96878edde1647c013c014f75a62ca18c9` |
-| `output/translations/revelation_14.json` | `259f7c0b679ed3b71734a855d58f5027205e2ec4e8a67bd2f60bd7884586ee38` |
-| `output/translations/revelation_15.json` | `e061f14ae65e905169cacff841b2b7480130623c4a126c4ad219ee09658925f6` |
-| `output/translations/revelation_16.json` | `348d0d42ebc5914b63538013fc51d4734b1d3439b145cacb5b991b3285851484` |
-| `output/translations/revelation_17.json` | `7b304e17a908d59d47f23ff95b88c8244a4fc1bd979a55fd6dc97e6ae7a34c6c` |
-| `output/translations/revelation_18.json` | `23b38341591e4140523e9b92d9475fe548cba3dd4cd7df47590b3cb50d79cae7` |
-| `output/translations/revelation_19.json` | `436c1a1cac3ff62505f21e93e74cbde61e9de1692ae33f63150e906e419267df` |
-| `output/translations/revelation_20.json` | `0600d346ec939413358a3de1f7598c31b6d735595177d764ea788ba11e2959d9` |
-| `output/translations/revelation_21.json` | `15a9e81ba5a17a6c3e0c31574fefc37960ab7be51a7070b214915683cb1eda56` |
-| `output/translations/revelation_22.json` | `981b8e5b169aec801ab134a85969c2764784c2e16042997c400c11989b4fa262` |
+| `output/translations/revelation_01.json` | `23c556483a074fb98a5f569d40fbbf3c799536caab6072860ed3e9ff6c1d91ab` |
+| `output/translations/revelation_02.json` | `6bbd8cf1a7fe8488af5a80c5e735b9c2e2d61839fd5a4f30c638abd780bf6976` |
+| `output/translations/revelation_03.json` | `9a506f95e9478fa4a1a112d275b47bc57a31bc5d3aa1d0dc3841abf1d37ca482` |
+| `output/translations/revelation_04.json` | `41b6c2cb4fec6c763e4f6d07c91c8ee8d52876862d8040b20b4036a061882abc` |
+| `output/translations/revelation_05.json` | `edb2bf1b217070dda21071687ce571960d56bffbda0d7074e4dec667cf8e1a73` |
+| `output/translations/revelation_06.json` | `317a6c22cdd3210140e0164b0ac48495f89272efea45922798f7b407f1bedd0b` |
+| `output/translations/revelation_07.json` | `d7e4ddc9ae824bff2155481cc107d7b696eb5ec7cb037be2c6704b5e71984a60` |
+| `output/translations/revelation_08.json` | `00e9b7ae315aca39c2df1ef0ee89d46a80e9f6d8d35b1f645ea6e34c92a750d3` |
+| `output/translations/revelation_09.json` | `46a863c1ef3a213dc87e9d29777c50e496ab3058bf0b2e37598621537eddf0fa` |
+| `output/translations/revelation_10.json` | `628eb3f0341b94af10259a14a4921c4ff99a04d52c8b739adb5552b99b86966a` |
+| `output/translations/revelation_11.json` | `5a462509073406b9ebf025734d4ec0875a55899be68bb25eb46bc924b68b7671` |
+| `output/translations/revelation_12.json` | `c5d3c62e73e90a16009098919d94a25143104d124f2071e55e42ae68edc16f0d` |
+| `output/translations/revelation_13.json` | `91ddf5a573c4d9b5e08749489a06357b440824e44e0981a3a0e38500109c3965` |
+| `output/translations/revelation_14.json` | `d27c1eb39ae67adc146e6a7b0964bf65436a460cf0d08593f0fb941d6e65eaf8` |
+| `output/translations/revelation_15.json` | `83514d00b08a603488c583efe567f68fb67f9a4cf149ff9a380e058f09c8a743` |
+| `output/translations/revelation_16.json` | `416b82e2eed43556a95ab72544ce7e15c69ffd60c5267c3831f8b9627dacfd46` |
+| `output/translations/revelation_17.json` | `0e0859bf2b7e7567d52bea41406695ed92f688ce1fb4b891d54f401c5e15c464` |
+| `output/translations/revelation_18.json` | `e30dac1da7ab620c09d1012a13f55e888b5b0fabe87caad2a1f5e80a439e5f63` |
+| `output/translations/revelation_19.json` | `b386ea76a5bda7224c8d53c4615d5bb3b474442789740383eefc9c77911eac0f` |
+| `output/translations/revelation_20.json` | `86421297a6065d34acf71722093e5b40a3e23d0b6e725e70bfa5ee6aa37930c6` |
+| `output/translations/revelation_21.json` | `33eef5950067126ab15eb857fad419b8028d2508c142462b9c0bef27a470921b` |
+| `output/translations/revelation_22.json` | `ca8caa1c66429f479057cf5171f49389eafe8ddf9a315798bda89b6de77c39e1` |
 

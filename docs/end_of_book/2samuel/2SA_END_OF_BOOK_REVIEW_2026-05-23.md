@@ -1,5 +1,10 @@
 # 2 Samuel — End-of-Book Review
 
+**Editorial clarification, 27 November 2026.**
+
+- **2 Samuel 6:7.** The narrative describes God’s anger with ความโกรธขององค์พระผู้เป็นเจ้าก็พลุ่งขึ้น and the ensuing action with พระเจ้าตีเขาที่นั่น.
+- **2 Samuel 14:19 and 15:21.** The woman of Tekoa swears by the king’s life in 14:19. Ittai invokes both the LORD’s life and the king’s life in 15:21.
+
 **Date:** 2026-05-23
 **Scope:** All 24 chapters of 2 Samuel (695 verses); `glossary.json`; `docs/translator_decisions/` corpus (~95 docs through the 1SA end-of-book audit).
 **Trigger:** 2SA 24 shipped (commit `26b7618`); per `docs/END_OF_BOOK_CHECKLIST.md`. **Tenth OT book in the corpus** (after Ruth, Jonah, Genesis, Exodus, Numbers, Deuteronomy, Joshua, Judges, 1 Samuel) and the **fourth Former-Prophets / Deuteronomistic-History book**. 2 Samuel is the **direct narrative continuation of 1 Samuel** and the first downstream test of several items the 1SA audit explicitly forward-deferred to this book: the Adonai-YHWH compound prayer cluster (2 Sam 7:18–29), the Spirit-of-YHWH lock at 23:2, the divine-mal'akh narrative at ch 24, and the nicham relenting at 24:16.

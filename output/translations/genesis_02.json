@@ -14,7 +14,7 @@
         {
           "hebrew": "וַיְכֻלּוּ",
           "thai": "ก็ทรงสำเร็จแล้ว",
-          "rationale": "כָּלָה (Pual: 'be completed, finished'). The Pual passive form has no overt subject — God's creative work is the implied agent. Per OT register policy §1.1: divine-passive can take ทรง- when the implied subject is God. Render 'ทรงสำเร็จแล้ว' (was-completed-by-divine-agency). Thai 'ทรง' is grammatically attached to the divine-implied-agent. The verse forms the closing-bracket of the Gen 1 creation-narrative."
+          "rationale": "כָּלָה (Pual: 'be completed, finished'). The Pual passive form has an overt subject — the heavens, the earth, and all their host. The clause leaves the agent unexpressed. Per OT register policy §1.1: divine-passive can take ทรง- when the implied subject is God. Render 'ทรงสำเร็จแล้ว' (was-completed-by-divine-agency). Thai 'ทรง' is grammatically attached to the divine-implied-agent. The verse forms the closing-bracket of the Gen 1 creation-narrative."
         },
         {
           "hebrew": "וְכָל־צְבָאָם",
@@ -35,7 +35,7 @@
     "translation": {
       "thai": "ในวันที่เจ็ดพระเจ้าทรงทำงานที่พระองค์ทรงกระทำให้สำเร็จ และในวันที่เจ็ดพระองค์ทรงพักจากบรรดางานที่ทรงกระทำ",
       "thai_literal": "และพระเจ้าทรงทำให้สำเร็จในวันที่เจ็ด ซึ่งงานของพระองค์ที่ทรงทำ และทรงพักในวันที่เจ็ดจากบรรดางานของพระองค์ที่ทรงทำ",
-      "thai_summary": "ข้อนี้แนะนำหลักการของวันสะบาโต (วันพักผ่อน) แม้ว่าคำว่า “สะบาโต” (שַׁבָּת) จะยังไม่ปรากฏเป็นคำนามจนถึง อพยพ 16:23 แต่กริยา שָׁבַת (“หยุดพัก”) ที่เป็นรากของคำนี้ปรากฏที่นี่ การพักของพระเจ้าไม่ได้หมายความว่าพระองค์ทรงเหน็ดเหนื่อย — แต่เป็นการประกาศการสิ้นสุดของการทรงสร้างและสถาปนาจังหวะหกวันทำงาน-หนึ่งวันพักเป็นแบบแผนของจักรวาล ที่ฝังอยู่ในธรรมชาติของกาลเวลาตั้งแต่ก่อนการให้บัญญัติแห่งโมเสส บัญญัติสิบประการที่ ชโบดาห์ 20:11 จะอ้างถึงรากฐานนี้",
+      "thai_summary": "ข้อนี้แนะนำหลักการของวันสะบาโต (วันพักผ่อน) แม้ว่าคำว่า “สะบาโต” (שַׁבָּת) จะยังไม่ปรากฏเป็นคำนามจนถึง อพยพ 16:23 แต่กริยา שָׁבַת (“หยุดพัก”) ที่เป็นรากของคำนี้ปรากฏที่นี่ การพักของพระเจ้าไม่ได้หมายความว่าพระองค์ทรงเหน็ดเหนื่อย — แต่เป็นการประกาศการสิ้นสุดของการทรงสร้างและสถาปนาจังหวะหกวันทำงาน-หนึ่งวันพักเป็นแบบแผนของจักรวาล ที่ฝังอยู่ในธรรมชาติของกาลเวลาตั้งแต่ก่อนการให้บัญญัติแห่งโมเสส บัญญัติสิบประการที่ อพยพ 20:11 จะอ้างถึงรากฐานนี้",
       "key_decisions": [
         {
           "hebrew": "וַיְכַל אֱלֹהִים בַּיּוֹם הַשְּׁבִיעִי",
@@ -120,7 +120,7 @@
           "rationale": "Note the **REVERSED ORDER** vs Gen 1:1 ('heavens and earth'). Hebrew rhetorical inversion: ch.1 starts cosmic-down (heavens-then-earth, the divine view from above); 2:4b reverses to earth-then-heavens (the human view from below). This signals the narrative shift from cosmic-creation (ch.1) to anthropocentric-Eden-narrative (ch.2). Preserve the inversion in Thai — render 'แผ่นดินโลกและฟ้าสวรรค์' (earth-then-heavens) at this verse, distinct from 1:1's 'ฟ้าสวรรค์และแผ่นดินโลก.' This is a deliberate translation-choice; documented for editorial-review."
         }
       ],
-      "notes": "**TWO THEOLOGICAL FIRSTS:** (1) the first יהוה (Tetragrammaton) in the Bible — God's covenantal-personal-name introduced; (2) the first toledoth-formula — structurally divides Genesis into 10 generations-units. **YHWH-ELOHIM COMPOUND:** the 20-occurrences of יהוה אֱלֹהִים in Gen 2-3 are unique in the Bible — never recur after the Eden narrative. Theologically: the cosmic-Creator (Elohim of ch.1) and the covenant-God (YHWH) are identified. The Eden narrative IS the cosmic-Creator entering personal-covenantal-relation with humanity. **RHETORICAL INVERSION:** earth-and-heavens (v.4b) inverts heavens-and-earth (1:1) — narrative-pivot from cosmic-down to terrestrial-up perspective. **TETRAGRAMMATON FOOTER NOTE:** see output/textual_variants/genesis_02.json for the per-chapter Layer 2 footnote (Eremos divine-name rendering convention)."
+      "notes": "**TWO THEOLOGICAL FIRSTS:** (1) the first יהוה (Tetragrammaton) in the Bible — God's covenantal-personal-name introduced; (2) the first toledoth-formula — structurally divides Genesis into 10 generations-units. **YHWH-ELOHIM COMPOUND:** the 20-occurrences of יהוה אֱלֹהִים in Gen 2-3 are followed by later uses of the same compound in Ex 9:30 and Jonah 4:6. Theologically: the cosmic-Creator (Elohim of ch.1) and the covenant-God (YHWH) are identified. The Eden narrative IS the cosmic-Creator entering personal-covenantal-relation with humanity. **RHETORICAL INVERSION:** earth-and-heavens (v.4b) inverts heavens-and-earth (1:1) — narrative-pivot from cosmic-down to terrestrial-up perspective. **TETRAGRAMMATON FOOTER NOTE:** see output/textual_variants/genesis_02.json for the per-chapter Layer 2 footnote (Eremos divine-name rendering convention)."
     }
   },
   {
@@ -355,7 +355,7 @@
         {
           "hebrew": "אֶבֶן הַשֹּׁהַם",
           "thai": "หินโอนิกซ์",
-          "rationale": "שֹׁהַם (shoham) = onyx (or a related precious stone — sardonyx, beryl). Important in OT cultic-context: the high-priest's ephod has shoham-stones engraved with the tribal-names (Ex 28:9-12, 39:6-7); the ephod's-pomegranate-bells use shoham. Lock: שֹׁהַם → หินโอนิกซ์ (onyx-stone). The same Thai render at Ex 28-39 + 1 Chr 29:2."
+          "rationale": "שֹׁהַם (shoham) = onyx (or a related precious stone — sardonyx, beryl). Important in OT cultic-context: the high-priest's ephod has shoham-stones engraved with the tribal-names (Ex 28:9-12, 39:6-7); gold bells alternate with pomegranates around the robe's hem (Ex 28:33-34). Lock: שֹׁהַם → หินโอนิกซ์ (onyx-stone). The same Thai render at Ex 28-39 + 1 Chr 29:2."
         }
       ],
       "notes": "**TRADE-GEOGRAPHY:** the three commodities (gold + bdellium + onyx) all match Arabian-trade-route products. The detail anchors Eden in real-world geography (whatever its theological-symbolic dimensions). **CULTIC ECHO:** onyx will return as a sacred stone (high-priest's ephod) — the Eden-stones become the foundation of the Tabernacle-stones."
@@ -485,7 +485,7 @@
     "translation": {
       "thai": "แต่ผลของต้นไม้แห่งความรู้ดีและชั่ว เจ้าอย่ารับประทาน เพราะในวันที่เจ้ารับประทานมัน เจ้าจะตายแน่”",
       "thai_literal": "แต่จากต้นไม้แห่งความรู้ของดีและชั่ว เจ้าอย่ารับประทานจากมัน เพราะในวันของการรับประทานของเจ้าจากมัน ตาย-ตาย (เจ้าจะตายแน่นอน) เจ้าจะตาย",
-      "thai_summary": "ข้อนี้เป็นบัญญัติแรกของพระเจ้าต่อมนุษย์ — และเป็นกฎอ่นเดียวที่มนุษย์ก่อนการตกในบาปได้รับ การห้ามไม่ได้อยู่ที่ต้นไม้แห่งความรู้ดีและชั่วในตัวมันเอง แต่อยู่ที่การที่มนุษย์จะแย่งชิงสิทธิอำนาจของพระเจ้าในการกำหนดว่าอะไรดีอะไรชั่ว สำนวนฮีบรู מוֹת תָּמוּת (โมท ทามูท, “ตาย-ตาย”) ใช้รูปแบบ infinitive absolute ในการเน้นย้ำ — แปลตามตัวอักษรว่า “ตายเจ้าจะตาย” = “เจ้าจะตายแน่นอน” คำขู่นี้ไม่ได้สำเร็จในวันเดียวกัน (อาดัมและเอวายังมีชีวิตทางกายภาพอีกหลายร้อยปี — บทที่ 5:5) — แต่มี การตีความหลายแบบ: (1) ตายฝ่ายวิญญาณ — แยกขาดจากพระเจ้าในวันที่ทำบาป; (2) ตายฝ่ายรัฐประหาร — สูญเสียศิทธิในการเข้าถึงต้นไม้แห่งชีวิตและการดำรงอยู่นิรันดร์; (3) ตายเริ่มต้น — กระบวนการของความตายเริ่มต้นในวันนั้น แม้จะใช้เวลาหลายปีในการสำเร็จ ทั้งสามการตีความมีรากฐานในข้อความ และโดยรวมเป็นเทววิทยาเรื่องความตายในพันธสัญญาเดิมและใหม่",
+      "thai_summary": "ข้อนี้เป็นบัญญัติแรกของพระเจ้าต่อมนุษย์ — และเป็นกฎอ่นเดียวที่มนุษย์ก่อนการตกในบาปได้รับ การห้ามไม่ได้อยู่ที่ต้นไม้แห่งความรู้ดีและชั่วในตัวมันเอง แต่อยู่ที่การที่มนุษย์จะแย่งชิงสิทธิอำนาจของพระเจ้าในการกำหนดว่าอะไรดีอะไรชั่ว สำนวนฮีบรู מוֹת תָּמוּת (โมท ทามูท, “ตาย-ตาย”) ใช้รูปแบบ infinitive absolute ในการเน้นย้ำ — แปลตามตัวอักษรว่า “ตายเจ้าจะตาย” = “เจ้าจะตายแน่นอน” คำขู่นี้ไม่ได้สำเร็จในวันเดียวกัน (อาดัมและเอวายังมีชีวิตทางกายภาพอีกหลายร้อยปี — บทที่ 5:5) — แต่มี การตีความหลายแบบ: (1) ตายฝ่ายวิญญาณ — แยกขาดจากพระเจ้าในวันที่ทำบาป; (2) ตายในเชิงพันธสัญญา — สูญเสียศิทธิในการเข้าถึงต้นไม้แห่งชีวิตและการดำรงอยู่นิรันดร์; (3) ตายเริ่มต้น — กระบวนการของความตายเริ่มต้นในวันนั้น แม้จะใช้เวลาหลายปีในการสำเร็จ ทั้งสามการตีความมีรากฐานในข้อความ และโดยรวมเป็นเทววิทยาเรื่องความตายในพันธสัญญาเดิมและใหม่",
       "key_decisions": [
         {
           "hebrew": "מוֹת תָּמוּת",
@@ -578,7 +578,7 @@
         {
           "hebrew": "וּלְאָדָם",
           "thai": "แต่สำหรับอาดัม",
-          "rationale": "**FIRST USE OF אָדָם AS PROPER NAME (probable).** The Hebrew lacks the article הָ here (הָאָדָם everywhere else in 2:5-19), suggesting the proper-name 'Adam' first emerges. Modern translations vary: NIV/ESV continue 'the man'; CSB/HCSB shift to 'Adam.' Render 'อาดัม' (proper-name transliteration, แบบมาตรฐานทั่วไป) at this verse and onward. The previous occurrences in chs.1-2 use 'มนุษย์' (collective) — preserve the distinction."
+          "rationale": "**FIRST USE OF אָדָם AS PROPER NAME (probable).** The Hebrew lacks the article הָ here (וּלְאָדָם in the second clause, following הָאָדָם in the first; 2:5 also uses אָדָם without the article in a generic sense), suggesting the proper-name 'Adam' first emerges. Modern translations vary: NIV/ESV continue 'the man'; CSB/HCSB shift to 'Adam.' Render 'อาดัม' (proper-name transliteration, แบบมาตรฐานทั่วไป) at this verse and onward. The previous occurrences in chs.1-2 use 'มนุษย์' (collective) — preserve the distinction."
         }
       ],
       "notes": "**PROPER-NAME EMERGENCE:** the Hebrew text shifts from collective-noun הָאָדָם (the-mankind) to personal-name אָדָם (Adam) somewhere between 2:19 and 2:25. Most modern translations mark this shift in 2:20 (when the article disappears in 'וּלְאָדָם'). Eremos follows this convention. **NARRATIVE NEED:** the failure to find 'a suitable helper' among the animals heightens the rhetorical-tension — God's solution (woman from man's rib) will be uniquely-suited because she shares his nature."
@@ -609,7 +609,7 @@
         {
           "hebrew": "אַחַת מִצַּלְעֹתָיו",
           "thai": "ซี่โครงของเขาออกมาซี่หนึ่ง",
-          "rationale": "צֵלָע (tsela) = side, rib, side-chamber. Most translations render 'rib.' Some scholars (e.g., Ziony Zevit) argue for 'side' (i.e., God removed half-of-the-side). Modern translations majority-render 'rib' — Eremos follows. The mythopoeic-imagery: woman is 'side-of-side' with man, not below-or-above (taken-from-rib metaphors of equality, used by rabbinic + early-Christian commentators)."
+          "rationale": "צֵלָע (tsela) = side, rib, side-chamber. Most translations render 'rib.' Some interpret צֵלָע more broadly as “side.” Modern translations majority-render 'rib' — Eremos follows. The mythopoeic-imagery: woman is 'side-of-side' with man, not below-or-above (taken-from-rib metaphors of equality, used by rabbinic + early-Christian commentators)."
         }
       ],
       "notes": "**DIVINELY-INDUCED SLEEP:** תַּרְדֵּמָה appears at theologically-loaded moments — Adam's woman-creation, Abraham's covenant (Gen 15), Job's visions. The deep-sleep marks moments of receiving (not initiating) what God is doing. **RIB-OR-SIDE:** scholarly debate continues. The traditional 'rib' rendering carries the equality-symbolism that has resonated in Jewish + Christian commentary for millennia. Eremos preserves traditional 'rib' (ซี่โครง)."
@@ -656,7 +656,7 @@
     "translation": {
       "thai": "อาดัมกล่าวว่า “ในที่สุด นี่คือกระดูกจากกระดูกของฉัน และเนื้อจากเนื้อของฉัน นางจะถูกเรียกว่า ‘หญิง’ เพราะนางถูกนำออกมาจากชาย”",
       "thai_literal": "และอาดัมกล่าวว่า ครั้งนี้ กระดูกจากกระดูกของฉันและเนื้อจากเนื้อของฉัน สำหรับสิ่งนี้นางจะถูกเรียกว่า ‘อิชชาห์’ (หญิง) เพราะจาก ‘อิช’ (ชาย) นางถูกเอามา",
-      "thai_summary": "ข้อนี้เป็นบทกวีแรกของพระคัมภีร์ — ถ้อยคำแรกของมนุษย์ที่บันทึกไว้เป็นการต้อนรับและการรู้จัก-ตัวตน-ของตน-ในผู้อื่น “ในที่สุด” (זֹאת הַפַּעַם, “ครั้งนี้”) บ่งถึงความผ่อนคลายหลังการพยายามที่ไม่สมบูรณ์ในการหาคู่ในหมู่สัตว์ — ในที่สุดก็พบคู่ที่แท้จริง “กระดูกจากกระดูก เนื้อจากเนื้อ” กลายเป็นสำนวนที่เน้นความสัมพันธ์เครือญาติที่แท้จริงในพระคัมภีร์ภาคพันธสัญญาเดิม (ปฐมกาล 29:14, ผู้วินิจฉัย 9:2, 2 ซามูเอล 5:1, 19:12-13) การเล่นเสียงระหว่าง אִישׁ (อิช, ชาย) และ אִשָּׁה (อิชชาห์, หญิง) เป็นจุดสำคัญทางภาษา — ผู้หญิงไม่ได้เป็นสปีชีส์ใหม่ แต่เป็นการขยายธรรมชาติของชาย (และในทางกลับกัน) — ทั้งสองมีรากศัพท์เดียวกัน ภาษาไทยไม่สามารถรักษาการเล่นเสียงนี้ได้โดยตรง — เราจึงเก็บไว้ในการแปลตามตัวอักษรและในหมายเหตุ",
+      "thai_summary": "ข้อนี้เป็นบทกวีแรกของพระคัมภีร์ — ถ้อยคำแรกของมนุษย์ที่บันทึกไว้เป็นการต้อนรับและการรู้จัก-ตัวตน-ของตน-ในผู้อื่น “ในที่สุด” (זֹאת הַפַּעַם, “ครั้งนี้”) บ่งถึงความผ่อนคลายหลังการพยายามที่ไม่สมบูรณ์ในการหาคู่ในหมู่สัตว์ — ในที่สุดก็พบคู่ที่แท้จริง “กระดูกจากกระดูก เนื้อจากเนื้อ” กลายเป็นสำนวนที่เน้นความสัมพันธ์เครือญาติที่แท้จริงในพระคัมภีร์ภาคพันธสัญญาเดิม (ปฐมกาล 29:14, ผู้วินิจฉัย 9:2, 2 ซามูเอล 5:1, 19:12-13) การเล่นเสียงระหว่าง אִישׁ (อิช, ชาย) และ אִשָּׁה (อิชชาห์, หญิง) เป็นจุดสำคัญทางภาษา — ผู้หญิงไม่ได้เป็นสปีชีส์ใหม่ แต่เป็นการขยายธรรมชาติของชาย (และในทางกลับกัน) — ผู้พูดโยงคำทั้งสองเข้าด้วยกันผ่านเสียงที่คล้ายกัน ภาษาไทยไม่สามารถรักษาการเล่นเสียงนี้ได้โดยตรง — เราจึงเก็บไว้ในการแปลตามตัวอักษรและในหมายเหตุ",
       "key_decisions": [
         {
           "hebrew": "זֹאת הַפַּעַם",
@@ -671,7 +671,7 @@
         {
           "hebrew": "אִשָּׁה / אִישׁ",
           "thai": "หญิง / ชาย",
-          "rationale": "**HEBREW SOUND-PLAY** — אִשָּׁה (ish-shah, woman) ←from→ אִישׁ (ish, man). The names are phonetically linked (homophonous-root). Hebrew indicates derivation: woman 'from-man'. Thai cannot reproduce this sound-play (no etymological connection between 'หญิง' and 'ชาย'). Render meaningfully ('หญิง' / 'ชาย') and document the wordplay in key_decisions + thai_literal preserves the Hebrew transliteration ('อิชชาห์' / 'อิช'). The early-church + rabbinic commentary on this verse turns largely on the sound-play; we preserve it in transparency rather than try to substitute Thai play. NT echo: 1 Cor 11:7-12 reads the man-woman-derivation in pastoral-application."
+          "rationale": "**HEBREW SOUND-PLAY** — אִשָּׁה (ish-shah, woman) ←from→ אִישׁ (ish, man). The verse plays on the similar sounds of the two Hebrew words. Hebrew indicates derivation: woman 'from-man'. Thai cannot reproduce this sound-play (no etymological connection between 'หญิง' and 'ชาย'). Render meaningfully ('หญิง' / 'ชาย') and document the wordplay in key_decisions + thai_literal preserves the Hebrew transliteration ('อิชชาห์' / 'อิช'). The early-church + rabbinic commentary on this verse turns largely on the sound-play; we preserve it in transparency rather than try to substitute Thai play. NT echo: 1 Cor 11:7-12 reads the man-woman-derivation in pastoral-application."
         }
       ],
       "notes": "**FIRST POETRY:** Adam's response is in poetic-parallelism (the thai render preserves 'bone-of-bone, flesh-of-flesh' parallel). It's the Bible's first recorded human-speech and first poetry. **HEBREW SOUND-PLAY:** the אִישׁ/אִשָּׁה pair is foundational to Hebrew anthropology — the names indicate equal-derivation, not subordination. NT echo (1 Cor 11:7-12) develops this. **NEAR-EASTERN PARALLEL:** ANE traditions of woman-from-man are diverse — some have woman-from-man, others have man-from-woman, others have parallel-creation. Genesis's man-from-dust + woman-from-man is distinctive in establishing both the difference (sequential creation) and the unity (same-substance) of the sexes."
@@ -697,12 +697,12 @@
         {
           "hebrew": "וְדָבַק",
           "thai": "ผูกพันเป็นหนึ่งกับ",
-          "rationale": "דָּבַק (Qal: 'cling, stick, adhere'). Used of (1) marital-fidelity (here, Ruth 1:14 of Ruth-Naomi), (2) covenantal-loyalty to YHWH (Deut 4:4, 10:20, 11:22, 13:4, 30:20 — 'cling to YHWH'). The verb expresses tenacious-permanent-attachment. Render 'ผูกพันเป็นหนึ่งกับ' (matching Mt 19:5 NT-shipped form) — preserves the binding-attachment force."
+          "rationale": "דָּבַק (Qal: 'cling, stick, adhere'). Used of (1) family attachment (here of a husband to his wife, in Ruth 1:14 of Ruth to her mother-in-law), (2) covenantal-loyalty to YHWH (Deut 4:4, 10:20, 11:22, 13:4, 30:20 — 'cling to YHWH'). The verb expresses tenacious-permanent-attachment. Render 'ผูกพันเป็นหนึ่งกับ' (matching Mt 19:5 NT-shipped form) — preserves the binding-attachment force."
         },
         {
           "hebrew": "וְהָיוּ לְבָשָׂר אֶחָד",
           "thai": "ทั้งสองจะเป็นเนื้อเดียวกัน",
-          "rationale": "'They (dual) shall become one-flesh.' The Hebrew prep-construction לְבָשָׂר אֶחָד 'into one-flesh' indicates transformation — the two becoming ONE-corporate-entity. NT-shipped form (Mt 19:5): 'ทั้งสองจะเป็นเนื้อเดียวกัน' — Eremos OT matches. Theological-content: 'one flesh' = unity-in-distinction, comprehensive (physical + relational + covenantal). The merism 'flesh' covers the totality of personhood, not just physical-union."
+          "rationale": "'They (a plural verb referring here to the man and his wife) shall become one-flesh.' The Hebrew prep-construction לְבָשָׂר אֶחָד 'into one-flesh' indicates transformation — the two becoming ONE-corporate-entity. NT-shipped form (Mt 19:5): 'ทั้งสองจะเป็นเนื้อเดียวกัน' — Eremos OT matches. Theological-content: 'one flesh' = unity-in-distinction, comprehensive (physical + relational + covenantal). The merism 'flesh' covers the totality of personhood, not just physical-union."
         }
       ],
       "notes": "**MARRIAGE-FORMULA FOUNDATION:** v.24 establishes the OT-NT theological-anthropology of marriage. The three movements (leave + cleave + one-flesh) become the constituent-grammar of biblical marriage theology. **NT CITATIONS:** Mt 19:5, Mk 10:7-8, 1 Cor 6:16 (one-flesh-rule applied to porneia), Eph 5:31 (christological-application). All NT citations preserved in nt_ot_citations.json. **VERBATIM NT ALIGNMENT:** Eremos OT v.24 matches the NT-shipped Mt 19:5 form for cross-corpus consistency. **EARLIER-NARRATIVE LOCATION:** the verse is the narrator's editorial-interjection (not Adam's speech) — establishing that the Eden-pattern is normative for all subsequent marriages. The author of Genesis writes for an audience already-familiar-with-marriage, anchoring it theologically."

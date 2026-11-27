@@ -38,7 +38,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**3** และในเวลาอันสมควรของพระองค์ พระองค์ทรงเปิดเผยพระวจนะของพระองค์ผ่านการประกาศ ซึ่งข้าพเจ้าได้รับมอบหมายให้รักษา ตามพระบัญชาของพระเจ้าพระผู้ช่วยให้รอดของเรา
+**3** และในเวลาอันสมควรของพระองค์ พระองค์ทรงเปิดเผยพระวจนะของพระองค์ผ่านการประกาศ ซึ่งข้าพเจ้าได้รับมอบหมาย ตามพระบัญชาของพระเจ้าพระผู้ช่วยให้รอดของเรา
 
 > ___
 
@@ -70,7 +70,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**11** ซึ่งต้องห้ามไม่ให้พูด เพราะพวกเขาทำลายครอบครัวทั้งหลายให้ล้มลง โดยสอนสิ่งที่ไม่ควรสอน เพราะเห็นแก่กำไรอันน่าอาย
+**11** ซึ่งต้องห้ามไม่ให้พูด เพราะพวกเขาทำให้คนทั้งครอบครัวหลงผิด โดยสอนสิ่งที่ไม่ควรสอน เพราะเห็นแก่กำไรอันน่าอาย
 
 > ___
 
@@ -230,7 +230,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/titus_01.json` | `6b9bc5a855e4143fab405d9116d393e4ed8e929d99a62b3d2451d8043fb50100` |
-| `output/translations/titus_02.json` | `54cca3502fb1484c14c16b498528dd0e1691cb0d1650c2a21bae3fc079cf8180` |
-| `output/translations/titus_03.json` | `ae6d73e432043adfd5b8f1c7ccdac693084026cab5e5b9fda7db7d05472e9648` |
+| `output/translations/titus_01.json` | `8a759eb0a17bbaa856e6b26240803be3b476cd9ba64fb4c15146a858a6178974` |
+| `output/translations/titus_02.json` | `73d79cad0c8c5bb5438fb1c12e7abe9229a2876110f228c9666f81711d6025ab` |
+| `output/translations/titus_03.json` | `55af111376f138db9431f22c647d40895161f2b861985378d68f95f0138abc0a` |
 

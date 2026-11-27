@@ -109,7 +109,7 @@ This is the canonical interpretive framework: divine-relenting is a stable patte
 
 ### 4.1 What we deliberately reject
 
-- **ทรงเสียพระทัย** ("be sorry, regret") — captures the regret-sense (Gen 6:6) but loses the change-of-mind force in factive occurrences (Ex 32:14, Jonah 3:10). We use ทรงเปลี่ยนพระทัย uniformly; if reader-feedback flags Gen 6:6 specifically, document a context-variant.
+- **ทรงเสียพระทัย** ("be sorry, regret") — captures the regret-sense (Gen 6:6) but loses the change-of-mind force in factive occurrences (Ex 32:14, Jonah 3:10). Use ทรงเปลี่ยนพระทัย where an announced judgment is withdrawn. Section 1.2 gives the adopted wording for divine sorrow in Genesis 6:6–7.
 - **ทรงเลิก** ("cease, stop") — too weak; loses the volitional decision-shift.
 - **ทรงโปรด-** ("be pleased") — wrong sense; collides with verbs of divine pleasure/favor.
 - **ทรงผันเปลี่ยน** ("turn-and-change," more poetic) — reserved for poetic-context discretion.
@@ -120,7 +120,7 @@ This is the canonical interpretive framework: divine-relenting is a stable patte
 
 - [x] All Jonah occurrences (3:9, 3:10, 4:2) use ทรงเปลี่ยนพระทัย (verified 2026-05-09 ship + revisions).
 - [ ] Pre-load `data/nicham_corpus_thread.json` with all known divine-subject Niph'al occurrences.
-- [ ] `check_key_term_consistency.py` rule: any divine-subject Niph'al-נחם not rendered ทรงเปลี่ยนพระทัย is a HARD FAIL.
+- [ ] When reviewing divine-subject Niph'al-נחם, distinguish the judgment-reversal and divine-sorrow contexts described in §§1.1–1.2 and check the Thai against the applicable sense.
 - [ ] Reader-edition: each occurrence carries a footnote pointer to a single corpus-wide nicham-explanation note (see template at `output/textual_variants/jonah_03.json` for the loaded-passage version).
 
 ---

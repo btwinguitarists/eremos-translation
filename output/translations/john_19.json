@@ -22,15 +22,15 @@
     "greek": "καὶ οἱ στρατιῶται πλέξαντες στέφανον ἐξ ἀκανθῶν ἐπέθηκαν αὐτοῦ τῇ κεφαλῇ,καὶ ἱμάτιον πορφυροῦν περιέβαλον αὐτόν,",
     "bsb_english": "The soldiers twisted together a crown of thorns, set it on His head, and dressed Him in a purple robe.",
     "translation": {
-      "thai": "พวกทหารสานมงกุฎจากกิ่งหนามและสวมบนพระเศียรของพระองค์ และให้พระองค์สวมเสื้อคลุมสีม่วง",
+      "thai": "พวกทหารสานมงกุฎจากกิ่งหนามและสวมบนพระเศียรของพระองค์ แล้วนำเสื้อคลุมสีม่วงมาคลุมพระองค์",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
         { "greek": "πλέξαντες στέφανον ἐξ ἀκανθῶν", "thai": "สานมงกุฎจากกิ่งหนาม", "rationale": "NEW CORPUS-LOCKS: στέφανος (in mocking-royal context) → มงกุฎ (crown); ἄκανθα → หนาม (thorn); πλέκω → สาน (weave/twist-together). The mock-royal-coronation: thorns instead of gold." },
         { "greek": "ἐπέθηκαν αὐτοῦ τῇ κεφαλῇ", "thai": "สวมบนพระเศียรของพระองค์", "rationale": "Royal พระเศียร (royal-head) per RULES §3 since divine subject (Christ). Thai preserves the violent-irony — soldiers crown Christ-the-king-of-creation with thorns." },
-        { "greek": "ἱμάτιον πορφυροῦν", "thai": "เสื้อคลุมสีม่วง", "rationale": "NEW CORPUS-LOCK: πορφυροῦν ἱμάτιον → เสื้อคลุมสีม่วง (purple-robe). Roman-imperial-purple was reserved for emperor + magistrates — soldiers' mock-imperial-investiture of Christ. Cf. MAT 27:28 (κοκκίνην 'scarlet'), MRK 15:17 (πορφύραν), LUK 23:11 (Herod's white-robe) — slight synoptic variations of the same mock-clothing." }
+        { "greek": "ἱμάτιον πορφυροῦν", "thai": "เสื้อคลุมสีม่วง", "rationale": "The soldiers dress Jesus in purple. Mark 15:17 also describes purple; Matthew 27:28 has a scarlet cloak. Luke 23:11 describes Herod and his soldiers putting splendid clothing on Jesus in a separate episode, without specifying its color." }
       ],
-      "notes": "Per uW figs-explicit: mock-royal-coronation by Roman-soldiers. Theological-irony: the soldiers unwittingly-clothe Christ as-king at the very moment-of-his-cross-coronation. The thorns + purple parallel-the-OT-curse-of-Eden (GEN 3:18 ‘thorns and thistles’) — Christ wears-the-curse to bear-it-away (cf. GAL 3:13)."
+      "notes": "The soldiers dress Jesus in purple. Mark 15:17 also describes purple; Matthew 27:28 has a scarlet cloak. Luke 23:11 describes Herod and his soldiers putting splendid clothing on Jesus in a separate episode, without specifying its color."
     }
   },
   {
@@ -61,7 +61,7 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "οὐδεμίαν αἰτίαν εὑρίσκω ἐν αὐτῷ", "thai": "เราไม่พบความผิดในตัวเขาเลย", "rationale": "PHRASE-LOCK with JHN 18:38: αἰτία → ความผิด (lock). Pilate's-second not-guilty verdict (after JHN 18:38, before JHN 19:6 third-verdict). Triadic-innocence-declarations underscore the judicial-injustice." }
+        { "greek": "οὐδεμίαν αἰτίαν εὑρίσκω ἐν αὐτῷ", "thai": "เราไม่พบความผิดในตัวเขาเลย", "rationale": "Pilate says for the second time that he finds no ground for a charge against Jesus. The first declaration is at 18:38 and the third at 19:6. ความผิด renders αἰτία in all three." }
       ],
       "notes": "Per uW figs-explicit: Pilate's-second-not-guilty-verdict. The flogging-as-attempt-to-satisfy-the-mob backfires — the leaders demand-execution-still. Pilate-the-Roman-judge is-publicly-affirming Christ's-innocence as-he-prepares-to-condemn-him."
     }
@@ -94,7 +94,7 @@
       "thai_summary": null,
       "key_decisions": [
         { "greek": "Σταύρωσον σταύρωσον", "thai": "ตรึงเขาที่กางเขน! ตรึงเขาที่กางเขน!", "rationale": "PHRASE-LOCK: σταυρόω → ตรึงที่กางเขน (crucify; lock from synoptic-corpus). Repeated-imperative for emphasis preserved as Thai repetition. The mob-cry-pattern that-the-Synoptics-also-record." },
-        { "greek": "ἐγὼ γὰρ οὐχ εὑρίσκω ἐν αὐτῷ αἰτίαν", "thai": "เพราะเราไม่พบความผิดในตัวเขา", "rationale": "PHRASE-LOCK with JHN 18:38, 19:4: third-not-guilty-verdict. The triadic-innocence-declaration is rhetorically-emphatic in Johannine narrative-design — three not-guilty-findings before-Pilate-yields-to-political-pressure." }
+        { "greek": "ἐγὼ γὰρ οὐχ εὑρίσκω ἐν αὐτῷ αἰτίαν", "thai": "เพราะเราไม่พบความผิดในตัวเขา", "rationale": "Pilate again denies finding a ground for a charge. This is the third such declaration, after 18:38 and 19:4." }
       ],
       "notes": "Per uW figs-explicit: Pilate's-third-not-guilty-verdict. The pattern: Pilate-finds-no-charge × 3 + Pilate-eventually-condemns. Theological-foundation for the Christological-substitution: an-innocent-man-condemned-by-the-law-of-the-world bears-the-judgment-of-the-world. The ‘you take and crucify him’ is Pilate's-procedural-deflection — he-knows-they-cannot-execute (per JHN 18:31)."
     }
@@ -143,10 +143,10 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Πόθεν εἶ σύ;", "thai": "ท่านมาจากที่ไหน?", "rationale": "Pilate's-origin-question — not geographical-Galilee but metaphysical-divine-or-human. Christ's-prior-ironic-answers (JHN 8:14 ‘I came from God’) hover-behind. Translation preserves the literal direct-question." },
+        { "greek": "Πόθεν εἶ σύ;", "thai": "ท่านมาจากที่ไหน?", "rationale": "Pilate becomes more afraid after hearing the charge concerning the Son of God and asks where Jesus comes from. John does not explain what he feared. In 8:14 Jesus says he knows where he came from and where he is going. In 8:42 he explicitly says he came from God. Jesus’s silence before Pilate may recall Isaiah 53:7." },
         { "greek": "ἀπόκρισιν οὐκ ἔδωκεν αὐτῷ", "thai": "ไม่ทรงตอบเขา", "rationale": "Christ's-silence echoes ISA 53:7 ‘he was led-as-a-lamb-to-the-slaughter, opened-not-his-mouth.’ Royal ทรงตอบ on Christ's negated-action. The silence-as-eloquence motif." }
       ],
-      "notes": "Per uW figs-explicit: Christ's-strategic-silence. ISA 53:7 typology — silent-suffering-servant before-shearers. Pilate-asks-from-fear; Christ-doesn't-debate-with-fear. The silence is itself-the-answer — origin-cannot-be-explained-to one-who-doesn't-have-faith."
+      "notes": "Pilate becomes more afraid after hearing the charge concerning the Son of God and asks where Jesus comes from. John does not explain what he feared. In 8:14 Jesus says he knows where he came from and where he is going. In 8:42 he explicitly says he came from God. Jesus’s silence before Pilate may recall Isaiah 53:7."
     }
   },
   {
@@ -225,13 +225,13 @@
     "translation": {
       "thai": "วันนั้นเป็นวันเตรียมเทศกาลปัสกา ราวเที่ยงวัน ปีลาตกล่าวกับพวกยิวว่า “ดูเถิด นี่คือกษัตริย์ของพวกท่าน!”",
       "thai_literal": null,
-      "thai_summary": "“วันเตรียม” คือวันศุกร์ก่อนวันสะบาโต — ในกรณีนี้คือวันก่อนปัสกาด้วย ทำให้เป็นวันสะบาโตที่สำคัญเป็นพิเศษ (ข้อ 31) เวลา “ชั่วโมงที่หก” ตามการนับเวลายิวเริ่มจาก 6 โมงเช้า จึงเท่ากับเที่ยงวัน เวลานี้ตรงกับเวลาที่ปุโรหิตเริ่มฆ่าลูกแกะปัสกาในพระวิหาร — ภาพคู่ขนานทางพิธีกรรมที่ผู้ฟังคนยิวจะเห็นได้ชัด พระเยซูทรงเป็น “พระเมษโปดกของพระเจ้า” (ยน. 1:29) ถูกพิพากษาในขณะที่ลูกแกะของพิธีกรรมถูกเตรียมเพื่อปัสกา",
+      "thai_summary": "ยอห์นระบุว่าเป็นวันเตรียมเทศกาลปัสกา เวลาราวเที่ยงวัน ข้อ 31 กล่าวถึงวันสะบาโตที่กำลังมาถึงว่าเป็นวันสำคัญ ภาพพระเมษโปดกของพระเจ้าในยอห์น 1:29 ชวนให้ผู้อ่านมองเหตุการณ์นี้ในแง่ของปัสกา แต่ยอห์นไม่ได้ระบุเวลาเริ่มถวายลูกแกะ",
       "key_decisions": [
         { "greek": "παρασκευὴ τοῦ πάσχα", "thai": "วันเตรียมเทศกาลปัสกา", "rationale": "NEW CORPUS-LOCK: παρασκευή → วันเตรียม (day-of-preparation; technical-Jewish-term for Friday-before-Sabbath). PHRASE-LOCK: πάσχα → ปัสกา (lock from synoptic). The Friday-before-Passover-Sabbath chronological-marker." },
         { "greek": "ὥρα ἦν ὡς ἕκτη", "thai": "ราวเที่ยงวัน", "rationale": "NEW CORPUS-LOCK: ἕκτη ὥρα (Jewish-counting from-dawn-6am) → เที่ยงวัน (noon). ‘ราว’ (about) preserves the ὡς approximation. Translation provides natural-Thai-time rather than literal ‘sixth-hour’ which would-confuse-readers using-modern-clock-time." },
         { "greek": "Ἴδε ὁ βασιλεὺς ὑμῶν", "thai": "ดูเถิด นี่คือกษัตริย์ของพวกท่าน!", "rationale": "Per uW figs-irony: Pilate's-mocking presentation. Translation preserves the irony — both Pilate's-mock and John's-Christological-witness." }
       ],
-      "notes": "Per uW figs-explicit + figs-irony: Passover-preparation-noon timing — same hour the priests-began-slaughtering-Passover-lambs in-the-temple. Theological-pattern: Christ-as-true-Passover-Lamb (cf. 1 COR 5:7) judged-and-condemned-at-Passover-lamb-slaughter-hour. The chronological-detail is theologically-significant. NEW CORPUS-LOCKS: παρασκευή → วันเตรียม; ἕκτη ὥρα → เที่ยงวัน."
+      "notes": "John places Pilate’s words on the preparation day of Passover, at about the sixth hour. In daylight reckoning this is about noon. The relation of the day to the Passover meal is interpreted in different ways. The description of Jesus as the Lamb of God (1:29) invites a thematic comparison without establishing the hour of temple sacrifice."
     }
   },
   {
@@ -264,7 +264,7 @@
       "key_decisions": [
         { "greek": "παρέδωκεν αὐτὸν αὐτοῖς ἵνα σταυρωθῇ", "thai": "มอบพระองค์แก่พวกเขาเพื่อให้ตรึงที่กางเขน", "rationale": "Per uW figs-activepassive: Pilate's-judicial-deliverance to-crucifixion. The αὐτοῖς (‘to them’) is ambiguous-but-most-likely the-soldiers (per uW alt explicit ‘the soldiers’). Translation preserves the open ‘พวกเขา’ — Thai readers can hear soldiers-as-executors from-context." }
       ],
-      "notes": "Per uW figs-explicit + figs-activepassive: Pilate's-final-condemnation. The handing-over is the climactic-judgment-act after-six-times-of-not-guilty findings. JHN 19:16 = the cross-verdict moment."
+      "notes": "Pilate hands Jesus over for crucifixion. Earlier he said three times that he found no ground for a charge against Jesus (18:38; 19:4, 6)."
     }
   },
   {
@@ -281,7 +281,7 @@
         { "greek": "βαστάζων αὑτῷ τὸν σταυρὸν", "thai": "พระองค์ทรงแบกกางเขนของพระองค์เอง", "rationale": "PHRASE-LOCK: σταυρός → กางเขน (lock); βαστάζω → แบก (carry-on-shoulder; standard Thai). Royal ทรงแบก since divine subject. Per uW: synoptics-add Simon-of-Cyrene help-mid-journey." },
         { "greek": "Κρανίου Τόπον,ὃ λέγεται Ἑβραϊστὶ Γολγοθα", "thai": "สถานที่ที่เรียกว่า “สถานที่กะโหลกศีรษะ” ในภาษาฮีบรูเรียกว่า “กลโกธา”", "rationale": "NEW CORPUS-LOCKS: Κρανίου Τόπος → สถานที่กะโหลกศีรษะ (Place-of-the-Skull; descriptive). Γολγοθα → กลโกธา (Aramaic-transliteration; standard Christian-Thai). Latin Calvaria → English Calvary." }
       ],
-      "notes": "Per uW translate-names: Greek/Aramaic name-doublet. PHRASE-LOCK with synoptic Simon-of-Cyrene-help (MAT 27:32, MRK 15:21, LUK 23:26) — JHN narrates beginning-of-journey, synoptics narrate middle-when-Christ-was-too-weak. Both true. NEW CORPUS-LOCKS: Κρανίου Τόπος → สถานที่กะโหลกศีรษะ; Γολγοθα → กลโกธา."
+      "notes": "Per uW translate-names: Greek/Aramaic name-doublet. PHRASE-LOCK with synoptic Simon-of-Cyrene-help (MAT 27:32, MRK 15:21, LUK 23:26) — JHN narrates beginning-of-journey, synoptics narrate Simon-being-made-to-carry-the-cross. Both true. NEW CORPUS-LOCKS: Κρανίου Τόπος → สถานที่กะโหลกศีรษะ; Γολγοθα → กลโกธา."
     }
   },
   {
@@ -344,7 +344,7 @@
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
-        { "greek": "Μὴ γράφε ... ἀλλ’ὅτι ἐκεῖνος εἶπεν", "thai": "อย่าเขียน ... แต่ให้เขียนว่า ‘เขาพูดว่า ...’", "rationale": "Per uW figs-quotesinquotes: nested quotes within quotes. Outer ‘…’ for Pilate-citing-himself, inner ‘…’ — but Thai uses curly-doubles for outer and curly-singles for inner per RULES §5b. The sequencing — Pilate's-direct-speech contains a-quote-of-the-titulus and a-proposed-reformulation. Translation preserves the negation-and-substitution structure." }
+        { "greek": "Μὴ γράφε ... ἀλλ’ὅτι ἐκεῖνος εἶπεν", "thai": "อย่าเขียน ... แต่ให้เขียนว่า ‘เขาพูดว่า ...’", "rationale": "The chief priests speak to Pilate. They repeat the inscription, then ask him to write what they say Jesus claimed. In the inner words “I am king of the Jews,” the speaker is Jesus as quoted by the priests. Pilate answers in verse 22." }
       ],
       "notes": "Per uW figs-quotesinquotes: leaders' attempt to-reformulate-the-titulus to-distance-Christ-from-the-claim. Theological-significance: the leaders-want ‘he-said-falsely-he-was-king,’ Pilate writes ‘he-IS-king’ (titulus-as-truth-claim). Pilate's-stubbornness-on-this-point makes-him-an-unwitting-truth-witness."
     }
@@ -496,7 +496,7 @@
     "translation": {
       "thai": "เมื่อพระเยซูทรงรับน้ำส้มสายชูแล้ว พระองค์ตรัสว่า “สำเร็จแล้ว” แล้วทรงก้มพระเศียรและทรงสิ้นพระชนม์",
       "thai_literal": null,
-      "thai_summary": "“สำเร็จแล้ว” (Τετέλεσται) เป็นคำตรัสสุดท้ายของพระเยซูบนกางเขนในข่าวประเสริฐยอห์น — เป็นกริยาสมบูรณ์ภาษากรีกที่หมายถึงการกระทำที่เสร็จสิ้นและผลที่คงทนตลอดไป ในยุคนั้นคำนี้เขียนบนใบเสร็จที่ชำระหนี้แล้วเพื่อระบุว่า “ชำระเต็มจำนวน” พระคริสต์ทรงประกาศว่าหนี้บาปของมนุษยชาติได้รับการชำระอย่างสมบูรณ์ — ไม่เหลืออะไรอีก งานแห่งการช่วยให้รอดสำเร็จลุล่วง “ทรงสิ้นพระชนม์” (παρέδωκεν τὸ πνεῦμα — ตามตัวอักษรคือ “ทรงมอบพระวิญญาณ”) แสดงว่าพระเยซูทรงควบคุมการตายของพระองค์เอง ตามที่ทรงสัญญาไว้ใน ยน. 10:18 “ไม่มีใครเอาชีวิตไปจากเรา แต่เราสละชีวิตเอง”",
+      "thai_summary": "พระเยซูตรัสว่า “สำเร็จแล้ว” คำกรีก τετέλεσται เป็นรูปกริยาที่กล่าวถึงสิ่งที่เสร็จสิ้นแล้ว ในข้อ 28 ยอห์นใช้คำนี้เมื่อกล่าวว่าพระเยซูทรงทราบว่าทุกสิ่งสำเร็จแล้ว จากนั้นพระองค์จึงก้มพระเศียรลงและสิ้นพระชนม์",
       "key_decisions": [
         { "greek": "Τετέλεσται", "thai": "สำเร็จแล้ว", "rationale": "Christ's-final cross-saying in-John (sixth-of-seven across-Gospels). Perfect-passive τετέλεσται — completed-action-with-continuing-result. PHRASE-LOCK with v.28 πάντα τετέλεσται. Thai ‘สำเร็จแล้ว’ (it-is-finished/completed) preserves the perfect-aspect." },
         { "greek": "κλίνας τὴν κεφαλὴν παρέδωκεν τὸ πνεῦμα", "thai": "ทรงก้มพระเศียรและทรงสิ้นพระชนม์", "rationale": "Royal ทรงก้ม + พระเศียร per RULES §3. NEW CORPUS-LOCK: παρέδωκεν τὸ πνεῦμα (yield-up-spirit; Christ's-volitional-death) → ทรงสิ้นพระชนม์ (royal-die-end-life; standard Christian-Thai for divine-death). Per uW + JHN 10:18: Christ's-death is volitional-self-giving, not-passive-victimization. The active παρέδωκεν (‘he-handed-over’) marks the agency-of-Christ in-his-own-death." }
@@ -560,12 +560,12 @@
     "translation": {
       "thai": "แต่ทหารคนหนึ่งเอาหอกแทงสีข้างของพระองค์ และทันใดนั้นก็มีโลหิตและน้ำไหลออกมา",
       "thai_literal": null,
-      "thai_summary": "ภาพของโลหิตและน้ำที่ไหลจากสีข้างของพระคริสต์มีความหมายเชิงเทววิทยาหลายมิติ ทางการแพทย์ การที่มีของเหลวเป็นชั้น ๆ บ่งชี้ว่าหัวใจถูกแทงและพระเยซูทรงสิ้นพระชนม์จริง (ไม่ได้สลบ) ทางสัญลักษณ์ คริสตจักรเห็นโลหิต = ศีลมหาสนิท (การชำระบาป), น้ำ = ศีลล้างบาป (การเกิดใหม่) — ทั้งสองศีลที่เกิดจากกางเขน 1 ยน. 5:6-8 “พระองค์เป็นผู้ที่เสด็จมาด้วยน้ำและโลหิต ... และพระวิญญาณ” ผูกข้อนี้กับเหตุการณ์ในยน. 19:34 ผู้เห็นในข้อ 35 น่าจะเป็นยอห์นอัครทูตผู้เขียนเอง",
+      "thai_summary": "ยอห์นเล่าว่าทหารคนหนึ่งเอาหอกแทงสีข้างของพระเยซู แล้วเลือดและน้ำก็ไหลออกมา ในข้อต่อไปผู้เล่าเรื่องอ้างถึงพยานที่เห็นเหตุการณ์ ข้อนี้ไม่ได้บอกว่าหอกแทงถูกอวัยวะใด",
       "key_decisions": [
         { "greek": "λόγχῃ αὐτοῦ τὴν πλευρὰν ἔνυξεν", "thai": "เอาหอกแทงสีข้างของพระองค์", "rationale": "HAPAX cluster: λόγχη (spear; NT-only-occurrence) + νύσσω (pierce; NT-only-occurrence). NEW CORPUS-LOCKS: λόγχη → หอก (spear; standard); νύσσω → แทง (stab/pierce; standard); πλευρά → สีข้าง (side; standard). Roman-pilum-spear thrust to-confirm-death." },
         { "greek": "ἐξῆλθεν εὐθὺς αἷμα καὶ ὕδωρ", "thai": "ทันใดนั้นก็มีโลหิตและน้ำไหลออกมา", "rationale": "NEW CORPUS-LOCK: αἷμα καὶ ὕδωρ → โลหิตและน้ำ (blood and water; the-pair-as-witness, paralleling 1 JN 5:6-8). Royal-register โลหิต (royal-blood) standard for Christ's-blood; น้ำ standard. The doublet preserves the medical-theological-significance." }
       ],
-      "notes": "Per uW figs-explicit: HAPAX cluster λόγχη + νύσσω. The blood-and-water-flow has medical-significance (pericardial-effusion confirms-death) and theological-significance (1 JN 5:6-8 ‘he came by water and blood and the Spirit’ — sacramental + Christological-witness). PHRASE-LOCK with 1 JN 5:6-8. NEW CORPUS-LOCKS: λόγχη, νύσσω, πλευρά."
+      "notes": "A soldier pierces Jesus’s side with a spear, and blood and water emerge. The next verse appeals to witness testimony. The text names no injured organ or diagnostic mechanism. Medical explanations and baptismal or eucharistic interpretations are later readings of the reported signs."
     }
   },
   {

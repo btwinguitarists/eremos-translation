@@ -163,7 +163,7 @@ def render_chapter(rows: list[dict], chapter_num: int, superscription: str | Non
             lines.append("> ___")
         lines.append("")
 
-    # Path A textual-variant footer. Two sub-types:
+    # Textual-variant footer. OT reading notes identify their witnesses in the explanation.
     #   - inclusion_variant_absent (whole-verse omission per RULES §5 +
     #     docs/translator_decisions/inclusion_variants_absent_verses_2026-04.md):
     #     show TR/Byz Thai rendering + witnesses so readers cross-checking
@@ -191,19 +191,25 @@ def render_chapter(rows: list[dict], chapter_num: int, superscription: str | Non
                 if tr_thai_alt:
                     lines.append(f"> {tr_thai_alt}")
                     lines.append("")
+            elif vtype == "ot_textual_reading":
+                lines.append(f"**ข้อ {verse_num}** — คำอ่านที่ต่างกัน")
+                lines.append("")
             elif vtype == "tetragrammaton_convention_first_occurrence":
                 lines.append(f"**ข้อ {verse_num}** — หมายเหตุการแปลพระนามของพระเจ้า")
                 lines.append("")
             elif vtype.startswith("convention_") or vtype.endswith("_convention"):
                 lines.append(f"**ข้อ {verse_num}** — หมายเหตุการแปล")
                 lines.append("")
-            else:
+            elif vtype == "inclusion_variant_absent":
                 tr_thai = var.get("tr_byz_thai", "")
                 lines.append(f"**ข้อ {verse_num}** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)")
                 lines.append("")
                 if tr_thai:
                     lines.append(f"> {tr_thai}")
                     lines.append("")
+            else:
+                lines.append(f"**ข้อ {verse_num}** — หมายเหตุ")
+                lines.append("")
             if explanation:
                 lines.append(f"_{explanation}_")
                 lines.append("")

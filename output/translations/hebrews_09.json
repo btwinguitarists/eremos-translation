@@ -53,7 +53,7 @@
         {
           "greek": "ἥτις λέγεται Ἅγια",
           "thai": "ซึ่งห้องนี้เรียกว่า วิสุทธิสถาน",
-          "rationale": "uW figs-activepassive: ‘is-called’ — Thai ‘เรียกว่า’ keeps the Greek-passive natural. uW writing-pronouns: ἥτις refers to the first-room of the tabernacle. Ἅγια ‘Holy-things / Holy-place’ → วิสุทธิสถาน (corpus standard for the inner-Holy-Place; matches MAR 16:8 type tabernacle-language; here the Outer Holy Place — the article-less Greek plural-neuter noun functions as a name)."
+          "rationale": "uW figs-activepassive: ‘is-called’ — Thai ‘เรียกว่า’ keeps the Greek-passive natural. uW writing-pronouns: ἥτις refers to the first-room of the tabernacle. Ἅγια ‘Holy-things / Holy-place’ → วิสุทธิสถาน (corpus standard for the inner-Holy-Place; compare the inner room called Ἅγια Ἁγίων in verse 3; here the Outer Holy Place — the article-less Greek plural-neuter noun functions as a name)."
         }
       ],
       "notes": "OT BACKGROUND: EXO 25:23-40 (lampstand + table + showbread); LEV 24:5-9 (12 loaves on table). λυχνία corpus-rendering คันประทีป. πρόθεσις τῶν ἄρτων technical-priestly-vocabulary (‘bread of the presence / showbread’). vv.2 + 3 distinguish two rooms: outer ‘Ἅγια’ (Holy Place) + inner ‘Ἅγια Ἁγίων’ (Most Holy Place)."
@@ -121,7 +121,7 @@
           "rationale": "πλάξ plural → แผ่นศิลา (corpus standard biblical Thai for the stone tablets of the Decalogue; cf. 2 COR 3:3 ‘แผ่นศิลา’). διαθήκης → แห่งพันธสัญญา. The two stone tablets of EXO 31:18, DEU 10:1-5."
         }
       ],
-      "notes": "TWO HAPAXES in v.4 (θυμιατήριον, στάμνος). OT BACKGROUND: EXO 16:33-34 (manna jar) + NUM 17:1-11 (Aaron's rod) + EXO 25:10-22 (ark) + DEU 10:1-5 (tablets) + EXO 30:1-10 (incense altar). uW flags the placement-of-incense-altar discrepancy with Exodus; Thai preserves the author's placement without harmonizing. ‘Ark of the covenant’ → หีบพันธสัญญา corpus standard."
+      "notes": "Hebrews places the jar, Aaron’s staff and the tablets in the ark. Exodus 16:33–34 and Numbers 17 concern preservation of the manna and staff, while Deuteronomy 10:5 expressly places the tablets inside. At the dedication of Solomon’s temple, 1 Kings 8:9 records only the tablets inside. These accounts describe different occasions."
     }
   },
   {
@@ -293,7 +293,7 @@
         {
           "greek": "δικαιώματα σαρκὸς",
           "thai": "คือกฎข้อบังคับฝ่ายเนื้อหนัง",
-          "rationale": "δικαίωμα plural ‘regulations’ → กฎข้อบังคับ (consistency with v.1). σαρκὸς genitive-of-quality → ฝ่ายเนื้อหนัง (corpus glossary-lock from ROM 7:14 ‘ฝ่ายเนื้อหนัง’; HEB 7:16 used the same phrase). uW figs-explicit: external/physical-only, not internal/spiritual."
+          "rationale": "The selected δικαιώματα introduces an explanation of the preceding observances, expressed by คือ in Thai. Tregelles adds καί (“and”). The Byzantine text has καὶ δικαιώμασιν, with a dative form continuing the preceding list."
         },
         {
           "greek": "μέχρι καιροῦ διορθώσεως ἐπικείμενα",
@@ -348,7 +348,7 @@
         {
           "greek": "οὐδὲ δι’αἵματος τράγων καὶ μόσχων",
           "thai": "พระองค์มิได้เสด็จเข้าโดยอาศัยโลหิตของแพะและลูกโค",
-          "rationale": "uW figs-explicit: refers to LEV 16 Day-of-Atonement sacrificial-pattern (bulls + goats) — though the LEV-pair is ταῦρος (bulls) + τράγος (goats), HEB 9:12 has τράγος (goats) + μόσχος (calves/young-bulls). αἷμα → โลหิต (consistency). τράγος → แพะ (corpus standard for the male-goat used in OT-sacrifice). μόσχος → ลูกโค (young-bull/calf — corpus from LUK 15:23-30 prodigal-son ‘ลูกโค’; ACT 7:41 ‘รูปลูกโค’). διά + genitive → โดยอาศัย (instrumental-‘through-by-means-of’)."
+          "rationale": "uW figs-explicit: refers to LEV 16 Day-of-Atonement sacrificial-pattern (bulls + goats) — though the LEV 16:14-15 pair in Rahlfs is μόσχος (calf/young bull) + χίμαρος (male goat), HEB 9:12 has τράγος (goats) + μόσχος (calves/young-bulls). αἷμα → โลหิต (consistency). τράγος → แพะ (corpus standard for the male-goat used in OT-sacrifice). μόσχος → ลูกโค (young-bull/calf — corpus from LUK 15:23-30 prodigal-son ‘ลูกโค’; ACT 7:41 ‘รูปลูกโค’). διά + genitive → โดยอาศัย (instrumental-‘through-by-means-of’)."
         },
         {
           "greek": "διὰ δὲ τοῦ ἰδίου αἵματος",
@@ -413,7 +413,7 @@
     "translation": {
       "thai": "พระโลหิตของพระคริสต์จะยิ่งกว่านั้นเท่าใด — ผู้ทรงถวายพระองค์เองอย่างไร้ตำหนิแด่พระเจ้า โดยพระวิญญาณนิรันดร์ — จะทรงชำระจิตสำนึกของเราจากกิจการที่ตายแล้ว เพื่อเราจะได้ปรนนิบัติพระเจ้าผู้ทรงพระชนม์อยู่",
       "thai_literal": null,
-      "thai_summary": "นี่คือข้อสรุปที่ทรงพลังที่สุดของบทที่ 9 — เลวีนิติบอกว่าโลหิตสัตว์ชำระเนื้อหนังภายนอกได้ ดังนั้นพระโลหิตของพระคริสต์ — ผู้ทรงถวายพระองค์เองโดยพระวิญญาณนิรันดร์ — ยิ่งจะชำระจิตสำนึกได้มากกว่าเป็นเทียม ๆ คำว่า “กิจการที่ตายแล้ว” (เชื่อมโยงกับ ฮีบรู 6:1) คือการกระทำที่ไม่นำชีวิต — การกระทำที่หวังจะได้รับความรอดด้วยตนเอง",
+      "thai_summary": "ถ้าเครื่องบูชาที่กล่าวมาใช้ชำระร่างกายได้ พระโลหิตของพระคริสต์จะยิ่งชำระจิตสำนึกของเราจากกิจการที่ตายแล้วได้มากเพียงใด เพื่อเราจะได้ปรนนิบัติพระเจ้าผู้ทรงพระชนม์อยู่",
       "key_decisions": [
         {
           "greek": "πόσῳ μᾶλλον τὸ αἷμα τοῦ Χριστοῦ",
@@ -533,7 +533,7 @@
         {
           "greek": "ὅθεν οὐδὲ ἡ πρώτη χωρὶς αἵματος",
           "thai": "เพราะเหตุนี้ แม้แต่พันธสัญญาแรกก็มิได้ ... โดยปราศจากโลหิต",
-          "rationale": "ὅθεν inferential ‘therefore’ → เพราะเหตุนี้. uW writing-pronouns: ‘the first’ — RESUMES the covenant-meaning from v.7 (the Mosaic-covenant), shift back from vv.16-17 will-meaning. Thai ‘พันธสัญญาแรก’ resumes the v.1 + v.7 + v.15 lock. uW figs-doublenegatives: οὐδέ + χωρίς ‘not-even-without’ — Thai ‘แม้แต่ ... ก็มิได้ ... โดยปราศจาก’ keeps the emphatic-double-negation. αἷμα → โลหิต (consistency)."
+          "rationale": "ὅθεν inferential ‘therefore’ → เพราะเหตุนี้. uW writing-pronouns: ‘the first’ — resumes the covenant sense from v.15 after the will illustration in vv.16–17 (the Mosaic-covenant), shift back from vv.16-17 will-meaning. Thai ‘พันธสัญญาแรก’ resumes the v.1 + v.7 + v.15 lock. uW figs-doublenegatives: οὐδέ + χωρίς ‘not-even-without’ — Thai ‘แม้แต่ ... ก็มิได้ ... โดยปราศจาก’ keeps the emphatic-double-negation. αἷμα → โลหิต (consistency)."
         },
         {
           "greek": "ἐγκεκαίνισται",
@@ -571,7 +571,7 @@
           "rationale": "βιβλίον → หนังสือม้วน (the law-scroll; corpus-rendering for biblical-scroll). uW chapter-intro: scholars note that EXO 24 does not mention sprinkling-the-scroll explicitly; HEB 9:19 adds this detail — uW directs to translate-as-the-author-says without harmonizing with Exodus. ῥαντίζω aorist-active-3sg → ประพรม. λαός → ประชาชน. The verse summarizes the inauguration-ritual."
         }
       ],
-      "notes": "OT BACKGROUND: EXO 24:1-8 (Mosaic-covenant inauguration). Author adds details (water + scarlet wool + hyssop + scroll-sprinkling) not in EXO 24 itself — drawing on LEV 14, NUM 19 ritual-traditions or oral-tradition. uW directs: do not harmonize; render what HEB says. ἔριον κόκκινον + ὕσσωπος corpus-locked terms."
+      "notes": "OT BACKGROUND: EXO 24:1-8 (Mosaic-covenant inauguration). Author adds details (water + scarlet wool + hyssop + scroll-sprinkling) not in EXO 24 itself — drawing on LEV 14, NUM 19 ritual-traditions or oral-tradition. uW directs: do not harmonize; render what HEB says. ἔριον κόκκινον + ὕσσωπος corpus-locked terms. The selected Greek mentions calves. NA28 brackets the additional words “and of goats,” included in the English comparison. Exodus 24:7–8 records reading the book and sprinkling the people. Hebrews also mentions sprinkling the book."
     }
   },
   {
@@ -593,10 +593,10 @@
         {
           "greek": "Τοῦτο τὸ αἷμα τῆς διαθήκης ἧς ἐνετείλατο πρὸς ὑμᾶς ὁ θεός",
           "thai": "“นี่คือโลหิตแห่งพันธสัญญาซึ่งพระเจ้าได้ทรงบัญชาแก่พวกเจ้า”",
-          "rationale": "DIRECT QUOTATION EXO 24:8 LXX. The Greek closely-but-not-identically matches MAT 26:28 / MAR 14:24 ‘τοῦτο γάρ ἐστιν τὸ αἷμά μου τῆς διαθήκης’ — HEB 9:20 omits ‘μου’ (Moses speaks of God's covenant-blood, not his own); the Last-Supper-version adds ‘μου’ (Christ speaks of his-own blood). Thai keeps the corpus-locked ‘โลหิตแห่งพันธสัญญา’ formula (cf. MAT 26:28 / MAR 14:24 ‘โลหิตแห่งพันธสัญญา’ lock). ἐντέλλω aorist-middle-3sg ‘has-commanded’ → ได้ทรงบัญชา (royal-honorific for divine-command). Curly outer quotes “…” per RULES §5b. The deliberate-resonance with the Last-Supper-formula is the author's central-typological move: Mosaic-covenant-blood prefigures Christ's-covenant-blood."
+          "rationale": "Greek Exodus 24:8 opens “Behold,” says that the Lord made the covenant, and closes by referring to the words. Hebrews opens “This,” says God commanded it, and leaves off that closing phrase. Matthew 26:28 includes γάρ in the words over the cup. Mark 14:24 has no γάρ."
         }
       ],
-      "notes": "DIRECT CITATION EXO 24:8 LXX. Deliberate-resonance with MAT 26:28 / MAR 14:24 / LUK 22:20 / 1 COR 11:25 Last-Supper-formula. Thai ‘โลหิตแห่งพันธสัญญา’ corpus-locked from MAT 26:28 / MAR 14:24. ἐντέλλομαι middle-deponent — Thai ‘ทรงบัญชา’ supplies the royal-divine-honorific. ‘พวกเจ้า’ = 2pl-formal-address (RULES §3 — God-to-humanity; Moses-as-mediator addresses the-people-as-divine-spokesman)."
+      "notes": "Greek Exodus 24:8 opens “Behold,” says that the Lord made the covenant, and closes by referring to the words. Hebrews opens “This,” says God commanded it, and leaves off that closing phrase. Matthew 26:28 includes γάρ in the words over the cup. Mark 14:24 has no γάρ."
     }
   },
   {
@@ -613,10 +613,10 @@
         {
           "greek": "καὶ τὴν σκηνὴν δὲ καὶ πάντα τὰ σκεύη τῆς λειτουργίας",
           "thai": "และในทำนองเดียวกัน ท่านได้ประพรมโลหิตบนพลับพลาและภาชนะทุกชิ้นที่ใช้ในการปรนนิบัติ",
-          "rationale": "Compound construction: σκηνή + σκεύη ‘tabernacle + vessels.’ σκηνή → พลับพลา (consistency). σκεῦος plural → ภาชนะทุกชิ้น (corpus glossary-lock from MAR 11:16, 2 TIM 2:20; 2 COR 4:7). λειτουργία → การปรนนิบัติ (consistency v.6). ὁμοίως → ในทำนองเดียวกัน. ῥαντίζω aorist-active-3sg → ได้ประพรมโลหิต. uW writing-background: not in EXO 24 — author draws on LEV 8:11, 19; 16:14-19 sprinkling-traditions."
+          "rationale": "Leviticus 8:10–11 describes anointing the tent and sprinkling the altar with oil. Verse 19 uses ram blood around the altar. Leviticus 16:14–19 uses animal blood in the inner sanctuary and at the altar, and includes the tent in the rite. Hebrews describes sprinkling the tent and its vessels with blood."
         }
       ],
-      "notes": "uW chapter-intro: EXO 24 does not mention this sprinkling — author draws on LEV 8:11, 19 (anointing-and-sprinkling of tabernacle + utensils at Aaronic-consecration) and LEV 16:14-19 (Day-of-Atonement sprinkling). σκεῦος corpus-locked."
+      "notes": "Leviticus 8:10–11 describes anointing the tent and sprinkling the altar with oil. Verse 19 uses ram blood around the altar. Leviticus 16:14–19 uses animal blood in the inner sanctuary and at the altar, and includes the tent in the rite. Hebrews describes sprinkling the tent and its vessels with blood."
     }
   },
   {
@@ -628,12 +628,12 @@
     "translation": {
       "thai": "และตามธรรมบัญญัติแล้ว เกือบทุกสิ่งจะต้องชำระให้บริสุทธิ์ด้วยโลหิต และโดยปราศจากการหลั่งโลหิต ก็ไม่มีการยกโทษบาป",
       "thai_literal": null,
-      "thai_summary": "ข้อนี้สรุปหลักการกลางของพันธสัญญาเดิม — โลหิตจำเป็นต้องไหลออกมาเพื่อให้มีการชำระบาปและการให้อภัย หลักการนี้มาจาก เลวีนิติ 17:11 (“ชีวิตของเนื้อหนังอยู่ในโลหิต”) คำว่า “เกือบทุกสิ่ง” ยอมรับข้อยกเว้น เช่น การถวายของแห่งอธรรมโดยใช้แป้งสำหรับคนยากจน (เลวีนิติ 5:11-13)",
+      "thai_summary": "ข้อนี้สรุปหลักการกลางของพันธสัญญาเดิม — โลหิตจำเป็นต้องไหลออกมาเพื่อให้มีการชำระบาปและการให้อภัย หลักการนี้มาจาก เลวีนิติ 17:11 (“ชีวิตของเนื้อหนังอยู่ในโลหิต”) คำว่า “เกือบทุกสิ่ง” ยอมรับข้อยกเว้น เช่น การถวายแป้งละเอียดเป็นเครื่องบูชาไถ่บาปสำหรับคนยากจน (เลวีนิติ 5:11-13)",
       "key_decisions": [
         {
           "greek": "καὶ σχεδὸν ἐν αἵματι πάντα καθαρίζεται κατὰ τὸν νόμον",
           "thai": "และตามธรรมบัญญัติแล้ว เกือบทุกสิ่งจะต้องชำระให้บริสุทธิ์ด้วยโลหิต",
-          "rationale": "σχεδόν ‘nearly / almost’ (rare-NT) → เกือบ. καθαρίζω present-passive-3sg → ชำระให้บริสุทธิ์. uW figs-explicit: σχεδόν acknowledges-exceptions (LEV 5:11-13 grain-offering for poor; LEV 16:16 incense-offering — minor categorical-exceptions to the blood-rule). νόμος → ธรรมบัญญัติ (consistency)."
+          "rationale": "σχεδόν ‘nearly / almost’ (rare-NT) → เกือบ. καθαρίζω present-passive-3sg → ชำระให้บริสุทธิ์. uW figs-explicit: σχεδόν acknowledges-exceptions (LEV 5:11-13 fine-flour sin offering for the poor). νόμος → ธรรมบัญญัติ (consistency)."
         },
         {
           "greek": "καὶ χωρὶς αἱματεκχυσίας οὐ γίνεται ἄφεσις",
@@ -678,7 +678,7 @@
     "translation": {
       "thai": "เพราะพระคริสต์มิได้เสด็จเข้าไปในวิสุทธิสถานที่สร้างขึ้นด้วยมือมนุษย์ ซึ่งเป็นเพียงภาพแทนของวิสุทธิสถานที่แท้จริง แต่พระองค์เสด็จเข้าสู่สวรรค์เอง บัดนี้ทรงปรากฏเฉพาะพระพักตร์ของพระเจ้าเพื่อเรา",
       "thai_literal": null,
-      "thai_summary": "ข้อนี้กำหนดสถานที่ของการปฏิบัติงานในฐานะมหาปุโรหิตของพระคริสต์ — ไม่ใช่ในพระวิหารบนแผ่นดินโลกที่ถูกทำลายใน ค.ศ. 70 แต่ใน “สวรรค์เอง” พระองค์ทรงปรากฏ “เฉพาะพระพักตร์ของพระเจ้า” — เป็นภาษาราชสำนักที่ใช้สำหรับการเข้าเฝ้าพระมหากษัตริย์ในห้องบัลลังก์ส่วนพระองค์ — เพื่อเป็นทูตวิงวอนให้กับบรรดาผู้เชื่อ (เปรียบเทียบกับ ฮีบรู 7:25)",
+      "thai_summary": "วิสุทธิสถานที่มนุษย์สร้างเป็นภาพจำลองของวิสุทธิสถานแท้ พระคริสต์เสด็จเข้าสู่สวรรค์เอง และบัดนี้ทรงปรากฏเฉพาะพระพักตร์พระเจ้าเพื่อเรา",
       "key_decisions": [
         {
           "greek": "οὐ γὰρ εἰς χειροποίητα εἰσῆλθεν ἅγια Χριστός",
@@ -761,7 +761,7 @@
           "rationale": "ἀθέτησις → การยกเลิก (corpus-locked from HEB 7:18 ‘ถูกยกเลิก’). ἁμαρτία → บาป (consistency). διὰ τῆς θυσίας αὐτοῦ ‘through his sacrifice’ → ด้วยการถวายพระองค์เอง (the sacrifice = his-self-offering, per v.14, 25). φανερόω perfect-passive ‘has-been-manifested’ → ได้ทรงปรากฏ (Thai brings this clause forward to ‘ได้ทรงปรากฏ’ in the previous sub-clause, then unfolds the purpose ‘เพื่อทรงยกเลิก’ — the Greek-final-position is rendered as a unified Thai sentence with the manifestation-purpose-result triad)."
         }
       ],
-      "notes": "καταβολή corpus-locked. συντέλεια τῶν αἰώνων corpus-locked (NT-eschatology-formula). ἀθέτησις corpus-locked from HEB 7:18. The verse is a triple-temporal structure: counterfactual-pre-creation + present-incarnation-now + eschatological-end-of-ages — the once-for-all event-of-Christ at the climax of the ages."
+      "notes": "καταβολή corpus-locked. συντέλεια τῶν αἰώνων corpus-locked (NT-eschatology-formula). ἀθέτησις corpus-locked from HEB 7:18. The verse is a triple-temporal structure: hypothetical repeated suffering since the foundation of the world + present-incarnation-now + eschatological-end-of-ages — the once-for-all event-of-Christ at the climax of the ages."
     }
   },
   {
@@ -798,7 +798,7 @@
     "translation": {
       "thai": "ก็เช่นเดียวกัน พระคริสต์ได้ทรงถูกถวายเพียงครั้งเดียว เพื่อทรงรับแบกบาปของคนเป็นอันมาก และพระองค์จะทรงเสด็จมาเป็นครั้งที่สอง โดยไม่ทรงเกี่ยวข้องกับบาปอีก เพื่อนำความรอดมาสู่บรรดาผู้ที่กำลังคอยท่าพระองค์",
       "thai_literal": null,
-      "thai_summary": "บทที่ 9 จบลงด้วยพันธสัญญาสำหรับการเสด็จกลับมาของพระคริสต์ — การเสด็จมาครั้งแรกของพระองค์เป็นเพื่อแบกรับบาป การเสด็จมาครั้งที่สองจะ “ไม่เกี่ยวข้องกับบาป” แต่เพื่อนำความรอดที่สมบูรณ์มาสู่ผู้เชื่อ ภาพในใจคืออาโรนผู้ที่ออกมาจากอภิสุทธิสถานหลังจากการลบมลทินสำเร็จเรียบร้อย และประชาชนที่รออย่างใจจดใจจ่อก็เห็นการรับพระพรของท่าน",
+      "thai_summary": "พระคริสต์ทรงถวายพระองค์ครั้งเดียวเพื่อรับแบกบาปของคนเป็นอันมาก เมื่อพระองค์เสด็จมาอีกครั้ง พระองค์จะทรงนำความรอดมาสู่ผู้ที่เฝ้ารอพระองค์",
       "key_decisions": [
         {
           "greek": "οὕτως καὶ ὁ Χριστός, ἅπαξ προσενεχθεὶς",

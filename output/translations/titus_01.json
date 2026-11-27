@@ -53,12 +53,12 @@
         {
           "greek": "ἐπ’ ἐλπίδι ζωῆς αἰωνίου",
           "thai": "ในความหวังแห่งชีวิตนิรันดร์",
-          "rationale": "ἐλπίς → ความหวัง corpus-precedent 1 Tim 1:1 + GAL 5:5 + ROM 8:24 same lemma. ζωὴ αἰώνιος → ชีวิตนิรันดร์ corpus-locked across NT (JHN 6:68, 1 Tim 1:16, 2 Tim 2:10, ACT 13:48). The ἐπί + dative construction (‘upon-the-basis-of-hope / in-the-hope’) → ‘ใน’ rendering preserves the basis-relation. Per uW grammar-connect-words: hope here likely connects to εὐσέβεια in v.1 (godliness-anchored-in-eternal-life-hope), creating the pastoral motivational structure."
+          "rationale": "ζωῆς αἰωνίου is ‘eternal life.’ Second Timothy 2:10 speaks of eternal glory, while 2 Timothy 1:9 shares the temporal phrase πρὸ χρόνων αἰωνίων. Thai conveys the promise as preceding the ages."
         },
         {
           "greek": "ἣν ἐπηγγείλατο ὁ ἀψευδὴς θεὸς",
           "thai": "ซึ่งพระเจ้าผู้ไม่ตรัสมุสาทรงสัญญาไว้",
-          "rationale": "HAPAX ἀψευδής (only here NT) — ἀ-privative + ψεῦδος ‘falsehood’ = ‘never-lying / incapable-of-lying.’ Per uW figs-doublenegatives: render literal double-negative form ‘ผู้ไม่ตรัสมุสา’ rather than collapsing to positive ‘ผู้สัตย์จริง’ — preserves the rhetorical force of God’s incapacity-to-lie (NOT merely his trustworthiness). Royal verb ตรัส used for divine-speech rather than plain พูด, matching the divine-subject register. ἐπαγγέλλομαι middle aorist → ทรงสัญญา (royal-prefix divine-promise)."
+          "rationale": "ἀψευδής is a single adjective with privative ἀ-. ผู้ไม่ตรัสมุสา expresses its meaning with a single negation and the royal speech verb appropriate to God."
         },
         {
           "greek": "πρὸ χρόνων αἰωνίων",
@@ -76,7 +76,7 @@
     "greek": "ἐφανέρωσεν δὲ καιροῖς ἰδίοις,τὸν λόγον αὐτοῦ ἐν κηρύγματι ὃ ἐπιστεύθην ἐγὼ κατ’ἐπιταγὴν τοῦ σωτῆρος ἡμῶν θεοῦ,",
     "bsb_english": "In His own time He has made His word evident in the proclamation entrusted to me by the command of God our Savior.",
     "translation": {
-      "thai": "และในเวลาอันสมควรของพระองค์ พระองค์ทรงเปิดเผยพระวจนะของพระองค์ผ่านการประกาศ ซึ่งข้าพเจ้าได้รับมอบหมายให้รักษา ตามพระบัญชาของพระเจ้าพระผู้ช่วยให้รอดของเรา",
+      "thai": "และในเวลาอันสมควรของพระองค์ พระองค์ทรงเปิดเผยพระวจนะของพระองค์ผ่านการประกาศ ซึ่งข้าพเจ้าได้รับมอบหมาย ตามพระบัญชาของพระเจ้าพระผู้ช่วยให้รอดของเรา",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
@@ -92,13 +92,13 @@
         },
         {
           "greek": "ὃ ἐπιστεύθην ἐγὼ",
-          "thai": "ซึ่งข้าพเจ้าได้รับมอบหมายให้รักษา",
-          "rationale": "Corpus-precedent 1 Tim 1:11 same passive-voice ‘entrusted-to-me’ formula rendered identically. πιστεύω passive ‘be-entrusted-with’ — preserve the divine-passive (God as implicit-agent who entrusted). The relative pronoun ὅ refers back to κήρυγμα (the proclamation that was entrusted)."
+          "thai": "ซึ่งข้าพเจ้าได้รับมอบหมาย",
+          "rationale": "The relative refers to proclamation. There is no verb of guarding in this clause."
         },
         {
           "greek": "κατ’ ἐπιταγὴν τοῦ σωτῆρος ἡμῶν θεοῦ",
           "thai": "ตามพระบัญชาของพระเจ้าพระผู้ช่วยให้รอดของเรา",
-          "rationale": "CORPUS-LOCKED Pastoral-σωτήρ-applied-to-Father per pastoral_corpus_locks_2026-05.md §C — exact-match precedent at 1 Tim 1:1 + 1 Tim 2:3 with same Thai rendering. ἐπιταγή → พระบัญชา corpus-precedent 1 Tim 1:1. The Pastoral pattern of σωτήρ-applied-to-the-Father (here) vs. -applied-to-Christ (v.4) is preserved verbatim from the established 1 Tim corpus."
+          "rationale": "θεοῦ σωτῆρος ἡμῶν identifies God as our Savior, as in 1 Timothy 1:1 and 2:3. Titus 1:4 applies the title to Christ Jesus, as does 2 Timothy 1:10. The two adjacent uses in Titus have distinct referents."
         }
       ],
       "notes": "Three corpus-locked phrases applied: σωτήρ-Pastoral-Father, καιροῖς ἰδίοις, κατ’ ἐπιταγὴν θεοῦ. The grammatical chain (faith of elect + knowledge of truth → hope of eternal life → promised before time → revealed in his own time → entrusted to me) makes vv.1-3 a single complex sentence in Greek."
@@ -126,7 +126,7 @@
           "rationale": "Two-element greeting (χάρις + εἰρήνη), DISTINCT from 1 Tim/2 Tim three-element χάρις + ἔλεος + εἰρήνη — preserve the Greek-strict 2-element form. CORPUS-LOCKED Pastoral-σωτήρ-Christ application per pastoral_corpus_locks_2026-05.md §C: Χριστοῦ Ἰησοῦ τοῦ σωτῆρος ἡμῶν → พระเยซูคริสต์ พระผู้ช่วยให้รอดของเรา exact precedent 2 Tim 1:10. πατήρ → พระเจ้าพระบิดา corpus-precedent 1 Tim 1:2 + 2 Tim 1:2. Per uW figs-ellipsis: greeting elides the verb of well-wishing (ἔστω / ‘may-it-be-with-you’); render ‘ขอ ... จงดำรงอยู่กับท่าน’ to supply the verb in a way natural to Thai while preserving the formulaic-greeting register."
         }
       ],
-      "notes": "Salutation. CORPUS-LOCKED σωτήρ-applied-to-Christ rendering preserved (4th Pastoral instance after 2 Tim 1:10 + Tit 1:4 future-instances 2:13, 3:6). Two-element χάρις+εἰρήνη greeting deliberate (no ἔλεος); the Greek pattern is followed strictly."
+      "notes": "In canonical order this is the second use of the noun σωτήρ for Christ in the Pastoral Epistles, after 2 Timothy 1:10. Titus 2:13 and 3:6 also apply the title to him. In SBLGNT and NA28 the greeting asks for grace and peace. It names the Father and identifies Christ Jesus as our Savior. Robinson–Pierpont includes mercy in the greeting and has the longer title ‘Lord Jesus Christ.’"
     }
   },
   {
@@ -158,7 +158,7 @@
         {
           "greek": "καὶ καταστήσῃς κατὰ πόλιν πρεσβυτέρους",
           "thai": "และตั้งผู้ปกครองในแต่ละเมือง",
-          "rationale": "καθίστημι aorist subjunctive → ตั้ง (appoint/install). πρεσβύτερος → ผู้ปกครอง corpus-precedent 1 Tim 5:19 — church-elder office (distinct from generic ‘older-man’ at 1 Tim 5:1). κατὰ πόλιν → ในแต่ละเมือง (distributive ‘town-by-town’); the city-by-city distribution implies elder-plurality per local-church (a Pauline pattern, cf. ACT 14:23)."
+          "rationale": "καθίστημι aorist subjunctive → ตั้ง (appoint/install). πρεσβύτερος → ผู้ปกครอง corpus-precedent 1 Tim 5:19 — church-elder office (distinct from generic ‘older-man’ at 1 Tim 5:1). κατὰ πόλιν → ในแต่ละเมือง (distributive ‘town-by-town’); the unit of distribution here is the town (cf. ACT 14:23, where the unit is the church)."
         },
         {
           "greek": "ὡς ἐγώ σοι διεταξάμην",
@@ -166,7 +166,7 @@
           "rationale": "διατάσσω middle aorist → ได้กำชับ — directive-instruction; same lemma-family as παραγγέλλω/διαμαρτύρομαι in pastoral-charge contexts. Corpus-precedent 1 Cor 9:14, 1 Cor 11:34 same lemma. The middle voice slightly emphasizes Paul’s personal-investment in the directive (not impersonal-decree)."
         }
       ],
-      "notes": "HAPAX ἐπιδιορθόω. Crete-context: Paul’s missionary stop on the island (cf. ACT 27 voyage-references confirm Paul’s Crete-travel). ἐπιδιορθόω + καθίστημι together describe Titus’s two-fold mandate: COMPLETE-arrangement + APPOINT-elders. πρεσβύτερος here is the ecclesiastical-office (synonymous with ἐπίσκοπος at v.7 per uW translate-unknown)."
+      "notes": "HAPAX ἐπιδιορθόω. Crete-context: Paul left Titus in Crete. ἐπιδιορθόω + καθίστημι together describe Titus’s two-fold mandate: COMPLETE-arrangement + APPOINT-elders. πρεσβύτερος here is the ecclesiastical-office (synonymous with ἐπίσκοπος at v.7 per uW translate-unknown)."
     }
   },
   {
@@ -291,7 +291,7 @@
           "rationale": "HAPAX ἐγκρατής (only here NT) — compound ἐν + κράτος ‘in-strength / having-mastery’ = ‘self-controlled / disciplined.’ Render ‘รู้จักบังคับตน’ to preserve self-mastery / self-discipline sense, distinct from σώφρονα’s ‘know-measure-of-oneself.’ Together with σώφρονα forms a closing self-discipline doublet (sensible + self-controlled) that bookends the v.8 positive-list."
         }
       ],
-      "notes": "TWO HAPAX (φιλάγαθος + ἐγκρατής). Six-fold positive virtue list complementing v.7’s six-fold negative list: each positive matches a negative (e.g., φιλόξενος ↔ μὴ αὐθάδης = open-hospitable vs. self-willed-closed). The σώφρων-ἐγκρατής pairing forms a self-discipline inclusio with v.7’s character-prohibition cluster. σώφρων → ‘มีสติสัมปชัญญะ’ corpus-locked from 1 Tim 3:2 (paired distinctly from νηφάλιος → ‘รู้จักประมาณตน’)."
+      "notes": "The six positive qualities introduced by ἀλλά contrast with the preceding list as a whole. In verse 7 the requirement to be blameless is followed by five expressions introduced with μή. The order does not require each positive quality to correspond to one prohibition."
     }
   },
   {
@@ -308,7 +308,7 @@
         {
           "greek": "ἀντεχόμενον τοῦ κατὰ τὴν διδαχὴν πιστοῦ λόγου",
           "thai": "ยึดมั่นในถ้อยคำที่เชื่อถือได้ตามคำสอนที่ได้รับมา",
-          "rationale": "Per uW figs-metaphor: ἀντέχομαι ‘hold-against / cling-to’ depicts devotion-as-grasping. Render ‘ยึดมั่น’ — natural Thai for tenacious-adherence; preserves the active-firm-grip dimension. πιστοῦ λόγου ATTRIBUTIVE (‘faithful-word’) DISTINCT from the πιστὸς ὁ λόγος Pastoral CITATION-FORMULA locked separately at pastoral_corpus_locks §A as ‘ถ้อยคำนี้เชื่อถือได้.’ Render the attributive form as ‘ถ้อยคำที่เชื่อถือได้’ adjectivally to preserve the formula-vs-attributive distinction (formula uses standalone-pronoun ὁ + predicate; here genitive-attributive with λόγου head). διδαχή → คำสอน corpus-precedent 2 Tim 4:2 differentiates διδαχή ‘act/content-of-teaching’ from διδασκαλία ‘body-of-teaching.’ κατά τὴν διδαχήν = ‘according-to-the-teaching-tradition’ → ‘ตามคำสอนที่ได้รับมา.’"
+          "rationale": "Per uW figs-metaphor: ἀντέχομαι ‘hold-against / cling-to’ depicts devotion-as-grasping. Render ‘ยึดมั่น’ — natural Thai for tenacious-adherence; preserves the active-firm-grip dimension. πιστοῦ λόγου ATTRIBUTIVE (‘faithful-word’) DISTINCT from the πιστὸς ὁ λόγος Pastoral CITATION-FORMULA locked separately at pastoral_corpus_locks §A as ‘ถ้อยคำนี้เชื่อถือได้.’ Render the attributive form as ‘ถ้อยคำที่เชื่อถือได้’ adjectivally to preserve the formula-vs-attributive distinction (formula uses predicate πιστός + articular subject ὁ λόγος; here genitive-attributive with λόγου head). διδαχή → คำสอน corpus-precedent 2 Tim 4:2 differentiates διδαχή ‘act/content-of-teaching’ from διδασκαλία ‘body-of-teaching.’ κατά τὴν διδαχήν = ‘according-to-the-teaching-tradition’ → ‘ตามคำสอนที่ได้รับมา.’"
         },
         {
           "greek": "ἵνα δυνατὸς ᾖ καὶ παρακαλεῖν ἐν τῇ διδασκαλίᾳ τῇ ὑγιαινούσῃ",
@@ -348,7 +348,7 @@
         {
           "greek": "μάλιστα οἱ ἐκ τῆς περιτομῆς",
           "thai": "โดยเฉพาะอย่างยิ่งพวกที่มาจากกลุ่มผู้เข้าสุหนัต",
-          "rationale": "Per uW figs-metonymy: περιτομή representing Jewish-believers-who-taught-circumcision-required (the Judaizer-faction Paul opposed in Gal + Acts 15). περιτομή → ผู้เข้าสุหนัต / กลุ่มผู้เข้าสุหนัต corpus-precedent GAL 2:7-9 same lemma same Thai-pattern. μάλιστα → โดยเฉพาะอย่างยิ่ง (intensifier ‘especially’)."
+          "rationale": "οἱ ἐκ τῆς περιτομῆς identifies a subgroup associated with circumcision. Acts 15:1 records an explicit demand for Gentile circumcision in a different setting. Titus 1:10–11 does not specify everything these teachers required."
         }
       ],
       "notes": "TWO HAPAX (ματαιολόγος + φρεναπάτης). The ‘circumcision-party’ identification echoes the Galatians/Acts-15 Judaizer-controversy — Cretan churches face the same teaching-pressure. Corpus-locked περιτομή handling preserved. The ἀνυπότακτοι at v.10 (false-teachers as a class) inverts the v.6 elder-qualification (children must NOT be ἀνυπότακτα) — same lemma, opposite-instances within the same chapter."
@@ -361,7 +361,7 @@
     "greek": "οὓς δεῖ ἐπιστομίζειν,οἵτινες ὅλους οἴκους ἀνατρέπουσιν διδάσκοντες ἃ μὴ δεῖ αἰσχροῦ κέρδους χάριν.",
     "bsb_english": "who must be silenced. For the sake of dishonorable gain, they undermine entire households and teach things they should not.",
     "translation": {
-      "thai": "ซึ่งต้องห้ามไม่ให้พูด เพราะพวกเขาทำลายครอบครัวทั้งหลายให้ล้มลง โดยสอนสิ่งที่ไม่ควรสอน เพราะเห็นแก่กำไรอันน่าอาย",
+      "thai": "ซึ่งต้องห้ามไม่ให้พูด เพราะพวกเขาทำให้คนทั้งครอบครัวหลงผิด โดยสอนสิ่งที่ไม่ควรสอน เพราะเห็นแก่กำไรอันน่าอาย",
       "thai_literal": null,
       "thai_summary": null,
       "key_decisions": [
@@ -372,8 +372,8 @@
         },
         {
           "greek": "οἵτινες ὅλους οἴκους ἀνατρέπουσιν",
-          "thai": "เพราะพวกเขาทำลายครอบครัวทั้งหลายให้ล้มลง",
-          "rationale": "Per uW figs-explicit: leading-families-away-from-truth + destroying-their-faith. ἀνατρέπω → ‘ทำลาย ... ให้ล้มลง’ — preserves the overturning-from-stability sense (literally ‘turn-up / overturn’) that ἀνατρέπω carries. ὅλους οἴκους → ‘ครอบครัวทั้งหลาย’ — household-as-spiritual-unit, not just physical-house; matches 1 Tim 3:15 οἶκος-θεοῦ rendering ‘ครอบครัว.’"
+          "thai": "เพราะพวกเขาทำให้คนทั้งครอบครัวหลงผิด",
+          "rationale": "ὅλους marks the breadth of harm within each household."
         },
         {
           "greek": "διδάσκοντες ἃ μὴ δεῖ",
@@ -386,7 +386,7 @@
           "rationale": "αἰσχρός + κέρδος same word-stems as v.7’s αἰσχροκερδής compound — corpus-internal echo. Where v.7 forbids the elder from BEING αἰσχροκερδής (greedy-for-shameful-gain), here at v.11 the false-teachers ARE driven by αἰσχροῦ κέρδους (shameful-gain). Render parallel: เห็นแก่กำไรอันน่าอาย here / โลภในกำไรอันน่าอาย at v.7 — same image, contrasting actor (false-teachers do it; elders-must-not). χάριν here = ‘for-the-sake-of’ → ‘เพราะเห็นแก่.’"
         }
       ],
-      "notes": "HAPAX ἐπιστομίζω. Per metaphor-flattening principle (pastoral_corpus_locks §J): muzzle-vehicle flattened to silence-target-sense — this is a Pastoral-pattern application (compare γαστέρες-belly v.12, κνήθω-itching 2 Tim 4:3). Echoes the Pastoral pattern at 1 Tim 6:5 + 2 Tim 3:6 of false-teachers as profit-motivated-household-disrupters. The αἰσχρο-κέρδος vocabulary tightly binds v.7 (elder-prohibition) to v.11 (false-teacher-description) as inverse-images of the same trait."
+      "notes": "Titus links the disruption of whole households to teaching for shameful gain. Verse 7 has already ruled out shameful gain for an overseer. First Timothy 6:5 speaks of treating godliness as a means of gain; 2 Timothy 3:6 describes entering households and taking people captive there."
     }
   },
   {
@@ -418,7 +418,7 @@
         {
           "greek": "γαστέρες ἀργαί",
           "thai": "เป็นคนตะกละและเกียจคร้าน",
-          "rationale": "Per uW figs-synecdoche: γαστήρ ‘belly’ representing the whole-person-dominated-by-eating; ἀργός ‘lazy / idle.’ Per pastoral_corpus_locks_2026-05.md §J metaphor-flattening: the belly-synecdoche-vehicle reads incongruously in Thai for human-character (would sound vulgar / cartoonish). Target sense (gluttonous-and-lazy character) preserved as paired-trait ‘ตะกละและเกียจคร้าน.’ The two-fold paired rendering matches the Greek-noun-adjective genitive-pairing structurally."
+          "rationale": "Per uW figs-synecdoche: γαστήρ ‘belly’ representing the whole-person-dominated-by-eating; ἀργός ‘lazy / idle.’ Per pastoral_corpus_locks_2026-05.md §J metaphor-flattening: the belly-synecdoche-vehicle reads incongruously in Thai for human-character (would sound vulgar / cartoonish). Target sense (gluttonous-and-lazy character) preserved as paired-trait ‘ตะกละและเกียจคร้าน.’ The Thai expresses as two traits what the Greek conveys through a noun (γαστέρες) and its agreeing adjective (ἀργαί), both feminine nominative plural."
         }
       ],
       "notes": "Epimenides quotation (6th-c. BC Cretan poet, fragment from his Cretica). Per RULES §5b: direct-speech in curly Thai-quotes “…” applied. Per metaphor-flattening (pastoral_corpus_locks §J): γαστέρες-belly-synecdoche flattened to natural Thai-paired character-trait. The famous ‘Cretan Liar Paradox’ (a Cretan saying that all Cretans always lie) functions here as ‘self-witness from within the culture’ — Paul uses an insider-source for cultural critique, mirroring the Acts 17:28 Aratus-citation pattern (pagan-source confirming biblical-truth)."
@@ -448,7 +448,7 @@
         {
           "greek": "ἵνα ὑγιαίνωσιν ἐν τῇ πίστει",
           "thai": "เพื่อพวกเขาจะมีความเชื่อที่ถูกต้อง",
-          "rationale": "CORPUS-LOCKED ὑγιαίνω → ถูกต้อง per hygiaino_sound_doctrine_2026-05.md — verbal-form here, predicate of πίστις. Render with ความเชื่อ + ที่ถูกต้อง — preserves the lemma core ถูกต้อง modifying ความเชื่อ rather than literal adverbial ‘be-sound-in-the-faith’ (which would force ‘ถูกต้องในความเชื่อ’ — less natural Thai). Per uW figs-abstractnouns: πίστις = ‘what-they-believe-about-God’; the ‘sound faith’ frame indicates faith-content-correctness rather than faith-act-strength."
+          "rationale": "The people receiving correction are the subject of ὑγιαίνωσιν, ‘that they may be sound.’ ἐν τῇ πίστει specifies the sphere of that soundness. มีความเชื่อที่ถูกต้อง expresses the intended restoration through the language of sound faith; the exhortation also concerns their lives."
         }
       ],
       "notes": "CORPUS-LOCKED ὑγιαίνω → ถูกต้อง applied (verbal-form variant — 6th Pastoral occurrence + 2nd Titus occurrence). Per metaphor-flattening (pastoral_corpus_locks §J): ἀποτόμως-cutting-vehicle flattened to severity-target-sense ‘เคร่งครัด.’ The αὐτούς-referent is best read as Cretan-believers (with v.14 explaining the corrective goal of not-following-Jewish-myths)."
@@ -498,7 +498,7 @@
         {
           "greek": "πάντα καθαρὰ τοῖς καθαροῖς",
           "thai": "สำหรับคนบริสุทธิ์ ทุกสิ่งก็บริสุทธิ์",
-          "rationale": "Per uW writing-proverbs: aphoristic-form (Paul invokes or creates a proverb to teach inward-purity). καθαρός → บริสุทธิ์ corpus-precedent 1 Tim 1:5 + 3:9 same lemma same Thai. Dative of beneficiary (‘to-the-pure’) → สำหรับ. The chiastic-balance (πάντα καθαρὰ : καθαροῖς) preserved structurally: ‘สำหรับคน-A ทุกสิ่งก็-A.’"
+          "rationale": "The repetition of καθαρά and καθαροῖς sets the description of things alongside the description of people. Thai repeats บริสุทธิ์ and introduces each group before its corresponding statement."
         },
         {
           "greek": "τοῖς δὲ μεμιαμμένοις καὶ ἀπίστοις οὐδὲν καθαρόν",
@@ -511,7 +511,7 @@
           "rationale": "νοῦς → จิตใจ — the rational-cognitive-faculty; per psyche_vs_pneuma_anthropological_2026-04.md anthropological-vocabulary doc. συνείδησις → จิตสำนึก corpus-precedent 1 Tim 1:5, 19; 4:2; 2 Tim 1:3 same Thai. The καί ... καί construction pairs the two faculties (mind + conscience) as both polluted — comprehensive-defilement of the inner-life. The perfect-passive μεμίανται repeated from the previous clause emphasizes the ongoing-state-of-defilement."
         }
       ],
-      "notes": "Pauline aphorism on inward-purity. Echoes Gospel teaching (MAR 7:14-23) on internal/external defilement-distinction. CORPUS-LOCKED συνείδησις applied. Per uW writing-proverbs: form preserved as gnomic-statement. The μεμιαμμένοις-doublet creates a syntactic frame around the verse — those-who-are-defiled find nothing-pure because their own νοῦς + συνείδησις are themselves defiled (defilement-as-self-perpetuating)."
+      "notes": "The verse balances ‘all things’ for the pure with ‘nothing’ for the defiled and unbelieving. The final clause says that their mind and conscience are defiled. Readers may take that as an explanation of the previous statement; ἀλλά introduces the clause as a contrast."
     }
   },
   {

@@ -86,7 +86,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**4** แต่ตรงกันข้าม เนื่องจากเราได้รับการรับรองจากพระเจ้าให้ได้รับมอบหมายข่าวประเสริฐ เราจึงประกาศเช่นนั้น ไม่ได้ทำเพื่อเอาใจมนุษย์ แต่เพื่อพระเจ้า ผู้ทรงตรวจสอบจิตใจของเรา
+**4** ตรงกันข้าม พระเจ้าทรงเห็นชอบที่จะมอบหมายข่าวประเสริฐแก่เราอย่างไร เราก็ประกาศอย่างนั้น ไม่ได้มุ่งเอาใจมนุษย์ แต่มุ่งให้พระเจ้าพอพระทัย พระองค์ทรงตรวจสอบจิตใจของเรา
 
 > ___
 
@@ -410,9 +410,9 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/1thessalonians_01.json` | `fdc756d6679cb22854a22c4d222c372bfcc5c37c81ce7855e059b8b2e389675e` |
-| `output/translations/1thessalonians_02.json` | `1c39af3e0fd06a32906b8256dc93b5fdcc8e3038e39c1b2a388ea3ca11b593d2` |
-| `output/translations/1thessalonians_03.json` | `d09d3e84833d019877b79139018fb0e5a8cb4fc87ea6b5d18580ba86614aaf99` |
-| `output/translations/1thessalonians_04.json` | `cd07f97b20211e7f2d0770cd14367bfd48d6fa91402123883344e454da6e5623` |
-| `output/translations/1thessalonians_05.json` | `ec6ee616c91b5bec3232d145ccfe6879ba62d617a4fc77c31ce0330f864adbbe` |
+| `output/translations/1thessalonians_01.json` | `0d109dd4fa51911b6a972da7a50e03db01e1b7184225ce8f0537d452653b0bd1` |
+| `output/translations/1thessalonians_02.json` | `27ffea428f3bbb7ff4d468247b571d421c9e639c370fb54d8906f8d0f21e3329` |
+| `output/translations/1thessalonians_03.json` | `76af3895882339513a7fcb3e8b32135ec7645ac852c6254c3b83fd09f0ca2fd7` |
+| `output/translations/1thessalonians_04.json` | `36bd437dd33ae76ab969c0c9b1420d121f8fd0f4f5aa2617478b053a4174ed19` |
+| `output/translations/1thessalonians_05.json` | `7700c95fd7604cdea88ba4afce8705b35a03a047154ea4d376bf923abc82f9b5` |
 

@@ -310,11 +310,11 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **3** แต่เมื่อท่านให้ทาน อย่าให้มือซ้ายของท่านรู้ว่ามือขวาของท่านทำอะไร
 
-**4** เพื่อให้ทานของท่านเป็นความลับ และพระบิดาของท่านผู้ทรงทอดพระเนตรเห็นในที่ลับจะประทานบำเหน็จแก่ท่าน
+**4** เพื่อให้ทานของท่านเป็นความลับ และพระบิดาของท่านผู้ทรงทอดพระเนตรเห็นในที่ลับจะประทานบำเหน็จแก่ท่าน [อย่างเปิดเผย]
 
 **5** และเมื่อพวกท่านอธิษฐาน อย่าเป็นเหมือนคนหน้าซื่อใจคด เพราะเขาชอบยืนอธิษฐานในธรรมศาลาและตามมุมถนนเพื่อให้คนทั้งหลายเห็น เราบอกความจริงแก่พวกท่านว่า เขาได้รับบำเหน็จของเขาเต็มที่แล้ว
 
-**6** แต่เมื่อท่านอธิษฐาน จงเข้าไปในห้องชั้นในของท่าน ปิดประตูแล้วอธิษฐานต่อพระบิดาของท่านผู้สถิตในที่ลับ และพระบิดาของท่านผู้ทรงทอดพระเนตรเห็นในที่ลับจะประทานบำเหน็จแก่ท่าน
+**6** แต่เมื่อท่านอธิษฐาน จงเข้าไปในห้องชั้นในของท่าน ปิดประตูแล้วอธิษฐานต่อพระบิดาของท่านผู้สถิตในที่ลับ และพระบิดาของท่านผู้ทรงทอดพระเนตรเห็นในที่ลับจะประทานบำเหน็จแก่ท่าน [อย่างเปิดเผย]
 
 **7** และเมื่ออธิษฐาน อย่าพูดพร่ำเพรื่อซ้ำๆ เหมือนอย่างคนต่างชาติ เพราะเขาคิดว่าจะได้รับคำตอบด้วยการพูดมากของเขา
 
@@ -628,7 +628,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **19** แต่เมื่อพวกเขามอบพวกท่านไว้ อย่าวิตกกังวลว่าจะพูดอย่างไรหรือจะพูดอะไร เพราะในเวลานั้นจะมีผู้ประทานแก่พวกท่านว่าควรพูดอะไร
 
-**20** เพราะไม่ใช่พวกท่านที่พูด แต่พระวิญญาณของพระบิดาของพวกท่านต่างหากที่พูดผ่านทางพวกท่าน
+**20** เพราะไม่ใช่พวกท่านที่พูด แต่พระวิญญาณของพระบิดาของพวกท่านต่างหากที่ตรัสผ่านทางพวกท่าน
 
 **21** พี่น้องจะมอบพี่น้องของตนให้ถึงความตาย บิดาจะมอบบุตรของตนก็เช่นกัน บรรดาบุตรจะลุกขึ้นต่อต้านบิดามารดา และทำให้พวกเขาถูกประหาร
 
@@ -1002,7 +1002,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **18** พระองค์ตรัสว่า “จงนำสิ่งเหล่านั้นมาให้เราที่นี่เถิด”
 
-**19** พระองค์ทรงสั่งให้ฝูงชนนั่งลงบนหญ้า แล้วทรงหยิบขนมปังห้าก้อนกับปลาสองตัว ทรงเงยพระพักตร์ขึ้นดูฟ้าสวรรค์ กล่าวขอบพระคุณ ทรงหักขนมปังส่งให้เหล่าสาวก และเหล่าสาวกก็แจกแก่ฝูงชน
+**19** พระองค์ทรงสั่งให้ฝูงชนนั่งลงบนหญ้า แล้วทรงหยิบขนมปังห้าก้อนกับปลาสองตัว ทรงเงยพระพักตร์ขึ้นดูฟ้าสวรรค์ ทรงกล่าวขอบพระคุณ ทรงหักขนมปังส่งให้เหล่าสาวก และเหล่าสาวกก็แจกแก่ฝูงชน
 
 **20** ทุกคนได้กินจนอิ่ม แล้วเหล่าสาวกก็เก็บเศษขนมปังที่เหลือได้ถึงสิบสองตะกร้าเต็ม
 
@@ -1318,7 +1318,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **3** มีพวกฟาริสีเข้ามาหาพระองค์เพื่อทดลองพระองค์ โดยทูลถามว่า “เป็นการถูกต้องตามธรรมบัญญัติหรือไม่ ที่ชายจะหย่าภรรยาของตนเพราะเหตุใดก็ได้?”
 
-**4** พระองค์ทรงตอบว่า “พวกท่านไม่เคยอ่านหรือ? พระผู้ทรงสร้างได้ทรงสร้างพวกเขาตั้งแต่แรกเป็น ‘ชายและหญิง’
+**4** พระองค์ทรงตอบว่า “พวกท่านไม่เคยอ่านเรื่องพระผู้ทรงสร้างหรือว่า ตั้งแต่แรกนั้น ‘เป็นชายและเป็นหญิง พระองค์ทรงสร้างพวกเขา’
 
 **5** และตรัสว่า ‘เพราะเหตุนี้ ชายจะละบิดามารดาของตน และผูกพันเป็นหนึ่งกับภรรยาของตน และทั้งสองจะเป็นเนื้อเดียวกัน’?
 
@@ -1554,7 +1554,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **5** แต่พวกเขากลับเพิกเฉยแล้วต่างแยกย้ายจากไป บางคนไปยังที่นาของตน บางคนก็ไปทำธุรกิจของตน
 
-**6** ส่วนคนที่เหลือก็จับเหล่าทาสของพระองค์ บ้างก็ทำร้าย บ้างก็ฆ่าเสีย
+**6** ส่วนคนที่เหลือก็จับเหล่าทาสของพระองค์ ทำร้ายแล้วฆ่าพวกเขาเสีย
 
 **7** พระราชาทรงพระพิโรธจึงทรงส่งกองทหารของพระองค์ไปทำลายพวกฆาตกรเหล่านั้น และเผาเมืองของพวกเขาเสีย
 
@@ -1740,7 +1740,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **10** ในเวลานั้น คนเป็นอันมากจะสะดุดล้มลง จะทรยศและเกลียดชังกันและกัน
 
-**11** และผู้พยากรณ์เทียมจำนวนมากจะปรากฏขึ้น และจะนำคนเป็นอันมากให้หลงผิด
+**11** และผู้เผยพระวจนะเท็จจำนวนมากจะปรากฏขึ้น และจะนำคนเป็นอันมากให้หลงผิด
 
 **12** และเพราะความอธรรมจะทวีขึ้น ความรักของคนเป็นอันมากจะเย็นชาลง
 
@@ -1766,7 +1766,7 @@ _This **plain edition** shows only the Thai translation — no commentary, no Gr
 
 **23** ในเวลานั้น หากใครกล่าวแก่พวกท่านว่า ‘ดูเถิด พระคริสต์อยู่ที่นี่’ หรือ ‘อยู่ที่นั่น’ ก็อย่าเชื่อ
 
-**24** เพราะพระคริสต์เทียมและผู้พยากรณ์เทียมจะปรากฏขึ้น และจะแสดงหมายสำคัญและการอัศจรรย์อันยิ่งใหญ่ เพื่อจะชักจูงแม้ผู้ที่ทรงเลือกให้หลงไป หากเป็นไปได้
+**24** เพราะพระคริสต์เทียมและผู้เผยพระวจนะเท็จจะปรากฏขึ้น และจะแสดงหมายสำคัญและการอัศจรรย์อันยิ่งใหญ่ เพื่อจะชักจูงแม้ผู้ที่ทรงเลือกให้หลงไป หากเป็นไปได้
 
 **25** ดูเถิด เราได้บอกพวกท่านไว้ล่วงหน้าแล้ว
 
@@ -2260,32 +2260,32 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/matthew_01.json` | `8756fde5fbacccc2a9c0645ca63c54cb8886f29c340ff5710af18253d96b8d52` |
-| `output/translations/matthew_02.json` | `5b1a0f841d3a11b775eba408b9e6cfa4e7ee6e00f76a95c68cd494444e955cfb` |
-| `output/translations/matthew_03.json` | `8ea24bfd5b07d81d2e1fc1e902e5641458dbec4679e79d13c9534475d0fcf0c0` |
+| `output/translations/matthew_01.json` | `8fce10eb35cd7feceb5e531446701eb55f6cda97bcd3de3ff5eba581657ed8e2` |
+| `output/translations/matthew_02.json` | `cd08cda55a9c6eda9cc4c4a4fa01046e1126e5fcf0d712638d0fe9bd0ccffe49` |
+| `output/translations/matthew_03.json` | `fcce748ea7d2c5a251519aa4054e0d122289bf0d6c21e2caa546dd4fa579f478` |
 | `output/translations/matthew_04.json` | `451576192fbc40180874c0365461912b89524a997ac9fcbbf1417df8545a4e48` |
-| `output/translations/matthew_05.json` | `ac99255bc772fa66f513cf75b061287c395f4bace84acac60791fce3831ac8c9` |
-| `output/translations/matthew_06.json` | `be41b18eb4a28dfd2aeb7987f4f2df355006f9f4ae2ebbba8e31e8e6b446bdbe` |
-| `output/translations/matthew_07.json` | `b4b00dc5aca1c2e7f8c0fe9e197ba4718fa49788a5656172dfa5530b082ea59e` |
-| `output/translations/matthew_08.json` | `ec7d6500038151e109ed7db4f45383e7d1af93d473b4ba7b25b79406d73adebd` |
-| `output/translations/matthew_09.json` | `f09ecfd04461560021ec2ff3025ace73d2e3f0198193985b1092ce010a92ff39` |
-| `output/translations/matthew_10.json` | `a98e79bfba28709d1cc0bed4c4c7ab80ca94303cbb702dbca62520dbea064530` |
-| `output/translations/matthew_11.json` | `67a2b39d1ca5b96a1995fc2ff8eb7697b18d4e12f4f0234109f1870158fb810b` |
-| `output/translations/matthew_12.json` | `e839a1e016f8b361cd7a49845aae621b93b75797ec8afd49175464ceb0e4cced` |
+| `output/translations/matthew_05.json` | `c596f2320438ca155f19f57f0ee85724bd86192f18dd1b1fa0787b11e6ccd020` |
+| `output/translations/matthew_06.json` | `148b3048582410e60f208ecdbadc887f8ade7bb3a4a74b67ecb383295a2ef695` |
+| `output/translations/matthew_07.json` | `7874f72a88d4b07ff7986d247b869f97b1d06bab5a559afa76c37a1cfe6729ca` |
+| `output/translations/matthew_08.json` | `723894704f845d99dd8c2a33f9d69645ade59719f6b039560f475218ecd6b998` |
+| `output/translations/matthew_09.json` | `3e2ad74da07f4da0538c82ec64c92a0a75aeaee98b509c1b3d8eab22c51102c8` |
+| `output/translations/matthew_10.json` | `832ea04d31216f97a2a29c73d925ea019b27a84498e2f04d4e211613c2bc2327` |
+| `output/translations/matthew_11.json` | `b8f2695e5592a05f23560511b617e8141a8e7e6635933182df29e5b8e21385b4` |
+| `output/translations/matthew_12.json` | `f8897523d81339d091affae6d85fc3df98b8b4b552f3c4aae609b19c8d8aa0cf` |
 | `output/translations/matthew_13.json` | `4f5fe873cd372e0a35816bba3985ae5ae53b7121efc3cadfa986538fe1c53f89` |
-| `output/translations/matthew_14.json` | `7f5f3434e177afd454d9bd1826cfb65c0b86cbc59cd855277f3629ca900d8994` |
-| `output/translations/matthew_15.json` | `1b63f70310f2892d501b334df86f77e761dea11052e27d7d4a869e082d944726` |
-| `output/translations/matthew_16.json` | `1563838c0a2302d5642435d684f92a22a0427bb2cd8be2a0f0e94dd1a0dbb810` |
-| `output/translations/matthew_17.json` | `4ca84ef061f1012d5bd686a2ebb437891c6d8eb1a96b08d988a52ac9c0002b32` |
-| `output/translations/matthew_18.json` | `d99754cdea3dd4da6cbca8c0e69a6a7cc018c8b6dfe881033d72f39688c1aa1d` |
-| `output/translations/matthew_19.json` | `e62f2c83c89313820a3c4129a6d39f811605f971480f95a7ab305bb25de008f2` |
-| `output/translations/matthew_20.json` | `b67a2824d2cef6c436bf084dd9222e434704eaca46a2954b957d96cfeecfced2` |
-| `output/translations/matthew_21.json` | `e8f72e838ef30e94c32445b65b7b3602570cc3606a3902e21abe00534169663c` |
-| `output/translations/matthew_22.json` | `ca2e2994c7d4470509814af90f6453cb755181e05520c15411f58fd659ecfe52` |
-| `output/translations/matthew_23.json` | `8176f9e88a71cebebdf45cd04616533250146269db716602e244a9b0d70e4e2d` |
-| `output/translations/matthew_24.json` | `ada58f853c32f488f98347b1cfcfb2ed5ec534b67997cefff27d43ffc4355871` |
-| `output/translations/matthew_25.json` | `04250d34fe21b6fb4b0cd91d68ce3ff12b23cd60eb1b01d322d64125f64e3c28` |
+| `output/translations/matthew_14.json` | `6c4a318072fb4a46d44f781f7646b0f58d152de0444fe0f0f725369ca23d215a` |
+| `output/translations/matthew_15.json` | `8fcdf8476a4cbabcee6d7a1317cfb6348d4b10a52fe93ca1dc4c2cef6d4dcf09` |
+| `output/translations/matthew_16.json` | `da94681f3aca32882234f34cc1f6d4d99078c7340315e3ee715d9cfed9790218` |
+| `output/translations/matthew_17.json` | `aef1ab96b7a4652f52332fa27c66171de02fea4224180145382b0ac0ab7dce4a` |
+| `output/translations/matthew_18.json` | `64c5a57dfe5c91ed2024f1393b642d4c181ee82918be84beead6dd9b2a40c501` |
+| `output/translations/matthew_19.json` | `5944e6bfb70717181edf4a33c52480e46e3eac39f8dc750fd618f400e4fca8bb` |
+| `output/translations/matthew_20.json` | `0dde68b2451b9619dd546406519f247c0135648a5ad04cba97f2f506c4472663` |
+| `output/translations/matthew_21.json` | `3a3173c6859efb09561b1122da306ec8f6ffd79d6ec566352f4b1b4a0ba00b9d` |
+| `output/translations/matthew_22.json` | `a6f356ca5780e655b805f7aad13baf7e22e269406a39772e17fade8656bd7329` |
+| `output/translations/matthew_23.json` | `5e1d7d90e1db2c82e23f4ea18ed3f5517d5cbc8c52d0f12c6152f97b6c6210f3` |
+| `output/translations/matthew_24.json` | `4d566a7d82e9b9fdaead35a59c68fc2c71056060c40107fe18622c1edc6f7bee` |
+| `output/translations/matthew_25.json` | `349a0a55ec3adbafd5c0aa40ecc2f10394050e1b1237d14287613dee6c22b4f6` |
 | `output/translations/matthew_26.json` | `d4aae1cfd129168927958ea2498c9499206a6ae0b0811f2b36eef24a000940cc` |
-| `output/translations/matthew_27.json` | `537c0d77530cd5a4a914cc6cb2cbf1157a15cb25d23be63f017aee17a7061a91` |
+| `output/translations/matthew_27.json` | `29fe12d373764abecadd3679872c2781eb794bd273dec9851819ec82497429ac` |
 | `output/translations/matthew_28.json` | `ef5c9f2a57da4665b3d8a3035bc63a74b364aa2b2fdc1a8d53d13cbae0b22e64` |
 

@@ -87,7 +87,7 @@ Currently the bundle exports only verses (no footer notes). Tier 2 entries do NO
 **Future work:**
 - Bundle / iOS app: learn to consume `output/textual_variants/` and render footer notes in chapter view (Phase 2; not blocking this lock).
 - 16:2b–3 and 21:44 (in Matthew): both currently included unmarked. Per Path A, since they ARE in our SBLGNT base, no Tier 2 treatment is needed. They sit outside the inclusion-variant policy entirely. (These would be handled at the level of *exclusion* variants — different convention, not in scope here.)
-- Future Acts 8:37, 15:34, Romans 16:24 → Tier 2 footer notes when those chapters are translated.
+- The April projection listed Acts 8:37 and 15:34 for Tier 2 treatment. It also listed Romans 16:24. The published SBLGNT includes the blessing and its final Ἀμήν at Romans 16:24, and the Thai main text includes the verse. Romans 16:25–27 is a separate doxology, presented in Tier 3 brackets.
 - Future Johannine Comma (1 John 5:7b–8a) → Tier 2 footer note when 1 John is translated.
 - Future John 7:53–8:11 (pericope adulterae) → Tier 3 ⟦double brackets⟧ when John is translated.
 

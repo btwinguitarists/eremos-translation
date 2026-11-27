@@ -116,28 +116,16 @@ Then a brief **§Z: Anything else?** section if you spot a corpus-level concern 
 
 ## Item C — 1 Pet 3:21 baptism: ἀντίτυπον (typology) + ἐπερώτημα (pledge vs appeal) framing
 
-**The textual question:** 1 Peter 3:21 is the **clearest NT non-regenerative-baptism formulation** — Peter explicitly disclaims that baptism is salvific-by-physical-cleansing. Two HAPAX renderings carry significant theological weight:
+The account of Noah in verse 20 supplies the comparison for baptism. Peter speaks of a good conscience before God and connects salvation with Christ's resurrection.
 
 > 1PE 3:21 GK: `ὃ καὶ ὑμᾶς **ἀντίτυπον** νῦν σῴζει βάπτισμα, οὐ σαρκὸς ἀπόθεσις ῥύπου ἀλλὰ **συνειδήσεως ἀγαθῆς ἐπερώτημα** εἰς θεόν, δι' ἀναστάσεως Ἰησοῦ Χριστοῦ,`
 
 > TH (current): `**บัพติศมาซึ่งเป็นภาพแทนของน้ำนั้น** บัดนี้ก็ช่วยท่านทั้งหลายให้รอด ไม่ใช่การล้างความสกปรกออกจากร่างกาย แต่เป็น**คำสัญญาของจิตสำนึกที่ดีต่อพระเจ้า** โดยทางการคืนพระชนม์ของพระเยซูคริสต์`
 
-**HAPAX 1 — ἀντίτυπον → ภาพแทน:**
-- **ἀντίτυπον** (NT-hapax-here, "antitype / corresponding-figure / counterpart") → **ภาพแทน** ("image-substitute / corresponding-image"). Preserves the Petrine flood-water-as-type / baptism-as-antitype typology.
-- Alternatives: **ภาพคู่ขนาน** ("parallel-image") or **ตัวแทน** ("representative") — both lose the type-and-antitype theological weight.
+The Thai uses **ภาพแทน** for the correspondence expressed by ἀντίτυπον. A related inflection of the same adjective, ἀντίτυπα, occurs at Hebrews 9:24. The Thai renders ἐπερώτημα as **คำสัญญา**, a pledge. The same word has also been interpreted as an appeal to God, which **คำขอวิงวอน** would express.
 
-**HAPAX 2 — ἐπερώτημα → คำสัญญา:**
-- **ἐπερώτημα** (NT-hapax-here) has TWO well-attested readings:
-  - (a) **"pledge / formal-promise"** (rabbinic / legal-Greek sense — a covenantal-vow) — *current Thai* **คำสัญญา** ("formal-promise"); mainstream-evangelical (NIV: "pledge of a clear conscience").
-  - (b) **"appeal / petition / inquiry"** (classical Greek sense — an asking-of-God) — alternative **คำขอวิงวอน** ("petition / appeal"); older NRSV ("an appeal to God for a good conscience").
-- The translator chose (a) consistent with mainstream-evangelical interpretation.
-
-**The 3:21 KD names the choice:**
-> HAPAX ἐπερώτημα (only here NT, 'appeal / pledge / inquiry') → คำสัญญา — preserves the formal-promise sense (one of the contested-meanings; render with the pledge-reading consistent with mainstream-evangelical interpretation). Per uW Translation Issues: Peter is NOT teaching baptismal-regeneration — the explicit 'not removal-of-dirt-from-flesh' qualifier + the 'through-resurrection-of-Christ' basis make clear that faith-in-Christ-confessed-at-baptism saves, not the rite itself.
-
-**Two questions:**
-1. Is **ἐπερώτημα → คำสัญญา (pledge/promise)** the right Pauline-Petrine-corpus default? It is mainstream-evangelical but theologically-loaded (turns baptism into a *credal-pledge act* rather than *interrogative-vow*). The alternative **คำขอวิงวอน** preserves more of the Greek interrogative-semantic.
-2. Is **ἀντίτυπον → ภาพแทน** the right rendering? Should Peter's explicit denial of baptismal-regeneration ("not removal-of-dirt-from-flesh") get a footer-note for Thai-Catholic and Thai-Eastern-Orthodox readers who might bring different baptismal-theologies to the verse?
+1. When you hear **คำสัญญาของจิตสำนึกที่ดีต่อพระเจ้า**, who is promising or asking for what? How would **คำขอวิงวอน** change your understanding?
+2. What connection does **ภาพแทน** convey between the water in Noah's story, baptism, and Christ's resurrection? Which words would you explain further?
 
 ---
 

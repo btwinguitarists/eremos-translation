@@ -75,7 +75,7 @@ This lock therefore:
 | Eph 3:7, 6:21 | Paul + Tychicus | YES — ผู้รับใช้ |
 | Phil 1:1 | διακόνοις (with bishops) | **PARTIAL** — borderline-Pastoral office; likely ผู้รับใช้ but worth Phil-end-of-book audit confirmation |
 | Col 1:7, 1:23, 1:25, 4:7 | Epaphras + Paul + Tychicus | YES — ผู้รับใช้ |
-| 1 Thess 3:2 | διάκονος τοῦ θεοῦ | YES — ผู้รับใช้ของพระเจ้า |
+| 1 Thess 3:2 | συνεργὸν τοῦ θεοῦ (SBLGNT) | The selected text calls Timothy God’s coworker. The servant rendering applies to the διάκονον reading in Westcott–Hort and Tregelles. |
 | 1 Tim 3:8, 3:10, 3:12, 3:13; 4:6 | Pastoral-διάκονοι | **DEFER** — Pastorals end-of-book |
 
 ### Pastoral epistles (1-2 Tim, Titus)

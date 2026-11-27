@@ -1,5 +1,11 @@
 # 1 Samuel — End-of-Book Review
 
+**Editorial clarification, 27 November 2026.**
+
+- **1 Samuel 20.** The covenant conversation uses חֶסֶד once each in verses 8, 14 and 15.
+- **1 Samuel 30:25.** The Thai reads จนถึงทุกวันนี้, with ทุก in the expression for “to this day.”
+- **1 Samuel 1:26 and 17:55.** Hannah addresses Eli with ขอชีวิตของท่านอยู่จริง. Abner addresses Saul with องค์กษัตริย์ทรงพระชนม์อยู่. The two speakers use different Thai forms of the oath by the addressee’s life.
+
 **Date:** 2026-05-22
 **Scope:** All 31 chapters of 1 Samuel (811 verses); `glossary.json`; `docs/translator_decisions/` corpus (~90 docs through the JDG end-of-book audit).
 **Trigger:** 1SA 31 shipped (commit `bd8dd88`); per `docs/END_OF_BOOK_CHECKLIST.md`. **Ninth OT book in the corpus** (after Ruth, Jonah, Genesis, Exodus, Numbers, Deuteronomy, Joshua, Judges) and the **third Former-Prophets / Deuteronomistic-History book** — the first downstream stress-test of the JDG-audit locks (Spirit-of-YHWH, Adonai-prayer-cluster, Heb 11:32 name-corpus) outside Judges itself.

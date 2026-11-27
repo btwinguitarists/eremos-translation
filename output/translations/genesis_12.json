@@ -76,7 +76,7 @@
         {
           "hebrew": "וְנִבְרְכוּ בְךָ כֹּל מִשְׁפְּחֹת הָאֲדָמָה",
           "thai": "ทุกครอบครัวของแผ่นดินโลกจะได้รับพรเพราะเจ้า",
-          "rationale": "**THE GOSPEL VERSE OF THE OT.** Per Gal 3:8: τὸ εὐαγγέλιον προευηγγελίσατο τῷ Ἀβραάμ ('the gospel was preached beforehand to Abraham'). The Niphal verb נִבְרְכוּ ('be-blessed') has been read as: (1) reflexive — 'all families will-bless-themselves through-you' (NRSV); (2) passive — 'all families shall-be-blessed in/through-you' (NIV/ESV/KJV). LXX renders passively (ἐνευλογηθήσονται) — supporting the passive-reading. NT cites use the passive (Acts 3:25, Gal 3:8). Render 'ทุกครอบครัวของแผ่นดินโลกจะได้รับพร' (all-families of-earth shall-be-blessed) — preserves the passive-universal-promise. Lock: ADD ENTRY to nt_ot_citations.json: Gen 12:3 ↔ Acts 3:25 + Gal 3:8."
+          "rationale": "**THE GOSPEL VERSE OF THE OT.** Per Gal 3:8: ἡ γραφὴ … προευηγγελίσατο τῷ Ἀβραὰμ ('Scripture preached the gospel beforehand to Abraham'). The Niphal verb נִבְרְכוּ ('be-blessed') has been read as: (1) reflexive — 'all families will-bless-themselves through-you' (NRSV); (2) passive — 'all families shall-be-blessed in/through-you' (NIV/ESV/KJV). LXX renders passively (ἐνευλογηθήσονται) — supporting the passive-reading. NT cites use the passive (Acts 3:25, Gal 3:8). Render 'ทุกครอบครัวของแผ่นดินโลกจะได้รับพร' (all-families of-earth shall-be-blessed) — preserves the passive-universal-promise. Lock: ADD ENTRY to nt_ot_citations.json: Gen 12:3 ↔ Acts 3:25 + Gal 3:8."
         },
         {
           "hebrew": "וַאֲבָרֲכָה מְבָרְכֶיךָ וּמְקַלֶּלְךָ אָאֹר",
@@ -266,7 +266,7 @@
           "rationale": "גּוּר ('sojourn, reside-as-foreigner') — temporary-residence, not permanent-settlement. Same root will be central to Israel's-Egypt-sojourn (Ex 6:4 etc.). Render 'อาศัยอยู่...ชั่วคราว' (reside there temporarily) — preserves the temporary-foreigner sense (matching Ruth 1:1's lock for גּוּר)."
         }
       ],
-      "notes": "**FAMINE-EGYPT PATTERN:** the famine-drives-down-to-Egypt pattern recurs throughout patriarchal-narratives — Isaac (Gen 26), Jacob/Joseph (Gen 41-46). Abram's-Egypt-sojourn typologically anticipates Israel's-Egypt-sojourn. **DOWNWARD MOTION:** going DOWN to Egypt is geographically + theologically loaded. Egypt = lower-elevation + lower-spiritual-state in OT-geography."
+      "notes": "**FAMINE-EGYPT PATTERN:** the famine-and-Egypt theme recurs in the patriarchal-narratives — Isaac (Gen 26:1-2, told not to go down to Egypt), Jacob/Joseph (Gen 41-46). Abram's-Egypt-sojourn typologically anticipates Israel's-Egypt-sojourn. **DOWNWARD MOTION:** going DOWN to Egypt is geographically + theologically loaded. Egypt = lower-elevation + lower-spiritual-state in OT-geography."
     }
   },
   {
@@ -397,7 +397,7 @@
         {
           "hebrew": "וַיְנַגַּע יְהוָה אֶת־פַּרְעֹה נְגָעִים גְּדֹלִים",
           "thai": "องค์พระผู้เป็นเจ้าทรงให้ภัยพิบัติร้ายแรงตกแก่ฟาโรห์",
-          "rationale": "**FORESHADOWING THE EXODUS PLAGUES.** נֶגַע ('plague, blow, mark'). Same root will recur in Ex 11:1 (the tenth-plague), 12:13 (Passover-blow). The narrative-irony: a Pharaoh-plagued for taking-Sarai foreshadows the great-Pharaoh-plagued for-holding-Israel-back. The pattern: a Pharaoh-and-Egypt judged-because-of-the-Abrahamic-line. Render 'ภัยพิบัติร้ายแรง' (severe-plagues). Lock: נֶגַע → ภัยพิบัติ (plague)."
+          "rationale": "**FORESHADOWING THE EXODUS PLAGUES.** נֶגַע ('plague, blow, mark'). Same root will recur in Ex 11:1 (the tenth-plague). Ex 12:13 uses נֶגֶף (root נגף) for the Passover-blow. The narrative-irony: a Pharaoh-plagued for taking-Sarai foreshadows the great-Pharaoh-plagued for-holding-Israel-back. The pattern: a Pharaoh-and-Egypt judged-because-of-the-Abrahamic-line. Render 'ภัยพิบัติร้ายแรง' (severe-plagues). Lock: נֶגַע → ภัยพิบัติ (plague)."
         }
       ],
       "notes": "**TYPOLOGICAL FORESHADOWING:** the Pharaoh-plague pattern of Gen 12 anticipates Ex 7-12. Both stories: foreigner-king takes-Israelite + God-plagues + king-releases. The Abram-Sarai-Egypt trip is proto-Exodus. **DIVINE INTERVENTION:** YHWH protects-Sarai-and-the-promise where Abram-cannot. The promise-line is divine-secured even-when-human-faith-fails."
@@ -449,12 +449,12 @@
     "translation": {
       "thai": "ฟาโรห์จึงสั่งคนของตนให้พาอับรามและภรรยาและทรัพย์สมบัติทั้งสิ้นของเขาออกไป",
       "thai_literal": "และฟาโรห์สั่งเหนือเขาซึ่งบรรดาคน และพวกเขาส่งเขาและภรรยาของเขาและทุกสิ่งที่เป็นของเขาออกไป",
-      "thai_summary": "ข้อสุดท้ายของบทที่ 12 ปิดเรื่องการเดินทางอียิปต์ของอับราม — ฟาโรห์ส่งครอบครัวอับรามออกพร้อมทรัพย์สมบัติทั้งหมด การ 'ส่งออกไป' (וַיְשַׁלְּחוּ, วายชัลลีฮู) เป็นกริยาเดียวกับที่ใช้ใน อพยพ 12:33 ที่ฟาโรห์ส่งอิสราเอลออกหลังภัยพิบัติทั้ง 10 ครั้ง การคู่ขนานระหว่างปฐมกาล 12 และ อพยพ 12 มีความสำคัญทางวรรณกรรม: (1) ทั้งสองเรื่องเริ่มจากความอดอยากที่บังคับให้ลงไปอียิปต์; (2) ทั้งสองเรื่องมีฟาโรห์ที่ใช้อำนาจไม่ถูกต้อง; (3) ทั้งสองเรื่องมีภัยพิบัติ; (4) ทั้งสองเรื่องจบด้วยการส่งออกพร้อมทรัพย์สิน อับราฮัมเป็น 'อิสราเอลแบบย่อ' — ประวัติศาสตร์ของลูกหลานของเขาเป็นภาพที่ใหญ่ขึ้นของชีวิตของเขา บทที่ 13 จะเริ่มต้นด้วยอับรามกลับขึ้นมาจากอียิปต์ — กลับสู่แผ่นดินคานาอัน",
+      "thai_summary": "ข้อสุดท้ายของบทที่ 12 ปิดเรื่องการเดินทางอียิปต์ของอับราม — ฟาโรห์ส่งครอบครัวอับรามออกพร้อมทรัพย์สมบัติทั้งหมด การ 'ส่งออกไป' (וַיְשַׁלְּחוּ, วายชัลลีฮู) เป็นกริยาเดียวกับที่ใช้ใน อพยพ 12:33 ที่ชาวอียิปต์เร่งรัดให้ชาวอิสราเอลออกจากแผ่นดินหลังภัยพิบัติทั้ง 10 ครั้ง การคู่ขนานระหว่างปฐมกาล 12 และ อพยพ 12 มีความสำคัญทางวรรณกรรม: (1) ทั้งสองเรื่องเริ่มจากความอดอยากที่บังคับให้ลงไปอียิปต์; (2) ทั้งสองเรื่องมีฟาโรห์ที่ใช้อำนาจไม่ถูกต้อง; (3) ทั้งสองเรื่องมีภัยพิบัติ; (4) ทั้งสองเรื่องจบด้วยการส่งออกพร้อมทรัพย์สิน อับราฮัมเป็น 'อิสราเอลแบบย่อ' — ประวัติศาสตร์ของลูกหลานของเขาเป็นภาพที่ใหญ่ขึ้นของชีวิตของเขา บทที่ 13 จะเริ่มต้นด้วยอับรามกลับขึ้นมาจากอียิปต์ — กลับสู่แผ่นดินคานาอัน",
       "key_decisions": [
         {
           "hebrew": "וַיְשַׁלְּחוּ אֹתוֹ וְאֶת־אִשְׁתּוֹ וְאֶת־כָּל־אֲשֶׁר־לוֹ",
           "thai": "พาอับรามและภรรยาและทรัพย์สมบัติทั้งสิ้นของเขาออกไป",
-          "rationale": "**EXODUS-FORESHADOWING.** שָׁלַח (Piel: 'send-away'). Same verb at Ex 12:33 (Pharaoh-sends-Israel-out post-plagues). The Abram-Egypt-narrative typologically anticipates the larger-Israel-Egypt-narrative. Render 'พาออกไป' (send-out)."
+          "rationale": "**EXODUS-FORESHADOWING.** שָׁלַח (Piel: 'send-away'). Same verb at Ex 12:33 (Egypt-urges-Israel-to-leave post-plagues). The Abram-Egypt-narrative typologically anticipates the larger-Israel-Egypt-narrative. Render 'พาออกไป' (send-out)."
         }
       ],
       "notes": "**EXODUS TYPOLOGY COMPLETE:** the chapter closes with the Abram-Egypt parallels to Israel-Egypt complete: famine → descent → Sarai/Israel taken → plagues → release with possessions. Genesis 12 = miniature-Exodus. **NARRATIVE BRIDGE:** ch.13 will begin with Abram returning from Egypt to Canaan. The narrative continues."

@@ -170,7 +170,7 @@ Ketib (`כְּתִיב`) is the consonantal text "as written"; Qere (`קְרֵי
 
 **Exceptions:** Translate the Ketib if (a) Qere is clearly a euphemism (especially for gender / genitalia / tetragrammaton-substitute), and the Ketib reading is what the original author wrote, OR (b) the Qere is interpretive expansion the translator judges to obscure the original.
 
-When Ketib is chosen, document in `key_decisions` with the witness IDs (e.g., "MT Ketib `יִשְׁכְּבֶנָּה` (he shall lie with her); Qere `יִשְׁגָּלֶנָּה` (he shall ravish her). Eremos translates Ketib for euphemism-breakage. Cf. Deut 28:30").
+When Ketib is chosen, document in `key_decisions` with the witness IDs (e.g., "MT Ketib `ישגלנה` (he shall violate her); Qere `יִשְׁכָּבֶנָּה` (he shall lie with her). Eremos translates Ketib for euphemism-breakage. Cf. Deut 28:30").
 
 ### 3.1 The `check_ketib_qere.py` script
 
@@ -182,8 +182,8 @@ Schema for tracking K/Q decisions in `data/ketib_qere_decisions.json` (built inc
 {
   "DEU-28-30": {
     "verse": "Deuteronomy 28:30",
-    "ketib": "יִשְׁכְּבֶנָּה",
-    "qere": "יִשְׁגָּלֶנָּה",
+    "ketib": "ישגלנה",
+    "qere": "יִשְׁכָּבֶנָּה",
     "translated": "ketib",
     "rationale": "Translated Ketib (euphemism breaking); Qere is post-MT euphemism"
   }

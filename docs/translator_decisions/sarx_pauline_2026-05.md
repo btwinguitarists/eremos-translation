@@ -39,7 +39,7 @@ The 1:22 royal-prefix sub-sense (πρῶνεκρωμένος ἐν τῷ σώμ�
 
 The four sense-clusters above all appear in Romans 7–8 within ~30 verses. The Thai handling must:
 
-- **Rom 7:5** ἐν τῇ σαρκί (under the σάρξ-regime) → ฝ่ายเนื้อหนัง (the contextual κατά / ἐν patterns fold into Thai ฝ่าย-prefix where the rendering needs adverbial-modifier shape).
+- **Rom 7:5** ἐν τῇ σαρκί (under the σάρξ-regime) → อยู่ในเนื้อหนัง, describing the former situation.
 - **Rom 7:18** οὐκ οἰκεῖ ἐν ἐμοί, τοῦτ' ἔστιν ἐν τῇ σαρκί μου, ἀγαθόν → ในเนื้อหนังของข้าพเจ้า, with the moral-disposition reading in the surrounding context (KD names sense (3)).
 - **Rom 7:25** τῇ σαρκὶ νόμῳ ἁμαρτίας → ในเนื้อหนัง, KD names sense (3).
 - **Rom 8:3** ἐν ὁμοιώματι σαρκὸς ἁμαρτίας → ในลักษณะของเนื้อหนังที่บาป, with the Christological-incarnation sense in KD (Christ came in the LIKENESS — sense (1) physical-with-qualifier, not sense (3) moral).

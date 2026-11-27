@@ -84,6 +84,8 @@ def build_psalm_entries() -> dict[str, dict]:
         offset = mt_max - bsb_max  # 0 = aligned, 1 = single superscription, 2 = double
         if offset <= 0:
             continue
+        # Rahlfs–Hanhart numbers all 18 verses of Hebrew Psalm 40 as Psalm 39.
+        lxx_chapter = 39 if ch == 40 else ch
         for v in sorted(mt[ch]):
             key = f"PSA-{ch}-{v}"
             if v <= offset:
@@ -100,7 +102,7 @@ def build_psalm_entries() -> dict[str, dict]:
                 "mt_ref": f"Psalm {ch}:{v}",
                 "english_ref": english_v_ref,
                 "bsb_ref": bsb_v_ref,
-                "lxx_ref": f"Psalm {ch}:{v}",
+                "lxx_ref": f"Psalm {lxx_chapter}:{v}",
                 "has_superscription": v <= offset,
                 "diverges": True,
             }
@@ -135,6 +137,26 @@ def build_joel_entries() -> dict[str, dict]:
             "bsb_ref": f"Joel 3:{v}",
             "lxx_ref": f"Joel 4:{v}",
             "diverges": True,
+        }
+    return entries
+
+
+def build_jonah_entries() -> dict[str, dict]:
+    """Jonah 2 in the Rahlfs-Hanhart Septuagint follows Hebrew numbering."""
+    entries = {}
+    for verse in range(1, 12):
+        mt_ref = f"Jonah 2:{verse}"
+        english_ref = "Jonah 1:17" if verse == 1 else f"Jonah 2:{verse - 1}"
+        entries[f"JON-2-{verse}"] = {
+            "mt_book": "JON",
+            "mt_chapter": 2,
+            "mt_verse": verse,
+            "mt_ref": mt_ref,
+            "english_ref": english_ref,
+            "bsb_ref": english_ref,
+            "lxx_ref": mt_ref,
+            "diverges": True,
+            "note": "Jonah ch.1/ch.2 boundary differs: MT puts the great-fish appointment at 2:1; BSB/English put it at 1:17. MT 2:1-11 = BSB 1:17 + 2:1-10.",
         }
     return entries
 
@@ -495,6 +517,7 @@ def main():
     }
     out.update(psalm_entries)
     out.update(joel_entries)
+    out.update(build_jonah_entries())
     out.update(mal_entries)
     out.update(hosea_entries)
     out.update(micah_entries)

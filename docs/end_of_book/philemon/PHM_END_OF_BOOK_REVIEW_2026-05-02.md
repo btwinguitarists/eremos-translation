@@ -1,5 +1,7 @@
 # Philemon — End-of-Book Review
 
+**Editorial clarification, 27 November 2026.** At Philemon 1:9, the SBLGNT reads πρεσβύτης (“an old man”). The NET note attributes πρεσβευτής (“ambassador”) to Bentley as a conjecture. The witness claim in the earlier discussion below has been withdrawn. Eremos retains ผู้สูงอายุ. [NET note on Philemon 1:9](https://www.biblegateway.com/passage/?search=Philemon%201%3A9&version=NET)
+
 **Date:** 2026-05-02
 **Scope:** All 1 chapter (25 verses; ~80 verse-level `key_decisions`); `glossary.json`; existing `docs/translator_decisions/` (28+ docs).
 **Trigger:** PHM 1 shipped (commit `8f3a14f`); per `docs/END_OF_BOOK_CHECKLIST.md`. (PHM is single-chapter; the chapter and the book are coterminous.)

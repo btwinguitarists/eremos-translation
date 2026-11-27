@@ -54,7 +54,7 @@
 
 ## 2. The Genesis oath-formulae catalogue
 
-Genesis exercises oath-formulae more densely than any other OT book. The complete catalogue of Genesis oath-occurrences:
+Genesis exercises oath-formulae more densely than any other OT book. The following passages illustrate oaths in Genesis.
 
 | Verse | Oath-formula | Speaker | Hearer |
 |---|---|---|---|
@@ -62,6 +62,7 @@ Genesis exercises oath-formulae more densely than any other OT book. The complet
 | 21:23–32 | Beersheba (§1.4 cairn-witness adjacent) | Abimelech / Abraham | mutual treaty |
 | 22:16 | "By myself I have sworn" (§1.3) | YHWH | Abraham (Akedah) |
 | 24:2–9 | Place-hand-under-thigh (§1.2) | Abraham | his servant |
+| 25:33 | Jacob requests an oath concerning the birthright, and Esau swears | Esau | Jacob |
 | 26:28–31 | Treaty-oath (Abimelech-Isaac, parallel to 21:23–32) | Abimelech / Isaac | mutual |
 | 31:44–53 | Cairn-witness Galeed/Mizpah (§1.4) | Jacob / Laban | mutual |
 | 47:29–31 | Place-hand-under-thigh (§1.2) | Israel/Jacob | Joseph (deathbed) |
