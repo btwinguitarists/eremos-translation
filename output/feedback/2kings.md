@@ -1747,7 +1747,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 > ___
 
-**25** เยโรโบอัมผู้นี้ฟื้นฟูพรมแดนของอิสราเอลตั้งแต่ทางเข้าเมืองฮามัทจนถึงทะเลแห่งอาราบาห์ ตามพระวจนะขององค์พระผู้เป็นเจ้าพระเจ้าแห่งอิสราเอล ที่ตรัสผ่านโยนาห์บุตรของอามิททัยผู้เผยพระวจนะ ผู้รับใช้ของพระองค์ จากเมืองกัทเฮเฟอร์
+**25** เยโรโบอัมผู้นี้ฟื้นฟูพรมแดนของอิสราเอลตั้งแต่ทางเข้าเมืองฮามัทจนถึงทะเลแห่งอาราบาห์ ตามพระวจนะขององค์พระผู้เป็นเจ้าพระเจ้าแห่งอิสราเอล ที่ตรัสผ่านโยนาห์บุตรของอามิทัยผู้เผยพระวจนะ ผู้รับใช้ของพระองค์ จากเมืองกัทเฮเฟอร์
 
 > ___
 
@@ -2964,7 +2964,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 > ___
 
-**31** เยโฮอาหาสมีพระชนมายุยี่สิบสามพรรษาเมื่อขึ้นครองราชย์ และทรงครองราชย์ในกรุงเยรูซาเล็มสามเดือน พระมารดาทรงพระนามว่าฮามูทัลธิดาของเยเรมีย์ ชาวเมืองลิบนาห์
+**31** เยโฮอาหาสมีพระชนมายุยี่สิบสามพรรษาเมื่อขึ้นครองราชย์ และทรงครองราชย์ในกรุงเยรูซาเล็มสามเดือน พระมารดาทรงพระนามว่าฮามูทาลธิดาของเยเรมีย์ ชาวเมืองลิบนาห์
 
 > ___
 
@@ -3073,7 +3073,7 @@ _**องค์พระผู้เป็นเจ้า** ในบทนี�
 
 > ___
 
-**18** เศเดคียาห์มีพระชนมายุยี่สิบเอ็ดพรรษาเมื่อขึ้นครองราชย์ และทรงครองราชย์ในกรุงเยรูซาเล็มสิบเอ็ดปี พระมารดาทรงพระนามว่าฮามูทัลธิดาของเยเรมีย์ชาวเมืองลิบนาห์
+**18** เศเดคียาห์มีพระชนมายุยี่สิบเอ็ดพรรษาเมื่อขึ้นครองราชย์ และทรงครองราชย์ในกรุงเยรูซาเล็มสิบเอ็ดปี พระมารดาทรงพระนามว่าฮามูทาลธิดาของเยเรมีย์ชาวเมืองลิบนาห์
 
 > ___
 
@@ -3248,7 +3248,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/2kings_11.json` | `e67bf6699d709ad73cafd666b3a6e2eccbee2602b8dfd9947e02626265e66b2c` |
 | `output/translations/2kings_12.json` | `b3c1ceffbef6aebd2ef505bdfe2950c09255d0d58e84782434a7035e3183897b` |
 | `output/translations/2kings_13.json` | `cf38cafeaf1568b51823d4ab58b218d68820b78de1961034bdb45cf66177979e` |
-| `output/translations/2kings_14.json` | `5259066ba04986cb8eb7b53aa400779a44fc5de799dff6e87e3295941897bcdf` |
+| `output/translations/2kings_14.json` | `a8a94e61a3d881212534658e6da4d19777af4f95607d97262a0fe2e10d57b90f` |
 | `output/translations/2kings_15.json` | `f5fcef5fb645d19a09625421d5c2b259e2523bda61acd2adda80da0b371152b3` |
 | `output/translations/2kings_16.json` | `7f5827156abb03acb486d63c214a07ddfe387a84e388c5d7f466746ec5b0a4f0` |
 | `output/translations/2kings_17.json` | `9efda8e27d871f556b01c4379715b272abeafbd3000bacd80abd336d83a3d037` |
@@ -3257,7 +3257,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/2kings_20.json` | `5c6a3477eed1bd504bd50ac1be6df90a0b0f75c2ecf0fa27aa83e295855765dc` |
 | `output/translations/2kings_21.json` | `f7b19e001ff9ab053bb1290a30d126b900d07f126416d1101d60f22c19d73e24` |
 | `output/translations/2kings_22.json` | `a649ac3170c0f1a773a8f623ce80fc2a0f4e0ab7d857577a129eea47a908bb92` |
-| `output/translations/2kings_23.json` | `88e106b535587e61fe178e73ea287431604aee7e98a7b43e66d0f2f727ba8330` |
-| `output/translations/2kings_24.json` | `79c20eeb9aa55b8e7a5a5c09f3f2f6bc7df7b398d2e9ec49913cf0276b892757` |
+| `output/translations/2kings_23.json` | `190406d1e43d178e2d15381a26d88d038d1cd2c54977678cda64c621b9bb9402` |
+| `output/translations/2kings_24.json` | `03b3e9aae5d27dd24ea50c354f934bda3ba02916749b31e3d78f6878d2660372` |
 | `output/translations/2kings_25.json` | `73aa1ed84e9aecd9864bc5245c1cfbf2dd9152ec229b6a6b960d99a11dbfa931` |
 
