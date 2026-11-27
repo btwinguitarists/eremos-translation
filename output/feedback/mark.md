@@ -2016,7 +2016,7 @@ _วลี "และการอดอาหาร" (καὶ νηστείᾳ) �
 
 > ___
 
-**26** ส่วนเรื่องคนตายนั้นที่ว่าจะเป็นขึ้นมาได้ พวกท่านยังไม่ได้อ่านในหนังสือของโมเสสตอนเรื่องพุ่มไม้หรือ? ที่พระเจ้าตรัสแก่โมเสสว่า ‘เราคือพระเจ้าของอับราฮัม พระเจ้าของอิสอัค และพระเจ้าของยาโคบ’
+**26** ส่วนเรื่องคนตายนั้นที่ว่าจะเป็นขึ้นมาได้ พวกท่านยังไม่ได้อ่านในหนังสือของโมเสสตอนเรื่องพุ่มไม้ เป็นตอนที่พระเจ้าตรัสแก่โมเสสว่า ‘เราคือพระเจ้าของอับราฮัม พระเจ้าของอิสอัค และพระเจ้าของยาโคบ’ หรือ?
 
 > ___
 
@@ -2823,13 +2823,13 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/mark_05.json` | `467cce182691528a14dfa1ec3719f054a1bed158415313753a795abccfa2b6c5` |
 | `output/translations/mark_06.json` | `3902d1629af06bdbbb2041d7d317c2ae8e8a846647c3e7a9472734edadad5822` |
 | `output/translations/mark_07.json` | `7c16190399cf1c0c61c5d1ff24d8a79b411d2fff716117deeb3a09ac91d0943f` |
-| `output/translations/mark_08.json` | `47339c2411d772a5a72cafa3c753f2db7da177b61cbf70226a0919a52a079470` |
-| `output/translations/mark_09.json` | `563cde226825a7177b02fa82414c5e5ef0f9450503c918054d6c16dea715d253` |
-| `output/translations/mark_10.json` | `2958e0b7ea084bcec31e44f85413ac2d53cab2e4d69e344e538c3db1fea4fd01` |
-| `output/translations/mark_11.json` | `e2cabb40eff015fd60a1386d6c60248755e3c98bcafdd79cfed9ecb5fadd51ac` |
-| `output/translations/mark_12.json` | `e7e4fd4ae9fa910acf00b45176e248a244a72888c18bc94306452083c4c49fc0` |
+| `output/translations/mark_08.json` | `94643faec54ccb5741288eeb7e7484e03a07483a011a91e584deb0693ecc1a82` |
+| `output/translations/mark_09.json` | `2a640037397f4c3784bd0c062bc63836911b4ee1ec4aaa9b011d8ac4df4b1faa` |
+| `output/translations/mark_10.json` | `e9cac0215d018cbdd96d6863f3abfb7607881b2446535ceb6d00b5e6199477e6` |
+| `output/translations/mark_11.json` | `533aea876ae4895da5f7a3d3b539b330a6414af99e96797c79b80ce5aefbfc26` |
+| `output/translations/mark_12.json` | `925eb0b62d8862a6a665f06dfbb488fc52f29393a047d0de41ac6d37b4c97dc5` |
 | `output/translations/mark_13.json` | `77e407bfd2674f2866bb86f403ad3bedc5382f6f808f63b3878dc550147abece` |
-| `output/translations/mark_14.json` | `adb8f3873656a3c35867dc10ccecf3d471c2addeb32df6d24527b911060fe249` |
-| `output/translations/mark_15.json` | `0413e3bc4f2ca241208671374b04161e94309ead8a69b40fc02f16087ad0f10e` |
-| `output/translations/mark_16.json` | `857cd550c3616777d5aab147e0d77cfe3dbb58a6435c8b8b3cc90969976a0f70` |
+| `output/translations/mark_14.json` | `0ca7ada80f453fe60efdc0456c11b652d20c8ba4691496a5a616938e159989e1` |
+| `output/translations/mark_15.json` | `15f2be52b7450ee9faf62d77294edc2c301dac06311698e6342df3d66cd639b8` |
+| `output/translations/mark_16.json` | `3bc95793542eec8eeca373e30bd09d50399a58227229b3d43f53ec014212cb8e` |
 

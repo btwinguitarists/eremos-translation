@@ -619,7 +619,7 @@
           "rationale": "Pres.-impv. 2pl. (uW figs-yousingular: plural addressed to multiple bystanders). Thai imperative 'จง...เถิด' frames the command with mild formality."
         }
       ],
-      "notes": "OT-ECHO: Deut 32:5, 32:20 (Moses's song — 'unbelieving/crooked generation'). The phrase γενεὰ ἄπιστος inherits the full Deuteronomic-exodus charge of Israel's wilderness-disobedience (cf. also Ps 95:10 LXX, Heb 3:10). Adding to nt_ot_citations.json. Jesus's exasperation here includes the disciples (who failed to exorcise), the crowd, the scribes, and the father all at once — the 'generation' of the present age fails to trust.",
+      "notes": "Jesus addresses an unbelieving generation. Deuteronomy 32:5 and 32:20 also speak about a generation and the absence of faith, using different wording. Greek Psalm 94:10 (Hebrew and English 95:10) speaks of a generation going astray in heart. Hebrews 3:10 applies the Psalm in its own setting.",
       "thai_literal": null,
       "thai_summary": "‘คนยุคที่ไม่เชื่อ’ (γενεὰ ἄπιστος) สะท้อนคำของโมเสสในเฉลยธรรมบัญญัติ 32:5 (‘คนยุคที่คดโกงและไม่ซื่อตรง’) และสดุดี 95:10 (‘ยุคที่ใจผิด’) พระเยซูรวมสาวก ฝูงชน ธรรมาจารย์ และพ่อของเด็กไว้ในคำต่อว่าเดียวกัน — ทั้งยุคปัจจุบันไม่เชื่อเต็มที่"
     }
@@ -919,7 +919,7 @@
           "rationale": "Per uW grammar-connect-exceptions. Thai 'ไม่...เว้นแต่...เท่านั้น' (not...except...only) preserves the emphatic exclusion. προσευχή = 'prayer' (established rendering การอธิษฐาน)."
         }
       ],
-      "notes": "MAJOR TEXTUAL VARIANT at v.29 — SBLGNT: ἐν προσευχῇ (prayer only). Many Byzantine and later witnesses (including Textus Receptus) read ἐν προσευχῇ καὶ νηστείᾳ (prayer and fasting). The shorter reading is the earliest (א* B k geo) and is almost certainly original; the addition of 'and fasting' likely reflects early monastic-ascetic practice (Christians adding fasting to the text to warrant their discipline, cf. Didache's fasting instructions). SBLGNT follows the shorter critical reading. TRANSLATIONAL DECISION: we follow SBLGNT without '+ fasting.' The implication: the disciples' failure was not a technique-failure but a prayer-dependence failure. They treated exorcism as a skill (cf. 6:7 they were sent with authority); Jesus frames it as God-dependence.",
+      "notes": "SBLGNT gives prayer alone. Tregelles and Robinson–Pierpont add fasting. The Thai main line gives prayer followed by [และการอดอาหาร], and the separate verse note explains the textual difference.",
       "thai_literal": null,
       "thai_summary": "วลี ‘และการอดอาหาร’ ปรากฏในต้นฉบับ Byzantine, Textus Receptus, และในการแปลแบบ KJV (รวมถึง Thai KJV) แต่ไม่อยู่ในต้นฉบับเก่าที่สุด (ℵ* B) การแปลของเรายึดตามต้นฉบับ SBLGNT ที่มีเฉพาะ ‘การอธิษฐาน’ แต่ใส่ ‘และการอดอาหาร’ ในวงเล็บ [...] เพราะวลีนี้ปรากฏในประเพณีการแปลที่ผู้อ่านชาวไทยจำนวนมากคุ้นเคย"
     }
@@ -1381,7 +1381,7 @@
         {
           "greek": "βληθῆναι εἰς τὴν γέενναν",
           "thai": "ถูกทิ้งลงในนรก",
-          "rationale": "Per uW figs-activepassive: passive → active with implicit divine-agent. Thai 'ถูกทิ้ง' (be-thrown) preserves passive. Consistent 'นรก' rendering."
+          "rationale": "βληθῆναι is a passive infinitive, “to be thrown.” The Thai retains the passive sense. The saying compares entering life with one foot to being thrown into Gehenna with two."
         }
       ],
       "notes": "v.44 IS OMITTED per SBLGNT — see Mark 9 FRONT. The oldest witnesses have no text at 9:44 or 9:46; a number of early and most later MSS carry the worm-and-fire line at both places. That line is genuine at 9:48 in every manuscript, so the two earlier copies are best explained as copyists (by slip or by design) bringing it forward. SBLGNT omits entirely — we follow this critical-reading and skip from v.43 to v.45. TEXTUAL: SBLGNT ends v.45 with εἰς τὴν γέενναν without the addition 'into the unquenchable fire' (that addition in some Byz witnesses pulls from v.43/48).",
@@ -1486,7 +1486,7 @@
         {
           "greek": "ἔχετε ἐν ἑαυτοῖς ἅλα",
           "thai": "พวกท่านจงมีเกลืออยู่ในตัวพวกท่านเอง",
-          "rationale": "HAPAX LEGOMENON (Markan): ἅλα (alt.-form of ἅλας; unique in this reading). ἅλα is neuter-acc. vs. ἅλας (usual). Pres.-impv. 2pl. Thai 'จงมีเกลืออยู่ในตัว' (do-have-salt-be-in-self)."
+          "rationale": "ἅλα is an accusative form for salt. It follows two mentions of salt in the same verse. The different form gives no reason to change the Thai noun เกลือ."
         },
         {
           "greek": "εἰρηνεύετε ἐν ἀλλήλοις",
@@ -1494,7 +1494,7 @@
           "rationale": "εἰρηνεύω = 'be-at-peace.' Pres.-impv. Thai 'จงอยู่อย่างสงบสุข' (do-dwell-in-peace). 'ต่อกันและกัน' for ἐν ἀλλήλοις 'among-one-another.'"
         }
       ],
-      "notes": "TWO HAPAX: ἄναλος (9:50) and ἅλα (the alt.-form; also classified as hapax in MACULA). CHAPTER-ENDING WISDOM-SAYING. The salt-theme (thread from v.49) concludes with TWO IMPERATIVES: (1) have salt in yourselves (preservation, covenant-fidelity — cf. Num 18:19, 2 Chr 13:5 'covenant of salt'); (2) be at peace with one another. The second imperative RESPONDS directly to vv.33–34 (the disciples' argument about greatness) — salt-among-yourselves means ending rivalry. Pastoral force: the disciples are not to be like 'savorless salt' (useless) but to preserve communal-peace through mutual-service. ETHICAL CLIMAX of the chapter: from status-competition (9:34) to self-restraint-in-sin (9:43–47) to peace-with-one-another (9:50).",
+      "notes": "Jesus speaks about salt losing its saltiness, then tells the disciples to have salt among themselves and be at peace. The forms ἅλας and ἅλα in the Greek refer to salt.",
       "thai_literal": null,
       "thai_summary": "ในพันธสัญญาเดิม ‘เกลือ’ เป็นสัญลักษณ์ของพันธสัญญา (กันดารวิถี 18:19: ‘พันธสัญญาเกลือ’) และของการรักษา/ถนอม พระเยซูให้คำสั่งสองประการ: (1) มีเกลือในตัว = รักษาความซื่อสัตย์ต่อพันธสัญญากับพระเจ้า (2) อยู่อย่างสันติ = ไม่โต้เถียงเรื่องใครใหญ่กว่ากัน (ข้อ 34)"
     }

@@ -133,7 +133,7 @@
         {
           "greek": "οὐκέτι οὐδὲν ἀπεκρίθη",
           "thai": "มิได้ตรัสตอบอะไรอีกเลย",
-          "rationale": "Triple-negation intensifier (οὐκέτι 'no longer' + οὐδέν 'not anything' + negated verb) — per uW TN figs-doublenegatives. Thai มิได้...อะไรอีกเลย stacks the negation equivalently. Royal ตรัส ('speak-royally') preserved even for the act of NOT speaking."
+          "rationale": "Greek has the two negatives οὐκέτι and οὐδέν, expressing that Jesus no longer answered anything. The Thai conveys the same emphatic silence."
         },
         {
           "greek": "ὥστε θαυμάζειν τὸν Πιλᾶτον",
@@ -141,7 +141,7 @@
           "rationale": "ὥστε + inf. = result clause. Thai จึง (resultative particle) + ประหลาดใจ. θαυμάζω here has ironic force — the accused is normally desperate to defend himself; Jesus's composed silence is the strangeness Pilate cannot parse."
         }
       ],
-      "notes": "ISA 53:7 FULFILLMENT. Jesus's silence here is programmatic — Mark does not quote Isa 53:7 explicitly (unlike Matt 26:63) but the Servant-Song shape is unmistakable. Cf. Mark 14:61 (silent before Caiaphas). Added to nt_ot_citations.json as an ECHO/ALLUSION at 15:5 → Isa 53:7 LXX (ὡς πρόβατον ἐπὶ σφαγὴν ἤχθη καὶ ὡς ἀμνὸς ἐναντίον τοῦ κείροντος αὐτὸν ἄφωνος οὕτως οὐκ ἀνοίγει τὸ στόμα αὐτοῦ). Pilate's θαυμάζειν here parallels and contrasts with the centurion's confession in v.39 — one marvels and misses who Jesus is; the other marvels and sees."
+      "notes": "Pilate marvels when Jesus offers no further answer. Jesus’s silence can recall Isaiah 53:7; Matthew 26:63 describes silence without citing the verse explicitly. In Mark 15:39 the centurion sees and speaks, while in 15:44 Pilate marvels that Jesus has already died."
     }
   },
   {
@@ -728,7 +728,7 @@
     "translation": {
       "thai": "ป้ายบอกข้อกล่าวหาของพระองค์ที่จารึกไว้นั้นเขียนว่า “กษัตริย์ของชาวยิว”",
       "thai_literal": null,
-      "thai_summary": "ป้ายประกาศข้อหา (titulus) เป็นธรรมเนียมของการประหารชีวิตแบบโรมัน เขียนข้อหาที่นำไปสู่การประหารเพื่อให้ประชาชนที่เดินผ่านได้เห็น ข้อหา ‘กษัตริย์ของชาวยิว’ ประกาศว่านี่คือการประหารเพื่อกบฏต่อซีซาร์ — แต่ในการอ่านของมาระโก คำประกาศนี้คือความจริงที่ปีลาตเขียนขึ้นโดยไม่รู้ตัว",
+      "thai_summary": "มาระโกให้ข้อความข้อกล่าวหาว่า “กษัตริย์ของชาวยิว” โดยไม่บอกว่าใครเขียน มัทธิว 27:37 ลูกา 23:38 และยอห์น 19:19 ใช้ถ้อยคำต่างกันเล็กน้อย ยอห์นระบุว่าปีลาตเป็นผู้เขียนและเล่าว่ามีการโต้แย้งเรื่องถ้อยคำบนป้าย",
       "key_decisions": [
         {
           "greek": "ἡ ἐπιγραφὴ τῆς αἰτίας αὐτοῦ",
@@ -741,7 +741,7 @@
           "rationale": "Same fixed-phrase as vv.2, 9, 12, 18 — glossary-consistent rendering. Quote-marked in Thai to visually represent the titulus. The definite article ὁ preserved implicitly by Thai word-order (subject-position signals definiteness)."
         }
       ],
-      "notes": "TITULUS CRUCIS. In Roman law, the crime-placard was part of the execution theater — public humiliation and legal notice. John 19:19–22 gives more detail: Pilate authored the inscription, wrote it in Hebrew/Latin/Greek, and refused to change it when priests objected. Mark's compressed version gives just the Greek content. IRONIC CLIMAX: Mark constructs the whole chapter around 'King of the Jews' (vv.2, 9, 12, 18, 26) — Pilate, soldiers, and titulus all state the title with satirical intent, while the narrator lets the reader see the theological TRUTH. The titulus above Jesus's head in crucifixion-iconography tradition reads INRI (Iesus Nazarenus Rex Iudaeorum) — the Latin-Vulgate form of John's inscription. Mark's Greek is simpler, matching Matt 27:37 and Luke 23:38."
+      "notes": "Mark gives the accusation as “The King of the Jews.” Matthew 27:37 adds the identification “This is Jesus,” Luke 23:38 has “this one,” and John 19:19 includes Jesus the Nazarene. John names Pilate as the writer and tells of multiple languages and a dispute about the wording. Mark does not name the writer or the material used."
     }
   },
   {
@@ -1033,12 +1033,12 @@
         {
           "greek": "ἀφεὶς φωνὴν μεγάλην",
           "thai": "ทรงเปล่งเสียงดัง",
-          "rationale": "Per uW TN figs-idiom, 'letting out a loud voice' = shouting loudly (cf. v.34 parallel). Royal ทรงเปล่ง preserved. The detail of a LOUD final cry contradicts normal crucifixion-physiology — victims typically died from asphyxiation with weakened voices. Mark emphasizes Jesus's extraordinary vocal-strength at the end, signaling agency."
+          "rationale": "Jesus lets out a loud cry. Mark gives no words for the cry and does not describe the physical mechanism of death. ทรงเปล่งเสียงดัง conveys the sound."
         },
         {
           "greek": "ἐξέπνευσεν",
           "thai": "สิ้นพระชนม์",
-          "rationale": "ἐκπνέω lit. 'breathe-out' → euphemism for die (per uW TN figs-euphemism). Royal-register สิ้นพระชนม์ (royal-expire-life) is the standard Thai Christian rendering for the death of Jesus or royalty — glossary-established here. The 'breathing-out' imagery lets the πνεῦμα 'breath/spirit' double-entendre stand (cf. Luke 23:46 'into your hands I commit my πνεῦμα') — Jesus voluntarily hands over his Spirit."
+          "rationale": "ἐξέπνευσεν means that Jesus breathed his last, expressed by สิ้นพระชนม์. Mark has no separate noun for spirit in this clause. Luke 23:46 reports a prayer about the spirit before using the same death verb, and Matthew 27:50 explicitly speaks of yielding up the spirit."
         }
       ],
       "notes": "DEATH. Mark's minimalism: 4 Greek words for Jesus's death. No dying speeches (Luke, John elaborate), no fulfillment-formulas (Matt sometimes has). Just: 'he let out a loud voice — he breathed out.' ἐξέπνευσεν ambiguity preserved: physical death AND voluntary surrender of spirit. CENTURION RESPONSE in v.39 ('truly this man was the Son of God') is triggered by 'the way he died' (οὕτως ἐξέπνευσεν) — the loud voice + dignified surrender made an impression distinct from other crucifixion-deaths. SBLGNT/Byz variant noted at v.39."
