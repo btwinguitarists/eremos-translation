@@ -266,7 +266,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**13** เพราะฉะนั้น ข้าพเจ้าขอร้องให้พวกท่านอย่าท้อใจเพราะความทุกข์ของข้าพเจ้าที่ทนเพื่อพวกท่าน ซึ่งความทุกข์นั้นเป็นพระสิริของพวกท่าน
+**13** เพราะฉะนั้น ข้าพเจ้าขอร้องให้พวกท่านอย่าท้อใจเพราะความทุกข์ของข้าพเจ้าที่ทนเพื่อพวกท่าน ซึ่งความทุกข์นั้นเป็นเกียรติของพวกท่าน
 
 > ___
 
@@ -278,7 +278,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**16** ขอให้พระองค์ทรงประทานแก่พวกท่าน ตามความมั่งคั่งแห่งพระสิริของพระองค์ ให้ทรงเสริมกำลังด้วยฤทธิ์อำนาจ โดยพระวิญญาณของพระองค์ ในมนุษย์ภายในของพวกท่าน
+**16** ขอให้พระองค์ทรงประทานแก่พวกท่าน ตามความมั่งคั่งแห่งพระสิริของพระองค์ ให้พวกท่านได้รับการเสริมกำลังด้วยฤทธิ์อำนาจ โดยพระวิญญาณของพระองค์ ในมนุษย์ภายในของพวกท่าน
 
 > ___
 
@@ -678,10 +678,10 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/ephesians_01.json` | `25b6b92e8fa22a1389d985ec795f3bfd27973de8e2847097f39929de798a3720` |
-| `output/translations/ephesians_02.json` | `89ba340825bb1ab5e0feb2b72d48edfe7e6521c75ca5188e9800625d6c43494a` |
-| `output/translations/ephesians_03.json` | `0b6542e76349f9fe987bced658a7a4f666d8a4d4192737c716db2c2e897ea711` |
-| `output/translations/ephesians_04.json` | `d92a86a8a77bc664eb9daad7ad531a32cc0bf2a4a57181988793cea7fc6411d3` |
-| `output/translations/ephesians_05.json` | `d3ae2d5ebf6f6aecaef2ca0d34d829ea75ea5053f4b58b65140a33f38da2cba7` |
-| `output/translations/ephesians_06.json` | `44808c304430c79a62af207a9332620ec1c006775237edd8976b4205746f76b4` |
+| `output/translations/ephesians_01.json` | `8b6d968b30752939679935d4bb5182b8b0ebc55cbd5fe6887600a08f23ae394d` |
+| `output/translations/ephesians_02.json` | `a3f481e7d9e9bbf1401ae13d73830dd03de437c3cb20150f33f87171704a4d4f` |
+| `output/translations/ephesians_03.json` | `ac6f933eccf9e91c5ab9c4cf892f80609040ae3a042c129dafa92f1ea401bd76` |
+| `output/translations/ephesians_04.json` | `555efe6e2532cc6fda5500504f433749f23fc968ef4b898ab2e4fb6efa1dbb4f` |
+| `output/translations/ephesians_05.json` | `219b4d7f219a6ddfe80170a5c41f691257ec2b24ba253b682a3b825096fc678b` |
+| `output/translations/ephesians_06.json` | `f4f5c466950a17ef4e0e8ab32f100b2c51f55d23c758419e96d504d4c8066b7c` |
 
