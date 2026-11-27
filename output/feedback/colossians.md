@@ -142,7 +142,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**29** เพื่อการนี้ ข้าพเจ้าตรากตรำและต่อสู้ ตามฤทธิ์อำนาจของพระองค์ที่ทรงกระทำกิจในข้าพเจ้าด้วยฤทธิ์
+**29** เพื่อการนี้ ข้าพเจ้าตรากตรำและต่อสู้ ตามฤทธิ์อำนาจของพระองค์ซึ่งออกฤทธิ์อย่างแรงกล้าในข้าพเจ้า
 
 > ___
 
@@ -394,7 +394,7 @@ _This **feedback edition** is the plain Thai translation with a `>` placeholder 
 
 > ___
 
-**12** เอปาฟรัส คนหนึ่งในพวกท่านและเป็นทาสของพระเยซูคริสต์ ฝากความคิดถึงมายังพวกท่าน เขาต่อสู้ในคำอธิษฐานเพื่อพวกท่านเสมอ เพื่อพวกท่านจะยืนหยัดเป็นผู้ที่ดีพร้อมและมีความมั่นใจอันบริบูรณ์ในพระประสงค์ทั้งสิ้นของพระเจ้า
+**12** เอปาฟรัส คนหนึ่งในพวกท่านและเป็นทาสของพระคริสต์ ฝากความคิดถึงมายังพวกท่าน เขาต่อสู้ในคำอธิษฐานเพื่อพวกท่านเสมอ เพื่อพวกท่านจะยืนหยัดเป็นผู้ที่ดีพร้อมและมีความมั่นใจอันบริบูรณ์ในพระประสงค์ทั้งสิ้นของพระเจ้า
 
 > ___
 
@@ -430,8 +430,8 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 
 | Chapter file | SHA-256 |
 |---|---|
-| `output/translations/colossians_01.json` | `8043cfc102abf4a3aba393a0e1679e3b6a99366cab5adbfe1eb480851b4b835a` |
-| `output/translations/colossians_02.json` | `46185f6657c0ed14f5649aedf7dddbd5cd2d9abe2ca70cbc1f87646a8e205684` |
-| `output/translations/colossians_03.json` | `f30510468833d635deb3f29efe2e8e3630453c80dbdbbd4cb7d3a6657c24ea4c` |
-| `output/translations/colossians_04.json` | `51b72170b16ef5fa24ae032d44a679979cdb3f923836c1c6c160e92e65a673d5` |
+| `output/translations/colossians_01.json` | `f892f5343a4c70f3c88fdd16b5e3662c0b80bf7466201eb324297d86e0a59148` |
+| `output/translations/colossians_02.json` | `36507c8bc459a916989f0e06ef2c4ce4ff8058aca2861fdd6a74d14e446c1f34` |
+| `output/translations/colossians_03.json` | `d0978484b0a57e06557c498dca45b2485b3708157b49f12299e0c2eff10c575a` |
+| `output/translations/colossians_04.json` | `681df28f3ef45648f92a9a123f1e621cb84bab691f2b0ecf5d7ff81bdb09462b` |
 
