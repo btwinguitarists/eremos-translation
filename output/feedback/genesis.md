@@ -1994,7 +1994,7 @@ _**องค์พระผู้เป็นเจ้า** ในข้อ 1 (�
 
 > ___
 
-**3** อับราฮัมพูดว่า “องค์เจ้านาย ถ้าข้าพระองค์เป็นที่โปรดปรานในสายตาของท่าน โปรดอย่าผ่านผู้รับใช้ของท่านไปเลย
+**3** อับราฮัมพูดว่า “ข้าแต่ท่านนาย ถ้าข้าพระองค์เป็นที่โปรดปรานในสายตาของท่าน โปรดอย่าผ่านผู้รับใช้ของท่านไปเลย
 
 > ___
 
@@ -2124,7 +2124,7 @@ _**องค์พระผู้เป็นเจ้า** ในข้อ 1 (�
 
 **ข้อ 1** — หมายเหตุการแปลพระนามของพระเจ้า
 
-_**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏที่ข้อ 1, 13, 14, 17, 19 [2 ครั้ง], 20, 22, 26, 33) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงโดยทั่วไปว่า "ยาห์เวห์" Yahweh) ในข้อ 27, 30, 31, 32 ใช้ אֲדֹנָי (อาโดนาย) เดี่ยวๆ — เนื่องจากอับราฮัมระบุชัดเจนว่ากำลังกราบทูลพระเจ้า ฉบับเอเรโมสจึงแปลเป็น **องค์เจ้านาย** ตามนโยบาย Adonai-standalone-of-God ในข้อ 3 ว่ามีรูปแบบเดียวกันแต่เริ่มต้น Abraham ต้อนรับแขกอย่างมีมารยาท เอเรโมสใช้ **นายเจ้าข้า** (มารยาทเริ่มต้น) เพื่อแสดงให้เห็นว่าการรู้จักพระเจ้ายังคงพัฒนา — ดูรายละเอียดเพิ่มเติมที่ docs/translator_decisions/divine_names_table_2026-05.md_
+_**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏที่ข้อ 1, 13, 14, 17, 19 [2 ครั้ง], 20, 22, 26, 33) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงโดยทั่วไปว่า "ยาห์เวห์" Yahweh) ในข้อ 27, 30, 31, 32 ใช้ אֲדֹנָי (อาโดนาย) เดี่ยวๆ — เนื่องจากอับราฮัมระบุชัดเจนว่ากำลังกราบทูลพระเจ้า ฉบับเอเรโมสจึงแปลเป็น **องค์เจ้านาย** ตามนโยบาย Adonai-standalone-of-God ในข้อ 3 ว่ามีรูปแบบเดียวกันแต่เริ่มต้น Abraham ต้อนรับแขกอย่างมีมารยาท เอเรโมสใช้ **ข้าแต่ท่านนาย** (มารยาทเริ่มต้น) เพื่อแสดงให้เห็นว่าการรู้จักพระเจ้ายังคงพัฒนา — ดูรายละเอียดเพิ่มเติมที่ docs/translator_decisions/divine_names_table_2026-05.md_
 
 **ข้อ 22** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
 
@@ -3026,7 +3026,7 @@ _ในข้อ 6 ชาวฮิตไทต์เรียกอับรา�
 
 **ข้อ 1** — หมายเหตุการแปลพระนามของพระเจ้า
 
-_**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏที่ข้อ 1, 3, 7, 12 [2 ครั้ง], 21, 26, 27 [3 ครั้ง], 31, 35, 40, 42 [2 ครั้ง], 44, 48 [2 ครั้ง], 50, 51, 52, 56) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงโดยทั่วไปว่า "ยาห์เวห์" Yahweh) — บทที่ 24 เป็นบทที่ใช้ יהוה มากที่สุดในเรื่องเล่าของอับราฮัม สะท้อนให้เห็นว่าเรื่องการเลือกเรเบคาห์เป็นการกระทำของพระเจ้าที่ทรงอำนาจอธิปไตยอย่างเด่นชัด นอกจากนั้น คนรับใช้และครอบครัวของลาบันยังเรียกอับราฮัมว่า אֲדֹנִי ('นายของข้า') บ่อยครั้ง (vv.10, 14, 18, 27 ['ทรงนำ אֲדֹנִי'], 36, 37, 39, 49, 54, 65) — เป็นการใช้ Adonai-of-humans (เอกพจน์-honorific) สำหรับการเรียกคนตามมารยาท ไม่ใช่พระนามของพระเจ้า — ดูรายละเอียดเพิ่มเติมที่ docs/translator_decisions/divine_names_table_2026-05.md_
+_**องค์พระผู้เป็นเจ้า** ในบทนี้ (ปรากฏที่ข้อ 1, 3, 7, 12 [2 ครั้ง], 21, 26, 27 [3 ครั้ง], 31, 35, 40, 42 [2 ครั้ง], 44, 48 [2 ครั้ง], 50, 51, 52, 56) แปลจากภาษาฮีบรู יהוה (พระนามเฉพาะของพระเจ้า ออกเสียงโดยทั่วไปว่า "ยาห์เวห์" Yahweh) — บทที่ 24 เป็นบทที่ใช้ יהוה มากที่สุดในเรื่องเล่าของอับราฮัม สะท้อนให้เห็นว่าเรื่องการเลือกเรเบคาห์เป็นการกระทำของพระเจ้าที่ทรงอำนาจอธิปไตยอย่างเด่นชัด เมื่อคนรับใช้เรียกอับราฮัมว่า “นายของข้าพเจ้า” เช่นในข้อ 14 คำนี้หมายถึงนายที่เป็นมนุษย์ ในข้อ 18 เรเบคาห์ใช้คำนี้กับคนรับใช้ที่ขอน้ำดื่ม ส่วนในข้อ 65 คนรับใช้ใช้คำนี้กล่าวถึงอิสอัคที่กำลังเดินมา — ดูรายละเอียดเพิ่มเติมที่ docs/translator_decisions/divine_names_table_2026-05.md_
 
 **ข้อ 3** — ขาดในต้นฉบับวิจารณ์ (SBLGNT)
 
@@ -6936,7 +6936,7 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/genesis_03.json` | `66259ec167c2d58ae94914f6e63fcd59f6c50f91217aa8f0dbeea066a6ac7d63` |
 | `output/translations/genesis_04.json` | `dbd27c38ad5367d09d86481d1c3759595b48cf0db9c2e6bb1ddea1c69f5f5ecf` |
 | `output/translations/genesis_05.json` | `36977f163b5fdb3034c87617820f570e9f610b5cd54d3cf4f850808ca08a5b69` |
-| `output/translations/genesis_06.json` | `36c1f6c68d280e1c31922f86ad047a31399c3d31fdf7e485e5979d4ffa0f97bb` |
+| `output/translations/genesis_06.json` | `b37dcf51be27e2ce11f114bfcb581498c254388bbf7610a5bdde57ba363c9107` |
 | `output/translations/genesis_07.json` | `3949a352387787d9f50156b7b5d7d285829845cd84f1b885b0cd2e030210086c` |
 | `output/translations/genesis_08.json` | `73681ec9b6c0ab4ffa84f2705056420979a53442f07ac493259c94a6e3724646` |
 | `output/translations/genesis_09.json` | `1f3fc8b53770717145a7605359566af107c1d6ae72811d36da8a81f33759d75a` |
@@ -6948,26 +6948,26 @@ Each chapter's source JSON has a SHA-256 fingerprint. Anyone can recompute and v
 | `output/translations/genesis_15.json` | `de65e4c44ba203b8886bf498a12ba511e04cd6a4a4911fe4e62d4fef734577e3` |
 | `output/translations/genesis_16.json` | `f41b3c2468c04a442d8be423b2c6e3c8c7dcf1ab1ac2a2022e6f9f26eff3c8cc` |
 | `output/translations/genesis_17.json` | `e1223da305adab1b393155a86eecae96991c388640b28fe2d7c52ba92b9a9a03` |
-| `output/translations/genesis_18.json` | `b6bd71da4a269f6e8ae642cb43d9448461505cdddf4d1e44b8efaa7e3e3b8f88` |
+| `output/translations/genesis_18.json` | `6abd48b2251577c19c0156748d58b185f9b21e8e6248b31b6e1dd45f347ed19c` |
 | `output/translations/genesis_19.json` | `36ea94d17c7300c88dfdb33efe8cf5f6b40b2994e0f3e57a9c59984da599204b` |
 | `output/translations/genesis_20.json` | `6c4f2561b05deee37af2992d828c64bdd539674851c70787a202998830838caf` |
 | `output/translations/genesis_21.json` | `28a8e7312bf3a8d3b81e01f7f8547330656cb32e32b0836542fc41484efcc800` |
-| `output/translations/genesis_22.json` | `f92da01b62777418ef284a286054be45370e0463f11c14a491fe4cb351fac88d` |
+| `output/translations/genesis_22.json` | `b10aed2d9cd05e9791812df2fb653c86c2f63143142731d15bd2179047dabf46` |
 | `output/translations/genesis_23.json` | `002a9c94449e3d6ddf2ce20caa07fce314ffc9efc286c5cd24c353c916c3a2a7` |
-| `output/translations/genesis_24.json` | `2b664679e2ec6b0b9eed4700ad1aa829d905610cbd2e2b478f9daee8d3686eb2` |
+| `output/translations/genesis_24.json` | `9b748b6dc1919703913536e6935774fdc52810f3d41a72fd9c24a60bdac42ea2` |
 | `output/translations/genesis_25.json` | `e179b900e2f20590cb01e7e4d5777ef9585073dd5b06fe84b79dd1d1f657d0c5` |
 | `output/translations/genesis_26.json` | `71b48e03ef7eda18f21820a4ea9ff5bd6c9ed78dd45ca77eadd9faaf2b93d6d4` |
 | `output/translations/genesis_27.json` | `934ee837a88725f6f7beb50bb02c46103a041264fd415b42705b351a0a174b3d` |
 | `output/translations/genesis_28.json` | `0254e8dcf247c7f49f838c8a766e3a465b79232ed85e43050363b64b3a4ebfec` |
-| `output/translations/genesis_29.json` | `3d84b4fc0d68ade2481f3a4dee2188192c62d884ffe823a593bacdbd9273ca8d` |
-| `output/translations/genesis_30.json` | `03f7268ab8ded17bb312453536561eebde8c73bae3cd3e0f3f7c8229933f8cf8` |
+| `output/translations/genesis_29.json` | `607394f0e9fcac6727e9c6faedbdf91bfcf356c7f4956774fb3dfe329b45deb2` |
+| `output/translations/genesis_30.json` | `5c90202983483fb28b0ec925aad0ae042e15a8823a7560b25479b2084e909a10` |
 | `output/translations/genesis_31.json` | `b5f6c7ef36417a5c699ac29540550026d82ee47bcb974578c4b60c3f42e3ab73` |
 | `output/translations/genesis_32.json` | `12fda08d7db9f589ec47d78ad7f0cc7ad77e263d7190706df3222ea1d617a996` |
 | `output/translations/genesis_33.json` | `00abf556eb7457ab41d5f8a6c484c38184a0dc48d73764ed661caeba88a93049` |
-| `output/translations/genesis_34.json` | `ef95938a0068d8b433768fd63e74d491618c86ac9b2069085f04439067ac3c0d` |
-| `output/translations/genesis_35.json` | `a9c352466e5f29c6dd2606996bd256f6ec9f2651eefdd495e8d92d04abd4cc3b` |
-| `output/translations/genesis_36.json` | `54e3eb33957732b19162fe9e964389aa1dd247465606e14fdaff436c12e434bf` |
-| `output/translations/genesis_37.json` | `3369e5b00dac9486fc8d29891d68161498c80e240f6af6c6e2d1ef82e9b23aa3` |
+| `output/translations/genesis_34.json` | `38a32a15ba4b924ff22444cda04bf1e8cba65f63cfc8d87a2e65cf7c8c116a90` |
+| `output/translations/genesis_35.json` | `e7d668eecb3e7f9cf331bdb2812f32cdc70da332d48498a272c14715ef66da48` |
+| `output/translations/genesis_36.json` | `9842f368a0d115945a28b0e77a6a3da6f460e0113457b84a27bd363270fbf4f1` |
+| `output/translations/genesis_37.json` | `31f608a3106bcd2be94e294bd1310bbf1fbe02a591fc5934f407d95a94f6463b` |
 | `output/translations/genesis_38.json` | `114e12c580802a10da6c6d24d32b23fbe07aeecd72b48fa7d16c783d3539bea3` |
 | `output/translations/genesis_39.json` | `32c16f9179ee74aa2fe474b3c967679e31bbb369234d48a4291c2773586d2eb2` |
 | `output/translations/genesis_40.json` | `320c4f3ebf9435f0789fafb07c9f0972c4dd00eeeeb145ceb1714ac80ff8a90f` |
